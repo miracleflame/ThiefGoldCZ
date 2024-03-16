@@ -1,0 +1,279 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"sg106201" { TEXT "Slows down the intruders, though." }
+	SUB	"sg106203" { TEXT "Well, this vase situation might give you all the action you need." }
+	SUB	"SG106400" { TEXT "Donal and Rueben can kill each other for all I care. While they fight over the vase, they stay out of my way." }
+	SUB	"SG106402" { TEXT "Yeah, but it's not like it's doing Donal any good, since Lord Rueben has the key to the lock up." }
+	SUB	"SG107100" { TEXT "Password." }
+	SUB	"SG107102" { TEXT "(Quoting) 'Security is necessary to prevent exposure and dilution of talent.' Do you want to argue with the lords? Now what's the password?" }
+	SUB	"SG107104" { TEXT "Well, now he hasn't given me the password." }
+	SUB	"sg107106" { TEXT "(Quoting) 'Security is necessary to pre--'" }
+	SUB	"SG110101" { TEXT "We're here to keep a watch on the commons and to deal with mundane threats. The mages can protect themselves." }
+	SUB	"SG110103" { TEXT "I found it best not to ask questions. The gold they give me answers all the questions I have." }
+	SUB	"sg110201" { TEXT "Any intruders better hope we get to ‘em first before the Hand Mages do." }
+	SUB	"sg110500" { TEXT "Hey Bertram, how's your first night of guard duty?" }
+	SUB	"sg110502" { TEXT "You know, if you look up at the towers, sometimes you can see strange lights and smoke swarming around the tower tops. That's where they do all their 'special' stuff." }
+	SUB	"sg110504" { TEXT "Be glad you can't get in. Those towers hold...unnatural things. They play with the elements in ways us common folk don't wanna understand. Me? I'm happier out here where it's safe." }
+	SUB	"sg112300" { TEXT "Just so you're clear: if there's any trouble, we double the guard on Lady Valerius's rooms." }
+	SUB	"sg112302" { TEXT "But seeing as you're a guard, and not a thief, you're clear on where to go if there's trouble?" }
+	SUB	"SG112304" { TEXT "When you're a captain, you can choose to guard whatever you like. Until then, let's hear it: Where do you go if there's trouble?" }
+	SUB	"sg112306" { TEXT "Good. When you're done moping I suggest you get on with your patrol." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"sg117100" { TEXT "It's curtain time for you thief!" }
+	SUB	"sg117101" { TEXT "I hope you like tragic endings!" }
+	SUB	"sg117102" { TEXT "All right, show's over thief!" }
+	SUB	"SG1A1__1" { TEXT "Hmm.... Someone there?" }
+	SUB	"SG1A1__2" { TEXT "Huh... Something there?" }
+	SUB	"SG1A1__3" { TEXT "Who's there? Hello?" }
+	SUB	"SG1A1__4" { TEXT "What's going on over there?" }
+	SUB	"SG1A1__5" { TEXT "Hey, what was that?" }
+	SUB	"SG1A1__6" { TEXT "Hmm...." }
+	SUB	"SG1A1_W1" { TEXT "Look. Over there...." }
+	SUB	"sg1a1_w2" { TEXT "Psst! Over there." }
+	SUB	"sg1a1h_1" { TEXT "Hmm.... Thought I heard something...." }
+	SUB	"sg1a1h_2" { TEXT "What was that noise?" }
+	SUB	"sg1a1h_3" { TEXT "Odd noise." }
+	SUB	"sg1a1hw1" { TEXT "Did you hear something?" }
+	SUB	"sg1a1hw2" { TEXT "Did you hear that?" }
+	SUB	"sg1a1hw3" { TEXT "Shh! I hear something." }
+	SUB	"sg1a1hw4" { TEXT "Hear that?" }
+	SUB	"sg1a1v_1" { TEXT "Hmm.... Thought I saw something." }
+	SUB	"sg1a1v_2" { TEXT "What'd I see there?" }
+	SUB	"sg1a1vw1" { TEXT "Did you see something over there?" }
+	SUB	"sg1a1vw2" { TEXT "Hey! Did you see someone over there?" }
+	SUB	"sg1a1vw3" { TEXT "Did you see that too?" }
+	SUB	"sg1a1vw4" { TEXT "Look there!" }
+	SUB	"SG1A2__1" { TEXT "Who's that there? Identify yourself!" }
+	SUB	"sg1a2__2" { TEXT "Over there! Stand forth and declare yourself!" }
+	SUB	"sg1a2__3" { TEXT "All right...what is that?" }
+	SUB	"sg1a2__4" { TEXT "Who's creeping around there?" }
+	SUB	"sg1a2__5" { TEXT "Show yourself!" }
+	SUB	"sg1a2h_1" { TEXT "All right, I hear you! Come out in the open at once." }
+	SUB	"sg1a2h_2" { TEXT "I heard that! Stop right there!" }
+	SUB	"sg1a2h_3" { TEXT "Come out you! I heard that!" }
+	SUB	"sg1a2se1" { TEXT "Don't think you can hide for long!" }
+	SUB	"sg1a2se2" { TEXT "Come on now.... Come on!" }
+	SUB	"sg1a2se3" { TEXT "I know you're around here somewhere." }
+	SUB	"sg1a2se4" { TEXT "Don't worry, I'll find out!" }
+	SUB	"sg1a2v_1" { TEXT "I see you there! Come out!" }
+	SUB	"SG1A3__1" { TEXT "Hah!" }
+	SUB	"sg1a3__2" { TEXT "Hey!" }
+	SUB	"sg1a3b_1" { TEXT "You killed him! Stay right there." }
+	SUB	"sg1a3na1" { TEXT "Stop at once and put your hands up!" }
+	SUB	"sg1a3na2" { TEXT "Turn around very slowly and put your hands on your head." }
+	SUB	"sg1a3na3" { TEXT "Drop that weapon! Don't move!" }
+	SUB	"sg1a3na4" { TEXT "Halt!" }
+	SUB	"sg1a3na5" { TEXT "Hey! You over there, don't move!" }
+	SUB	"sg1a3na6" { TEXT "Halt thief, I see you there!" }
+	SUB	"SG1A3NA7" { TEXT "Hold it right there Garrett! Move and you're dead!" }
+	SUB	"sg1a3s_1" { TEXT "Hah! Who are you?!" }
+	SUB	"sg1a3s_2" { TEXT "Hey, where'd you come from?" }
+	SUB	"sg1a3s_3" { TEXT "Hey! Hold it right there, taffer!" }
+	SUB	"sg1a3s_4" { TEXT "Hey!" }
+	SUB	"sg1a3se1" { TEXT "Come out and fight me!" }
+	SUB	"sg1a3se2" { TEXT "As soon as I find you, you're dead!" }
+	SUB	"sg1a3se3" { TEXT "Come back out here, you taffer!" }
+	SUB	"sg1a3se4" { TEXT "I'll find you.... Aaaah, damn you!" }
+	SUB	"sg1alma1" { TEXT "To arms, all!" }
+	SUB	"sg1alma2" { TEXT "Sound the alarm!" }
+	SUB	"sg1alma3" { TEXT "The alarm!" }
+	SUB	"sg1almw1" { TEXT "Go! Sound the alarm!" }
+	SUB	"sg1almw2" { TEXT "Sound the alarm!" }
+	SUB	"sg1amb_1" { TEXT "Come out and fight!" }
+	SUB	"sg1amb_2" { TEXT "Fight me like a man, you sneak!" }
+	SUB	"sg1amb_3" { TEXT "Where are you, you coward?" }
+	SUB	"sg1amb_4" { TEXT "Come into the open and try that again!" }
+	SUB	"sg1ambw1" { TEXT "Help, I've been hit!" }
+	SUB	"sg1ambw2" { TEXT "Help me, I've been shot!" }
+	SUB	"sg1ambw3" { TEXT "Uuuugh, sniper!" }
+	SUB	"sg1atb_1" { TEXT "You're a pincushion now, taffer!" }
+	SUB	"sg1atb_2" { TEXT "Here's an arrow for ya!" }
+	SUB	"sg1atb_3" { TEXT "You'll be full a' holes, soon!" }
+	SUB	"sg1atn_1" { TEXT "Take that!" }
+	SUB	"sg1atn_2" { TEXT "Have at you!" }
+	SUB	"sg1atw_1" { TEXT "Die taffer!" }
+	SUB	"sg1atw_2" { TEXT "How's this feel?" }
+	SUB	"sg1atww1" { TEXT "We've got him now!" }
+	SUB	"sg1bak_1" { TEXT "Hmm.... Nothing there now." }
+	SUB	"sg1bak_2" { TEXT "Seems peaceful enough, now." }
+	SUB	"sg1bak_3" { TEXT "Oh well.... Must've been nothing." }
+	SUB	"sg1bak_4" { TEXT "Hmm.... Must a' been rats." }
+	SUB	"sg1bak_5" { TEXT "Aaahh, don't see anything now." }
+	SUB	"sg1bak_6" { TEXT "Just the wind, I guess." }
+	SUB	"sg1bak_7" { TEXT "Hmm.... Noise stopped. Guess it was nothing." }
+	SUB	"sg1bak_8" { TEXT "Nothing now." }
+	SUB	"sg1bkd_1" { TEXT "Next time I'll see blood!" }
+	SUB	"sg1bkd_2" { TEXT "Think you're so clever!" }
+	SUB	"sg1bkd_3" { TEXT "Damn you're fast!" }
+	SUB	"sg1bkdw1" { TEXT "We're not getting through." }
+	SUB	"sg1blk_1" { TEXT "Not so fast are ya?" }
+	SUB	"sg1blk_2" { TEXT "Thought ya had me!" }
+	SUB	"sg1blk_3" { TEXT "Not this time!" }
+	SUB	"sg1blkw1" { TEXT "He's not so tough, is he?" }
+	SUB	"sg1bod_1" { TEXT "Wait! Wait! Murder!" }
+	SUB	"sg1bod_2" { TEXT "Hey! Assassin! Murder!" }
+	SUB	"sg1bod_3" { TEXT "Murder!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"sg1c0601" { TEXT "Play you again?" }
+	SUB	"sg1c0603" { TEXT "Here, I'll let you guess first." }
+	SUB	"sg1c0605" { TEXT "Come on, low bets! Just one." }
+	SUB	"sg1c0607" { TEXT "Okay, here: Stone or coin?" }
+	SUB	"sg1c0609" { TEXT "Nope!" }
+	SUB	"sg1c0611" { TEXT "Double or nothing?" }
+	SUB	"sg1c0613" { TEXT "Coin!" }
+	SUB	"sg1c0615" { TEXT "Double or nothing, again?" }
+	SUB	"sg1c0701" { TEXT "Nothing ever happens on this job!" }
+	SUB	"sg1c0703" { TEXT "So dull, just patrol around in circles." }
+	SUB	"sg1c0705" { TEXT "At least then I was meeting people." }
+	SUB	"sg1c0707" { TEXT "Aaah! Boring, boring, boring...." }
+	SUB	"sg1c0801" { TEXT "You get any of that pheasant tonight?" }
+	SUB	"sg1c0803" { TEXT "Too bad. It was good." }
+	SUB	"sg1c0805" { TEXT "(Laughs) Nah, Cook keeps the leftovers!" }
+	SUB	"sg1c0901" { TEXT "I thought Quince and Jacow were on watch tonight." }
+	SUB	"sg1c0903" { TEXT "I've heard of him.... Garrett. No one to be trifled with, that's what I heard." }
+	SUB	"sg1c1001" { TEXT "Say, where are Hal and Joss tonight?" }
+	SUB	"sg1c1003" { TEXT "What a crummy lot to draw with the master on vacation." }
+	SUB	"sg1c1005" { TEXT "Right-o." }
+	SUB	"sg1c1201" { TEXT "I hear you're going to be assigned monster babysitting." }
+	SUB	"sg1c1203" { TEXT "The boss thinks his nasties don't get enough affection. You'll be down there rubbin' their tummies!" }
+	SUB	"sg1c1302" { TEXT "That black and silver? Yeah...nice." }
+	SUB	"sg1c1304" { TEXT "Hah! You'd poke your eye out." }
+	SUB	"sg1c1401" { TEXT "I hear Grandmauden is gonna put in some Hammer-built security." }
+	SUB	"sg1c1403" { TEXT "Yeah." }
+	SUB	"sg1c1405" { TEXT "Heh heh, ha ha! That'd teach ‘em." }
+	SUB	"sg1c1502" { TEXT "Yeah, he's taffing you. Where are they gonna put the poor saps they grab?" }
+	SUB	"sg1c1504" { TEXT "Kind of sad. They used to be the power. Now they're just a bunch of guys wishing for the old days." }
+	SUB	"sg1c1801" { TEXT "So I hear, the guys that clean the sewers, keep the pumps working, all that...?" }
+	SUB	"sg1c1803" { TEXT "I hear they've been vanishing... Poof! Turning up in missing bits and pieces. Like their heads." }
+	SUB	"sg1c1805" { TEXT "Bet we don't get to count on flushing anything much longer." }
+	SUB	"sg1c1901" { TEXT "I've been thinking...: The Sir could really beef up security some." }
+	SUB	"sg1c1903" { TEXT "Well we're fine, but I've been thinking we should watch the outside some more." }
+	SUB	"sg1c1905" { TEXT "No, then you catch them before they get inside, you taffer!" }
+	SUB	"sg1c2101" { TEXT "Can't stand the food here! Ahh, this place!" }
+	SUB	"sg1c2103" { TEXT "Yeah, well, later maybe." }
+	SUB	"sg1c2202" { TEXT "Probably not...but don't soft up, though." }
+	SUB	"sg1c2301" { TEXT "Boss was dangerous today." }
+	SUB	"sg1c2303" { TEXT "Heh, yeah I told her! Good moods, that's the worst!" }
+	SUB	"sg1c2402" { TEXT "Yeah, nice." }
+	SUB	"sg1c2601" { TEXT "I can't believe how bad Wayside's got. Guy tried to rob me--broad daylight!--just the other day." }
+	SUB	"sg1c2603" { TEXT "Hey, my sister lives down that way!" }
+	SUB	"sg1c3001" { TEXT "How's it goin'?" }
+	SUB	"sg1c3101" { TEXT "Good watch." }
+	SUB	"sg1c3202" { TEXT "Nope. Pretty quiet." }
+	SUB	"sg1c3602" { TEXT "Not much here." }
+	SUB	"sg1c3701" { TEXT "I hate night watch." }
+	SUB	"sg1c3802" { TEXT "It's me, you taffer!" }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"sg1chga1" { TEXT "That's it! You've had it!" }
+	SUB	"sg1chga2" { TEXT "You're dog meat!" }
+	SUB	"sg1chgw1" { TEXT "We'll teach him to mess with us!" }
+	SUB	"sg1chgw2" { TEXT "Take him!" }
+	SUB	"sg1chgw3" { TEXT "After him!" }
+	SUB	"sg1det_1" { TEXT "Scared are we?" }
+	SUB	"sg1det_2" { TEXT "Turn and run next!" }
+	SUB	"sg1det_3" { TEXT "Don't want to get hit taffer?" }
+	SUB	"sg1detw1" { TEXT "He's on the defense, now!" }
+	SUB	"sg1hit_1" { TEXT "How's that?" }
+	SUB	"sg1hit_2" { TEXT "See some blood?" }
+	SUB	"sg1hit_3" { TEXT "That'll show ya!" }
+	SUB	"sg1hit_4" { TEXT "There!" }
+	SUB	"sg1hitw1" { TEXT "We've got 'im!" }
+	SUB	"sg1hitw2" { TEXT "He's ours now!" }
+	SUB	"sg1hlow1" { TEXT "Uuughhh! Help me!" }
+	SUB	"sg1hnd_1" { TEXT "Didn't even scratch!" }
+	SUB	"sg1hnd_2" { TEXT "(Taunting) Ooo! I think a baby bird pecked me!" }
+	SUB	"sg1hnd_3" { TEXT "You'll have to do better than that, taffer!" }
+	SUB	"sg1lar_1" { TEXT "This is a disaster.... Help!" }
+	SUB	"sg1lar_2" { TEXT "Oh no, the Sir will have our heads!" }
+	SUB	"sg1lar_3" { TEXT "Curse it. Get some help here!" }
+	SUB	"sg1los_1" { TEXT "Damn, where'd he go?" }
+	SUB	"sg1los_2" { TEXT "He was just there! Where is he?" }
+	SUB	"sg1los_3" { TEXT "Lost him! No good." }
+	SUB	"sg1los_4" { TEXT "Damn! Lost him." }
+}
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"sg1m0201" { TEXT "Help! We're under attack!" }
+	SUB	"SG1M0500" { TEXT "Yes, I'm sure it was Garrett in the window. He's dead. Let's head back now." }
+	SUB	"sg1m0501" { TEXT "Look, it's him! He's been following us!" }
+	SUB	"sg1m0502" { TEXT "It's him what killed the boss! After him!" }
+	SUB	"sg1m0503" { TEXT "Stop.... Is someone following us?" }
+	SUB	"sg1m0504" { TEXT "Thought I heard someone back there." }
+	SUB	"sg1m0505" { TEXT "Stop.... I think someone's after us." }
+	SUB	"sg1m0506" { TEXT "It's him! He's getting away. Raise the alarm!" }
+	SUB	"sg1m0507" { TEXT "It's him! Let's finish the job!" }
+	SUB	"sg1m0508" { TEXT "Someone behind us?" }
+	SUB	"sg1m0509" { TEXT "Think there's someone back there?" }
+	SUB	"sg1m0510" { TEXT "There's someone following us." }
+	SUB	"sg1mis_1" { TEXT "Thief! Thief in the house!" }
+	SUB	"sg1mis_2" { TEXT "Hey, where'd that go?" }
+	SUB	"sg1mis_3" { TEXT "Scepter's missing! Sir will have my head!" }
+	SUB	"sg1mis_4" { TEXT "The thief's got the sword!" }
+	SUB	"SG1MIS_5" { TEXT "The vase has been snagged!" }
+	SUB	"SG1MIS_6" { TEXT "Something seems to be missing." }
+	SUB	"sg1rbod1" { TEXT "There's a killer on the loose. There's been a murder already." }
+	SUB	"sg1rbod2" { TEXT "Watch for assassins. The night's seen enough blood already." }
+	SUB	"sg1rbod3" { TEXT "Someone's killed Kevel. Watch out!" }
+	SUB	"sg1rbod4" { TEXT "Thief's done murder. Watch it." }
+	SUB	"sg1rint1" { TEXT "Keep your eyes open. There's a prowler running around loose." }
+	SUB	"sg1rint2" { TEXT "I saw an intruder earlier. Stay sharp." }
+	SUB	"sg1rint3" { TEXT "The thief's in the building." }
+	SUB	"SG1RINT4" { TEXT "There's a stranger causing trouble. Keep your eyes peeled." }
+	SUB	"SG1RINT5" { TEXT "Somebody snagged the vase. Looks like things are gonna get ugly." }
+	SUB	"SG1RINT6" { TEXT "Somebody's cutting into my action." }
+	SUB	"SG1RINT7" { TEXT "Some taffer is taking whatever he pleases. Keep alert." }
+	SUB	"sg1rmis1" { TEXT "Tell the Sir he's been robbed!" }
+	SUB	"sg1rmis2" { TEXT "Tell the others there's a thief about. We've been robbed!" }
+	SUB	"sg1rmis3" { TEXT "Why don't you tell the Sir the scepter's gone?" }
+	SUB	"sg1rmis4" { TEXT "Sword's gone!" }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"sg1roth1" { TEXT "Anything here? There was something a little while ago." }
+	SUB	"sg1roth2" { TEXT "Keep alert. I think I saw something." }
+	SUB	"sg1roth3" { TEXT "I'm pretty sure there's someone in the building." }
+	SUB	"sg1roth4" { TEXT "The thief's in!" }
+	SUB	"sg1runa1" { TEXT "Over here! Guards!" }
+	SUB	"sg1runa2" { TEXT "This way! Beware an intruder!" }
+	SUB	"sg1runa3" { TEXT "Guards! Back up! Here!" }
+	SUB	"sg1runa4" { TEXT "This way! Thief!" }
+	SUB	"sg1sec_1" { TEXT "Hey, there's an intruder!" }
+	SUB	"sg1sec_2" { TEXT "What's with this?" }
+	SUB	"sg1sec_3" { TEXT "Over here!" }
+	SUB	"sg1sec_4" { TEXT "Thief in the building!" }
+	SUB	"sg1sma_1" { TEXT "This didn't look like this this morning." }
+	SUB	"sg1sma_2" { TEXT "Someone's been having too much fun here...." }
+	SUB	"sg1sma_3" { TEXT "Who's been here?" }
+	SUB	"sg1sma_4" { TEXT "What's this?" }
+	SUB	"sg1telc1" { TEXT "See him? Mind he doesn't shoot you!" }
+	SUB	"sg1telc2" { TEXT "This way! The intruder's getting away!" }
+	SUB	"sg1telc3" { TEXT "I've spotted him!" }
+	SUB	"sg1telc4" { TEXT "Thief's there!" }
+	SUB	"sg1telc5" { TEXT "The intruder's over here!" }
+	SUB	"sg1telc6" { TEXT "Thief's here!" }
+	SUB	"sg1telc7" { TEXT "It's Garrett!" }
+	SUB	"sg1telr1" { TEXT "Over here! We've got a thief!" }
+	SUB	"sg1telr2" { TEXT "Got a thief here!" }
+	SUB	"sg1telr3" { TEXT "Intruder! We've got a prowler over there!" }
+	SUB	"sg1telr4" { TEXT "We've got an intruder! Quick, he's right over here!" }
+	SUB	"sg1telr5" { TEXT "Hey, I've got a stranger here!" }
+	SUB	"sg1telr6" { TEXT "Garrett's on the grounds. After him!" }
+	SUB	"sg1telr7" { TEXT "We got trouble!" }
+	SUB	"sg1wrn11" { TEXT "This is private property. Be on your way at once." }
+	SUB	"sg1wrn21" { TEXT "I won't say it again, miscreant: Get lost if you want to keep your head!" }
+	SUB	"sg1wrnf1" { TEXT "Okay, scoundrel, you asked for it! " }
+}

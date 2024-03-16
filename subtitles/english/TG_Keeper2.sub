@@ -1,0 +1,22 @@
+SUB1
+
+{
+	TYPE	"urgent"
+	DESCR	"Keeper"
+	SUB	"ke2m0101" { Text "I see you there, lad!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Keeper"
+	SUB	"ke2m0102" { Text "Well done. I did not see you approach." }
+}
+{
+	TYPE	"urgent"
+	DESCR	"Keeper"
+	SUB	"ke2m0103" { Text "I could hear that!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Keeper"
+	SUB	"ke2m0104" { Text "Very good. I did not hear you traverse the room." }
+} 

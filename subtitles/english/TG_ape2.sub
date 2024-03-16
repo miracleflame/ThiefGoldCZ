@@ -1,0 +1,149 @@
+SUB1
+
+{
+	TYPE	"bark"
+	DESCR	"Ape beast"
+	SUB	"ab2a0mu3" { TEXT "I want it...now...goes away...!" }
+	SUB	"ab2a1__1" { TEXT "Eeeh! What's that?" }
+	SUB	"ab2a1__2" { TEXT "Eeeh?" }
+	SUB	"ab2a1__3" { TEXT "Who's in there?" }
+	SUB	"ab2a1__6" { TEXT "What'sie there?" }
+	SUB	"ab2a1_w1" { TEXT "Something theres, you think?" }
+	SUB	"ab2a1h_1" { TEXT "Who's the noisy one?" }
+	SUB	"ab2a1h_2" { TEXT "Twip, twap! [tip tap]" }
+	SUB	"ab2a1h_3" { TEXT "Who said that?" }
+	SUB	"ab2a1hw1" { TEXT "Something...noises about!" }
+	SUB	"ab2a1hw2" { TEXT "Listen, brother-kin! Listen!" }
+	SUB	"ab2a1hw3" { TEXT "Hears that?" }
+	SUB	"ab2a1hw4" { TEXT "Hears you a noise?" }
+	SUB	"ab2a1v_1" { TEXT "Sees that, me?" }
+	SUB	"ab2a1vw1" { TEXT "What'sie that? You see it?" }
+	SUB	"ab2a1vw2" { TEXT "Seesie you that?" }
+	SUB	"ab2a1vw3" { TEXT "Hey, looksie there! Something?" }
+	SUB	"ab2a1vw4" { TEXT "Sees that, my brother-kin?" }
+	SUB	"ab2a1vw5" { TEXT "Are you see something too?" }
+	SUB	"ab2a2__1" { TEXT "Who's there? Comesie out." }
+	SUB	"ab2a2__2" { TEXT "Show yourself, taffer!" }
+	SUB	"ab2a2__3" { TEXT "Come out, come out, thiefsie mouse!" }
+	SUB	"ab2a2__4" { TEXT "That's it! Come out, now!" }
+	SUB	"ab2a2__5" { TEXT "I know you're there now!" }
+	SUB	"ab2a2__6" { TEXT "Finders, keepers... Finding you next!" }
+	SUB	"ab2a2h_1" { TEXT "Shows yourself now, shows your blood later! All the same to me!" }
+	SUB	"ab2a2h_2" { TEXT "Hurts you this time, I did!" }
+	SUB	"ab2a2h_3" { TEXT "Heard that. Heard you!" }
+	SUB	"ab2a2v_1" { TEXT "I saw that!" }
+	SUB	"ab2a3b_1" { TEXT "I sees what you done!" }
+	SUB	"ab2a3na1" { TEXT "Intruder be heres!" }
+	SUB	"ab2a3na2" { TEXT "Not a move, you!" }
+	SUB	"ab2a3na3" { TEXT "Haah, gots you!" }
+	SUB	"ab2a3na4" { TEXT "Hitsies you...aaaahuh!" }
+	SUB	"ab2a3na5" { TEXT "Findsie you, now." }
+	SUB	"ab2a3na6" { TEXT "Here little mouse: fear the cat!" }
+	SUB	"ab2a3na7" { TEXT "Not so tricksie now!" }
+	SUB	"ab2a3s_1" { TEXT "Aah! Stop!" }
+	SUB	"ab2a3s_3" { TEXT "Gah! Whatsie you here?" }
+	SUB	"ab2a3s_4" { TEXT "Hey! Manflesh here!" }
+	SUB	"ab2alma1" { TEXT "To the alarm!" }
+	SUB	"ab2alma2" { TEXT "Speedsie, to the alarm!" }
+	SUB	"ab2alma3" { TEXT "Calls the rest, I will!" }
+	SUB	"ab2almw1" { TEXT "Hurry...sound the alarm!" }
+	SUB	"ab2almw2" { TEXT "To the alarms! Hide a sneaksie one!" }
+	SUB	"ab2amb_1" { TEXT "Here, come out and tries that again!" }
+	SUB	"ab2amb_2" { TEXT "Here, where are you lurksie sniper!" }
+	SUB	"ab2amb_3" { TEXT "Nyuuugh! Come fights me, coward!" }
+	SUB	"ab2amb_4" { TEXT "My bloods calls you traitor!" }
+	SUB	"ab2ambw1" { TEXT "Uuggh.... Ambush!" }
+	SUB	"ab2ambw2" { TEXT "Aaagh! A sniper bloods me!" }
+	SUB	"ab2ambw3" { TEXT "Aaagh! I'm hit, brother-kin!" }
+	SUB	"ab2atw_1" { TEXT "Now you die!" }
+	SUB	"ab2atw_2" { TEXT "He he hehehehehe!" }
+	SUB	"ab2atww1" { TEXT "We drink his blood, does we?" }
+	SUB	"ab2atww2" { TEXT "We gives his bones to the night!" }
+	SUB	"ab2bak_1" { TEXT "Shifty shadows all empty." }
+	SUB	"ab2bak_2" { TEXT "Guessie all nothing." }
+	SUB	"ab2bak_3" { TEXT "Stop jumping. Nothing there." }
+	SUB	"ab2bak_4" { TEXT "Nobody, nothing." }
+	SUB	"ab2bak_5" { TEXT "Not this time. Sneaksie next time." }
+	SUB	"ab2bak_6" { TEXT "All quiets." }
+	SUB	"ab2bak_7" { TEXT "Oh well, nobody homes." }
+	SUB	"ab2bkd_1" { TEXT "A dodgy manflesh!" }
+	SUB	"ab2bkd_2" { TEXT "Eeeeh! Dodged again, sneaksie!" }
+	SUB	"ab2bkdw1" { TEXT "The manflesh thinks he can block forever!" }
+	SUB	"ab2blk_1" { TEXT "Hide again, manflesh?" }
+	SUB	"ab2blk_2" { TEXT "Missed!" }
+	SUB	"ab2blk_3" { TEXT "You weak!" }
+	SUB	"ab2blkw1" { TEXT "The sneaksie is slow!" }
+	SUB	"ab2bod_1" { TEXT "Returns to the earth, you do!" }
+	SUB	"ab2bod_2" { TEXT "You die too, manflesh!" }
+	SUB	"ab2chga3" { TEXT "You die now!" }
+	SUB	"ab2chgw1" { TEXT "Helps me get him!" }
+	SUB	"ab2chgw2" { TEXT "Aaah, stay him!" }
+	SUB	"ab2chgw3" { TEXT "Charges the human!" }
+	SUB	"ab2chgw4" { TEXT "Get him!" }
+	SUB	"ab2det_1" { TEXT "Does it wants to hides?" }
+	SUB	"ab2det_2" { TEXT "Cower, manflesh!" }
+	SUB	"ab2det_3" { TEXT "Gaack! Little soft belly!" }
+	SUB	"ab2det_4" { TEXT "I scares you, does I?" }
+	SUB	"ab2detw1" { TEXT "He's scaredsie of us?" }
+	SUB	"ab2detw2" { TEXT "The manflesh cowers!" }
+	SUB	"ab2hhi_3" { TEXT "Eech! Damn your eye!" }
+	SUB	"ab2hit_1" { TEXT "I smells your blood-flesh!" }
+	SUB	"ab2hit_2" { TEXT "Manflesh blood is sweet!" }
+	SUB	"ab2hit_3" { TEXT "The green wheat-sheaves bring on mice!" }
+	SUB	"ab2hit_4" { TEXT "You feeds the leafies!" }
+	SUB	"ab2hit_5" { TEXT "Your hot blood rains for us!" }
+	SUB	"ab2hit_6" { TEXT "Die manflesh!" }
+	SUB	"ab2hitw1" { TEXT "He falls! He falls!" }
+	SUB	"ab2hitw2" { TEXT "Cut him! Cut him, brother-kin!" }
+	SUB	"ab2hitw3" { TEXT "Watch him falls!" }
+	SUB	"ab2hlow1" { TEXT "The manflesh slays me!" }
+	SUB	"ab2hlow2" { TEXT "Let him not slay me!" }
+	SUB	"ab2hnd_1" { TEXT "Try again weaksie fool!" }
+	SUB	"ab2hnd_2" { TEXT "Heh heh heh heh! My blood is for the Lord, not you!" }
+	SUB	"ab2hnd_3" { TEXT "Hurts me not!" }
+	SUB	"ab2lar_1" { TEXT "Eee, fix you does this?" }
+	SUB	"ab2lar_2" { TEXT "Who've been does this? Over here!" }
+	SUB	"ab2los_1" { TEXT "Shadow-sneaker! On your trail!" }
+	SUB	"ab2los_2" { TEXT "Hey! Come back!" }
+	SUB	"ab2los_3" { TEXT "Come back, you!" }
+	SUB	"ab2los_4" { TEXT "Not lost me yet!" }
+	SUB	"ab2los_5" { TEXT "Run, mousie! I still catches you!" }
+	SUB	"ab2mis_1" { TEXT "Eeeeh.... Thief!" }
+	SUB	"ab2mis_2" { TEXT "Where's that be? Thief! Thief!" }
+	SUB	"ab2mis_3" { TEXT "Eeeh, should be here?" }
+	SUB	"ab2rbod1" { TEXT "Watches for murdering manfleshes!" }
+	SUB	"ab2rbod2" { TEXT "A slayer walks with us!" }
+	SUB	"ab2rbod3" { TEXT "The human takes our lives!" }
+	SUB	"ab2rint1" { TEXT "Watches out! Human sneaksie around here!" }
+	SUB	"ab2rint2" { TEXT "Sees me a manflesh. Watch you too." }
+	SUB	"ab2rint3" { TEXT "Keeps you awake, brother-kin. A manflesh creeps by!" }
+	SUB	"ab2rmis1" { TEXT "Finds a robber at us!" }
+	SUB	"ab2rmis2" { TEXT "Watches for those who carries our treasures!" }
+	SUB	"ab2rmis3" { TEXT "Tell the brother-kin: Watch for a thief!" }
+	SUB	"ab2roth1" { TEXT "Stays you awake! Something be up." }
+	SUB	"ab2roth2" { TEXT "Watches you how the manflesh intrudes." }
+	SUB	"ab2roth3" { TEXT "Watches for strangenesses." }
+	SUB	"ab2roth4" { TEXT "Something's go on! Intruder's sneak about!" }
+	SUB	"ab2runa1" { TEXT "Comes here! Helps me!" }
+	SUB	"ab2runa2" { TEXT "Manflesh threatens!" }
+	SUB	"ab2runa3" { TEXT "Here, brother-kin! Here!" }
+	SUB	"ab2runa4" { TEXT "Helps me! Here!" }
+	SUB	"ab2sec_1" { TEXT "Stranger in with us!" }
+	SUB	"ab2sec_2" { TEXT "Tricksie-sneaker through here!" }
+	SUB	"ab2sec_3" { TEXT "Hey, watchsie for creepers!" }
+	SUB	"ab2sec_4" { TEXT "Tell and warn of this." }
+	SUB	"ab2sec_5" { TEXT "Got in here, did you?" }
+	SUB	"ab2sma_1" { TEXT "Who's going on here?" }
+	SUB	"ab2sma_2" { TEXT "This not right!" }
+	SUB	"ab2sma_3" { TEXT "Wanders into places not should be!" }
+	SUB	"ab2telc1" { TEXT "There'sie him! There!" }
+	SUB	"ab2telc2" { TEXT "Cuts the manflesh, right here!" }
+	SUB	"ab2telc3" { TEXT "Findsie him!" }
+	SUB	"ab2telc4" { TEXT "This way! Stops the human!" }
+	SUB	"ab2telc5" { TEXT "There-sie him! Catch him!" }
+	SUB	"ab2telc6" { TEXT "Seen the human again!" }
+	SUB	"ab2telr1" { TEXT "Hey, sneaksie man, here!" }
+	SUB	"ab2telr2" { TEXT "Find us a creeper, there." }
+	SUB	"ab2telr3" { TEXT "A manflesh tries to sneak by, but I catches!" }
+	SUB	"ab2telr4" { TEXT "Got an intruder!" }
+} 

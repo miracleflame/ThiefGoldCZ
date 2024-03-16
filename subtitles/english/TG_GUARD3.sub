@@ -1,0 +1,230 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"SE3DETW1" { TEXT "We've got him on the defense." }
+	SUB	"SG306200" { TEXT "These pressure doors, they're a bloody nuissance. Ya gotta go outta yer way just to find the taffin' lever." }
+	SUB	"SG306202" { TEXT "Who'd break in here? The only action we get is when somebody tries to skim off the top." }
+	SUB	"SG306204" { TEXT "Hey, that's right. Be nice to bust some heads for a change (chuckles)!" }
+	SUB	"SG306401" { TEXT "Yeah, but while they're squabblin', they ain't fencin' the vase, neither. That vase is just gonna stay locked up in Lord Donal's lair." }
+	SUB	"SG306403" { TEXT "Ain't doin' me no good, neither. That sapphire vase is worth more than the rest of the score from Randall's combined. I didn't become a Downwinder to work for free. I want my cut!" }
+	SUB	"SG310100" { TEXT "But why're the Hand Mages the only ones allowed in? Why won't they allow us into their towers?" }
+	SUB	"SG310102" { TEXT "But what with all the secrecy? Even the servants ain't allowed there. These wizards trust anyone?" }
+	SUB	"SG310200" { TEXT "These Mages are not ones to be trifled with. Saw 'em use their magic on old Bradwort. The Mages caught 'im stealin' lupins from the tables of the meeting hall. One of 'em summoned great hurdling balls from the sky, glowing rocks from the moon they was, and they mashed in his poor skull!" }
+	SUB	"sg312301" { TEXT "Not the ticket office, 'cause if I's were a thief, that's where I'd go." }
+	SUB	"sg312303" { TEXT "If there's trouble, someone needs to guard the cloak-check girl. She's all alone, wi-with no one to talk to (chuckles)!" }
+	SUB	"SG312305" { TEXT "Get to guard that watery stone nobody cares about, 'cept the Lady Valerius." }
+	SUB	"SG3A0MU1" { TEXT "An' when are they goin to bring me my dinner? That's what I wanna know...when is they gonna bring me my dinner...?" }
+	SUB	"SG3A0MU2" { TEXT "I don't see why I should have to be the one down here in the cold and the dark and the damp...." }
+	SUB	"SG3A0MU3" { TEXT "And then people up above me get all the light and get all the favors and I don't have anything to eat in days...." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"SG3A0TC2" { TEXT "Hmm...." }
+	SUB	"SG3A0TC4" { TEXT "Bah!" }
+	SUB	"SG3A1__1" { TEXT "Hello? Show yourself." }
+	SUB	"SG3A1__2" { TEXT "Hello? Is someone there?" }
+	SUB	"SG3A1__3" { TEXT "Sir, was that you?" }
+	SUB	"SG3A1__4" { TEXT "Who's there? Is someone there?" }
+	SUB	"SG3A1__5" { TEXT "What's there?" }
+	SUB	"SG3A1_W1" { TEXT "Is it just me or did something move?" }
+	SUB	"SG3A1_W2" { TEXT "Over there!" }
+	SUB	"SG3A1H_1" { TEXT "Who's there? Who said that?" }
+	SUB	"SG3A1H_2" { TEXT "Someone making noise?" }
+	SUB	"SG3A1HW1" { TEXT "Listen! Hear that?" }
+	SUB	"SG3A1HW2" { TEXT "Will you quit making noise? I think I heard something." }
+	SUB	"SG3A1HW3" { TEXT "Did you hear a noise?" }
+	SUB	"SG3A1HW4" { TEXT "You hear that?" }
+	SUB	"SG3A1V_1" { TEXT "Thought I saw something...." }
+	SUB	"SG3A1VW1" { TEXT "Hey! I think I saw something over here!" }
+	SUB	"SG3A1VW2" { TEXT "Look over there. You see something?" }
+	SUB	"SG3A1VW3" { TEXT "Over there! There's...! Uhh...I saw--I saw something!" }
+	SUB	"SG3A1VW4" { TEXT "Look there. See anything?" }
+	SUB	"SG3A2__1" { TEXT "Hey! Come out at once!" }
+	SUB	"SG3A2__2" { TEXT "Who's there...in the shadow?" }
+	SUB	"SG3A2__3" { TEXT "Who goes there? Hey!" }
+	SUB	"SG3A2__4" { TEXT "Hey! Someone there? Who is that?" }
+	SUB	"SG3A2__5" { TEXT "Come out you!" }
+	SUB	"SG3A2H_1" { TEXT "Who's there? Who made that noise?" }
+	SUB	"SG3A2H_2" { TEXT "Who'd I hear there?" }
+	SUB	"Sg3a2se1" { TEXT "Come on out, then!" }
+	SUB	"Sg3a2se2" { TEXT "Don't make me come find you!" }
+	SUB	"Sg3a2se3" { TEXT "Where are you, you taffer?" }
+	SUB	"Sg3a2se4" { TEXT "I'll find you soon enough." }
+	SUB	"SG3A2V_1" { TEXT "I see you there! Show yourself!" }
+	SUB	"SG3A3B_1" { TEXT "Hey! Put him down! Come 'ere!" }
+	SUB	"SG3A3NA1" { TEXT "Hey, stop! Don't move!" }
+	SUB	"SG3A3NA2" { TEXT "There's an intruder here!" }
+	SUB	"SG3A3NA3" { TEXT "All right, you're in for it now, thief!" }
+	SUB	"SG3A3NA4" { TEXT "Don't move!" }
+	SUB	"SG3A3S_1" { TEXT "Ahh! Halt!" }
+	SUB	"SG3A3S_2" { TEXT "Hey, who're you?!" }
+	SUB	"SG3A3S_3" { TEXT "Intruder! Help, help!" }
+	SUB	"SG3A3S_4" { TEXT "Thief!" }
+	SUB	"Sg3a3se1" { TEXT "Just make one little noise!" }
+	SUB	"Sg3a3se2" { TEXT "I'll find you, just you wait!" }
+	SUB	"Sg3a3se3" { TEXT "Come out and face me, thief!" }
+	SUB	"Sg3a3se4" { TEXT "Get back here you...coward!" }
+	SUB	"SG3ALMA1" { TEXT "The alarm for you!" }
+	SUB	"SG3ALMA2" { TEXT "Half a moment will bring them all!" }
+	SUB	"SG3ALMA3" { TEXT "I'll get the alarm!" }
+	SUB	"SG3ALMW1" { TEXT "You sound the alarm! I'll hold him off." }
+	SUB	"SG3ALMW2" { TEXT "You! Alarm!" }
+	SUB	"SG3AMB_1" { TEXT "Wuah! Coward! Fight me to my face!" }
+	SUB	"SG3AMB_2" { TEXT "Most treacherous villain!" }
+	SUB	"SG3AMB_3" { TEXT "Come fight me, you coward!" }
+	SUB	"SG3AMB_4" { TEXT "Into the open, you villain!" }
+	SUB	"SG3AMBW1" { TEXT "Help! I am under attack!" }
+	SUB	"SG3AMBW2" { TEXT "Uah, he's got me! Do you see him?!" }
+	SUB	"SG3AMBW3" { TEXT "I'm hit! Oww!" }
+	SUB	"Sg3atb_1" { TEXT "A yard of pain for you!" }
+	SUB	"Sg3atb_2" { TEXT "Try an' catch this!" }
+	SUB	"Sg3atb_3" { TEXT "Can't run faster than an arrow, taffer!" }
+	SUB	"SG3ATN_1" { TEXT "Fall over!" }
+	SUB	"SG3ATN_2" { TEXT "Take that!" }
+	SUB	"SG3ATW_1" { TEXT "Got you now!" }
+	SUB	"SG3ATW_2" { TEXT "Teach you a lesson!" }
+	SUB	"SG3ATWW1" { TEXT "He'll fall soon!" }
+	SUB	"SG3BAK_1" { TEXT "Oh well.... Guess it was nothing." }
+	SUB	"SG3BAK_2" { TEXT "Hello? Anyone there? ...Uhh, guess not." }
+	SUB	"SG3BAK_3" { TEXT "Oh well. Dunno what it was." }
+	SUB	"SG3BAK_4" { TEXT "Hmm.... Must a' been imagining things." }
+	SUB	"SG3BAK_5" { TEXT "Seems quiet enough now. Oh well." }
+	SUB	"SG3BAK_6" { TEXT "Nothing making noise now." }
+	SUB	"SG3BAK_7" { TEXT "Nothing here now." }
+	SUB	"SG3BKD_1" { TEXT "Next time you won't be so fast!" }
+	SUB	"SG3BKD_2" { TEXT "I'll see your blood yet!" }
+	SUB	"SG3BKD_3" { TEXT "You cannot block them all!" }
+	SUB	"SG3BKDW1" { TEXT "We'll wear 'im down!" }
+	SUB	"SG3BLK_1" { TEXT "Maybe next time." }
+	SUB	"SG3BLK_2" { TEXT "I can keep this up all day. Huh!" }
+	SUB	"SG3BLK_3" { TEXT "Ahh! Nice try!" }
+	SUB	"SG3BLKW1" { TEXT "He's pretty slow. We can take him!" }
+	SUB	"SG3BOD_1" { TEXT "Are you all right? No no, of course you're not all right, sorry." }
+	SUB	"SG3BOD_2" { TEXT "You'll pay, thief!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"SG3C0101" { TEXT "Hey, I'm going to the Bear Pits tomorrow. Ya wanna come with?" }
+	SUB	"SG3C0103" { TEXT "Whaaat? You soft-belly! The bears have got these new muzzles with underslung cheek spikes. Last time I was there, (almost laughing) there was a real eye-gouging." }
+	SUB	"SG3C0105" { TEXT "Huh! Surprised you're even in this job.... (Falsetto) 'Oo the blood, it just turns my poor tummy!'" }
+	SUB	"SG3C0107" { TEXT "No paw-hooks? What'd they do? Just bump into each other?" }
+	SUB	"SG3C0109" { TEXT "Bears? Yer taffing me! They look pretty mangy harmless, long as they're not wearing harness." }
+	SUB	"SG3C0111" { TEXT "Whoa.... Killer bears. Woulda liked to see that...." }
+	SUB	"Sg3c0602" { TEXT "Nah, you always win. Lost enough money." }
+	SUB	"Sg3c0604" { TEXT "Like that helps me, you taffer." }
+	SUB	"Sg3c0606" { TEXT "Weeell...." }
+	SUB	"Sg3c0608" { TEXT "Mmm, all right. Errr... Stone!" }
+	SUB	"Sg3c0610" { TEXT "Curse it! How do you do that? Here you go." }
+	SUB	"Sg3c0612" { TEXT "Double or nothing! Stone or coin?" }
+	SUB	"Sg3c0614" { TEXT "Damn you! Here." }
+	SUB	"Sg3c0616" { TEXT "Oh, get away from me! Last time we went this way I owed you three weeks." }
+	SUB	"SG3C1102" { TEXT "Don't worry. I won't spook and hit the alarm if I hear a rat... (Quiet) Like I did last time." }
+	SUB	"Sg3c1402" { TEXT "With the gears and blades and all?" }
+	SUB	"Sg3c1404" { TEXT "Big mistake! Come home, forget to pull the lever, then the missus gets chopped to bits! Huh huh huh huh!" }
+	SUB	"Sg3c1406" { TEXT "Not to mention two guys with swords not getting paid no more." }
+	SUB	"Sg3c1501" { TEXT "Jorek tells me the Hammers are gonna close down Cragscleft." }
+	SUB	"Sg3c1503" { TEXT "Dunno.... Toss 'em into a well or something. Anyhow they just don't have enough guys no more." }
+	SUB	"Sg3c1602" { TEXT "Yep. Cyric over Bohn, three to two. And also when the war ends." }
+	SUB	"Sg3c1604" { TEXT "Sure. Money now." }
+	SUB	"Sg3c1701" { TEXT "Hey, you remember when the Baron's police took down DeWall?" }
+	SUB	"Sg3c1703" { TEXT "I hear it was Raputo turned him over." }
+	SUB	"Sg3c1902" { TEXT "What d'ya mean? What's wrong with us?" }
+	SUB	"Sg3c1904" { TEXT "That's stupid! People ta worry about--they're on the inside." }
+	SUB	"Sg3c1906" { TEXT "Oooh." }
+	SUB	"Sg3c2002" { TEXT "What am I not doing?" }
+	SUB	"Sg3c2004" { TEXT "Hammer's got it good. Just smash 'em flat with those things." }
+	SUB	"Sg3c2302" { TEXT "I thought he'd a good mood...." }
+	SUB	"Sg3c2401" { TEXT "Seen the new room? The...trees?" }
+	SUB	"Sg3c2403" { TEXT "Like to do all the patrols there." }
+	SUB	"Sg3c2502" { TEXT "Ahh, not me. Sees you napping a bit." }
+	SUB	"Sg3c3302" { TEXT "Rather be sleeping, though." }
+	SUB	"Sg3c3402" { TEXT "Mine too." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"SG3C3501" { TEXT "Hail, brother-in-arms." }
+	SUB	"Sg3c3601" { TEXT "What's up?" }
+	SUB	"Sg3c3702" { TEXT "Yep, nothing ever happens." }
+	SUB	"Sg3c3801" { TEXT "Halt! Who goes there?" }
+	SUB	"SG3CHGA1" { TEXT "You asked for it!" }
+	SUB	"Sg3chga2" { TEXT "Yer dead, pal!" }
+	SUB	"SG3CHGW1" { TEXT "Together, we can take him!" }
+	SUB	"SG3CHGW2" { TEXT "Get him!" }
+	SUB	"SG3CHGW3" { TEXT "Get the taffer!" }
+	SUB	"SG3DET_1" { TEXT "Oh, turning turtle are we?" }
+	SUB	"SG3DET_2" { TEXT "I can wait, taffer...! I can wait." }
+	SUB	"SG3DET_3" { TEXT "Running scared now?" }
+	SUB	"SG3FRE_1" { TEXT "Move along." }
+	SUB	"SG3FRE_2" { TEXT "Go on, beat it." }
+	SUB	"SG3HIT_1" { TEXT "You're bleeding!" }
+	SUB	"SG3HIT_3" { TEXT "Ready to die, yet?" }
+	SUB	"SG3HIT_4" { TEXT "Whoa-hoho! That sting a little?" }
+	SUB	"SG3HITW1" { TEXT "He's not long for it now!" }
+	SUB	"SG3HITW2" { TEXT "You hit him now!" }
+	SUB	"SG3HLOW1" { TEXT "No! Can't...take...much...more...." }
+	SUB	"SG3HND_1" { TEXT "Ouch! Ouch!' Ha ha ha ha!" }
+	SUB	"SG3HND_2" { TEXT "Was that supposed to hurt?" }
+	SUB	"SG3HND_3" { TEXT "Nice love pat, taffer!" }
+	SUB	"SG3LAR_1" { TEXT "Look at this taff! Hey, over here!" }
+	SUB	"SG3LAR_2" { TEXT "Look here!" }
+	SUB	"SG3LOS_1" { TEXT "Uh-oh, he's around there somewhere." }
+	SUB	"SG3LOS_2" { TEXT "Hey you.... Come back." }
+	SUB	"SG3LOS_3" { TEXT "Where did he go? Damn." }
+	SUB	"SG3LOS_4" { TEXT "Damn. Where's the thief now?" }
+	SUB	"Sg3m0201" { TEXT "We're under attack!" }
+	SUB	"SG3MIS_1" { TEXT "That's supposed to be here." }
+	SUB	"SG3MIS_2" { TEXT "Some taffer's stolen the scepter!" }
+	SUB	"SG3MIS_3" { TEXT "The thief's been here!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Guard"
+	SUB	"SG3MUTT1" { TEXT "Late at night again...and I'm the only one on this whole floor.... I wish that I had owned me own bed...." }
+	SUB	"SG3MUTT2" { TEXT "I wish I had a job that would paid a little bit better than this one. I'm tired, I'm sore, I'm sick, I'm--" }
+	SUB	"SG3MUTT3" { TEXT "What the hell is that lyin' down there...?" }
+}
+{
+	TYPE	"bark"
+	DESCR	"Guard"
+	SUB	"SG3RBOD1" { TEXT "Watch your back! I've seen another just like it with a hole in it." }
+	SUB	"SG3RBOD2" { TEXT "Watch out! The intruder's a killer!" }
+	SUB	"SG3RBOD3" { TEXT "Careful! Thief's a killer." }
+	SUB	"SG3RBOD4" { TEXT "It's him what killed the boss. He's not leaving here alive!" }
+	SUB	"SG3RINT1" { TEXT "Watch for prowlers. I saw someone earlier." }
+	SUB	"SG3RINT2" { TEXT "Stay alert. There's an intruder in the building." }
+	SUB	"SG3RINT3" { TEXT "Thief's...in...." }
+	SUB	"SG3RMIS1" { TEXT "Watch for a thief. The Sir will reward us if we can get his goods back." }
+	SUB	"SG3RMIS2" { TEXT "Tell the rest: there's been things stolen." }
+	SUB	"SG3RMIS3" { TEXT "Thief's got the sword." }
+	SUB	"SG3ROTH1" { TEXT "Be on guard. I think there was something a while back." }
+	SUB	"SG3ROTH2" { TEXT "You see anything recently? I've been seeing things." }
+	SUB	"SG3ROTH3" { TEXT "Watch out! There was something going on back there." }
+	SUB	"SG3ROTH4" { TEXT "Thief the boss warned about is around." }
+	SUB	"SG3RUNA1" { TEXT "Guards! This way!" }
+	SUB	"SG3RUNA2" { TEXT "To me! Cover me!" }
+	SUB	"SG3RUNA3" { TEXT "Guards! Guards!" }
+	SUB	"SG3RUNA4" { TEXT "Over here!" }
+	SUB	"SG3SEC_1" { TEXT "Look at this. There's been an intruder." }
+	SUB	"SG3SEC_2" { TEXT "The Sir should hear of this." }
+	SUB	"SG3SEC_3" { TEXT "Some taffer's got in here." }
+	SUB	"SG3SEC_4" { TEXT "The thief's in." }
+	SUB	"SG3SMA_1" { TEXT "Hey, this isn't supposed to look this way!" }
+	SUB	"SG3SMA_2" { TEXT "This isn't right." }
+	SUB	"SG3TELC1" { TEXT "Found 'im!" }
+	SUB	"SG3TELC2" { TEXT "Got 'im! This way!" }
+	SUB	"Sg3telc3" { TEXT "There he is! Hurry!" }
+	SUB	"SG3TELC4" { TEXT "Over here! Careful...he's armed!" }
+	SUB	"SG3TELC5" { TEXT "Hey! The intruder's right here!" }
+	SUB	"SG3TELR1" { TEXT "Hey, I've got someone here!" }
+	SUB	"SG3TELR2" { TEXT "Got an intruder!" }
+	SUB	"SG3TELR3" { TEXT "The thief's here!" }
+	SUB	"SG3TELR4" { TEXT "There's a prowler here!" }
+	SUB	"SG3WRN11" { TEXT "Be off with you! No trespassing allowed." }
+	SUB	"SG3WRN21" { TEXT "No more warnings, villain! Make yourself scarce!" }
+	SUB	"SG3WRNF1" { TEXT "That's it, you've had it now!" }
+} 

@@ -1,0 +1,118 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Servant"
+	SUB	"sv106300" { TEXT "Hit me." }
+	SUB	"sv106302" { TEXT "Yeah yeah, taffer, just deal me another hand." }
+	SUB	"sv106304" { TEXT "May the Trickster find you in the dark...." }
+	SUB	"sv106306" { TEXT "I said 'Hit me'!" }
+	SUB	"sv1a0mu1" { TEXT "Another night.... Another long, lonely night.... Wandering around...." }
+	SUB	"sv1a0mu2" { TEXT "Not work I mind so much, it's the loneliness, I...I wish I had someone to talk to sometimes, that's all I [want]...." }
+	SUB	"sv1a0mu3" { TEXT "Another night.... A long, lonely night.... Wandering around.... Ooo, the cold...." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Servant"
+	SUB	"sv1a1__1" { TEXT "Is someone there?" }
+	SUB	"sv1a1__2" { TEXT "Who's that?" }
+	SUB	"sv1a1__3" { TEXT "Who's there? Hello?" }
+	SUB	"sv1a1__4" { TEXT "Huh?" }
+	SUB	"sv1a1h_1" { TEXT "What was that noise?" }
+	SUB	"sv1a1h_2" { TEXT "Aaah! Who made that noise?" }
+	SUB	"sv1a1h_3" { TEXT "Someone there?" }
+	SUB	"sv1a1v_1" { TEXT "Hmm.... Thought I saw something." }
+	SUB	"sv1a1v_2" { TEXT "What's that in the shadow there?" }
+	SUB	"sv1a1v_3" { TEXT "What's that?" }
+	SUB	"sv1a2__1" { TEXT "Oh, what was that?" }
+	SUB	"sv1a2__2" { TEXT "Who's there? What was that?" }
+	SUB	"sv1a2__3" { TEXT "Hey, who was that?" }
+	SUB	"sv1a2__4" { TEXT "Is someone there? Hey!" }
+	SUB	"sv1a3__1" { TEXT "Uhh! Wh-what was that?" }
+	SUB	"sv1a3b_1" { TEXT "Hey! What's going on?" }
+	SUB	"sv1a3s_1" { TEXT "Ah! Wh-who are you?" }
+	SUB	"sv1a3s_2" { TEXT "Don't hurt me!" }
+	SUB	"sv1a3s_3" { TEXT "I-I'm harmless! Leave me alone!" }
+	SUB	"sv1a3s_4" { TEXT "Help! Help!" }
+	SUB	"sv1almw1" { TEXT "Go, sound the alarm! Hurry!" }
+	SUB	"sv1bak_1" { TEXT "Hmm. Oh well." }
+	SUB	"sv1bak_2" { TEXT "Uh. I hate rats." }
+	SUB	"sv1bak_3" { TEXT "Hmm. Guess it was nothing." }
+	SUB	"sv1bak_4" { TEXT "Hello? Hello? Nothing there now." }
+	SUB	"sv1bak_5" { TEXT "Oops. I guess it was nothing." }
+	SUB	"sv1bak_6" { TEXT "Nevermind. There's no one here." }
+	SUB	"sv1bak_7" { TEXT "Sorry I made a fuss." }
+	SUB	"sv1bod_1" { TEXT "Ahh! A body! Help! Help!" }
+	SUB	"sv1bod_2" { TEXT "Oh no! Help! Help!" }
+	SUB	"sv1bod_3" { TEXT "Help! Murder! Over here!" }
+	SUB	"sv1bod_4" { TEXT "Assassin! Murder! There's a body over here!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Servant"
+	SUB	"sv1c0101" { TEXT "Peaceful, isn't it?" }
+	SUB	"sv1c0103" { TEXT "Where is he, then? I haven't seen him tonight." }
+	SUB	"sv1c0202" { TEXT "Drought twelve years back, that was almost bad as this." }
+	SUB	"sv1c0204" { TEXT "Hmmm! Wouldn't New Market love that." }
+	SUB	"sv1c0301" { TEXT "You'd never believe what happened today. I was buying greens and the de Perrin housekeeper just pushed by me and told the shopkeep to give her the last of the cress." }
+	SUB	"sv1c0303" { TEXT "That's what I thought too! Just because you work for the nobles, you don't have cause to be putting on airs." }
+	SUB	"sv1c0402" { TEXT "Sir's an idiot! It's not like we'll get more until the shortages are over." }
+	SUB	"sv1c0501" { TEXT "I don't think the garden mint is going to make it. Even the shade doesn't help." }
+	SUB	"sv1c0503" { TEXT "I know. I just keep hoping the drought will end soon. The well's run so far down." }
+	SUB	"sv1c0602" { TEXT "Yeah. I'm still saying it." }
+	SUB	"sv1c0604" { TEXT "And what do you know about the Baron's romances anyway?" }
+	SUB	"sv1c0606" { TEXT "Oh! Like Felicia knows if the Baron's serious." }
+	SUB	"sv1c0701" { TEXT "Coming from market this morning, it was awful." }
+	SUB	"sv1c0703" { TEXT "There was this big mob of Hammers, circled round some guy like wolves." }
+	SUB	"sv1c0705" { TEXT "No, I ran! I don't want them turning eyes on me. They took forever to circle round." }
+	SUB	"sv1c0802" { TEXT "What's wrong?" }
+	SUB	"sv1c0804" { TEXT "It's hard, I know." }
+	SUB	"sv1c0901" { TEXT "Do you ever feel like there's someone...watching you?" }
+	SUB	"sv1c0903" { TEXT "Well, that too, but I mean more like spirits, or someone hiding...following you." }
+	SUB	"sv1c1002" { TEXT "The closed areas? Not a chance! I hear the dead walk there." }
+	SUB	"sv1c1004" { TEXT "What I heard, there's a different moon. One that takes all the light." }
+	SUB	"sv1c1006" { TEXT "Not me neither." }
+	SUB	"sv1c1101" { TEXT "Everything okay?" }
+	SUB	"sv1c1201" { TEXT "How's your day?" }
+	SUB	"sv1c1301" { TEXT "Seen Cook around?" }
+	SUB	"sv1c1401" { TEXT "You still up?" }
+	SUB	"sv1c1502" { TEXT "Should be done soon." }
+	SUB	"sv1c1602" { TEXT "Aah. Stew pots, that's my worst job!" }
+	SUB	"sv1c1702" { TEXT "See if he pays you more then." }
+	SUB	"sv1c1802" { TEXT "No, not mine." }
+	SUB	"sv1c1901" { TEXT "What happened to young Brennan? I saw the wagon carrying him away, howling like to curl your hair." }
+	SUB	"sv1c1903" { TEXT "You couldn't lure me down there for any price." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Servant"
+	SUB	"sv1hlow1" { TEXT "Aaaah! Help me!" }
+	SUB	"sv1lar_1" { TEXT "What's all this? This is no good.... Help!" }
+	SUB	"sv1lar_2" { TEXT "Hey! Help! Look here!" }
+	SUB	"sv1m0201" { TEXT "Damn thing went out. Guess it's cold gruel for breakfast then." }
+	SUB	"sv1m0501" { TEXT "Go get a job with Ramirez', she says. 'He's rich and powerful', she says. Last time I listen to a woman!" }
+	SUB	"sv1m0503" { TEXT "Odd.... Where'd he go?" }
+	SUB	"sv1mis_1" { TEXT "Hey.... Where has that--?" }
+	SUB	"sv1mis_2" { TEXT "Oh no! We're in such taff!" }
+	SUB	"sv1mis_3" { TEXT "The scepter's gone! Oh no!" }
+	SUB	"sv1rbod1" { TEXT "There's a murderer in the building." }
+	SUB	"sv1rint1" { TEXT "Hey, th-there's a guy with a bow wandering around." }
+	SUB	"sv1rint2" { TEXT "There's an intruder in the building! Protect me!" }
+	SUB	"sv1rint3" { TEXT "Help! I saw someone just a minute back!" }
+	SUB	"sv1rmis1" { TEXT "There's stuff been stolen." }
+	SUB	"sv1rmis2" { TEXT "Oh, the scepter is missing! The Sir is going to kill us!" }
+	SUB	"sv1roth1" { TEXT "I'm worried. I think there was something a while back." }
+	SUB	"sv1roth2" { TEXT "I think there's something weird going on." }
+	SUB	"sv1run_1" { TEXT "Help! Save me! There's someone here!" }
+	SUB	"sv1run_2" { TEXT "There's a guy over here! Help me!" }
+	SUB	"sv1run_3" { TEXT "Help, help! Don't let him get me!" }
+	SUB	"sv1run_4" { TEXT "Help, help!" }
+	SUB	"sv1run_5" { TEXT "Look there! He's got a bow!" }
+	SUB	"sv1run_6" { TEXT "Hurry! Over here! Save me!" }
+	SUB	"sv1sec_1" { TEXT "Ugh...ahh! There's been an intruder!" }
+	SUB	"sv1sec_2" { TEXT "Help! Burglars!" }
+	SUB	"sv1sma_1" { TEXT "This isn't right." }
+	SUB	"sv1sma_2" { TEXT "Oh.... We'll be in taff if this isn't cleaned up." }
+	SUB	"sv1telc1" { TEXT "Help! Help! Don't let him get me!" }
+	SUB	"sv1telc2" { TEXT "Someone get him!" } 
+}

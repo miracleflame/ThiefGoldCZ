@@ -1,0 +1,19 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Trickster"
+	SUB	"condone" { TEXT "It is done! The rule of the mansy stone blind fools falls to me!" }
+	SUB	"confail" { TEXT "It betrays me!" }
+	SUB	"confin" { TEXT "Open for me! Open to me! Open my way! Open the path! Open for me! Open!" }
+	SUB	"conpom1" { TEXT "Vine, grow and twine! Green and curl, chokes and bind! Leaves unfurl, thornsie spine, tumble wall! Wreath in vine, cover all! Leafies mine, call the vine, call the green: bringsie forth world be seen!" }
+	SUB	"conpom2" { TEXT "Storm, black and blow! Swirly gust, rain winds flow! Pushing dust, storm clouds grow! Darksie clouds, lightning throw! Misty shrouds, freezie snow! Call the storm, call the grey: bringsie forth World's old way!" }
+	SUB	"conpom3" { TEXT "Flame, burning heat! Fences charred, blazey sheet! Black 'n' tar, manflesh meat! Melting gears, dance and leap! Manfools' fear, come to reap! Call the fire, call the red: bringsie forth past not dead!" }
+	SUB	"conpom4" { TEXT "Tide, rise and fall! River flood, rain and squall! Churny mud, dam break all! Sea waves wash, swampy squall! Sewer slosh, drainpipes stall! Call the wave, call the blue: bringsie forth world anew!" }
+	SUB	"conpom5" { TEXT "Stone, grind and quake! Shatter tile, columns shake! Brick unpile, chip and flake! Darkie soil, windows break! Earthie toil, wall unmake! Call earth, call the brown: bringsie back world thrown down!" }
+	SUB	"conpom6" { TEXT "Night, smother light! Black break lamp, done with bright! Dew and damp, smother tight! Dark in hide, foolsie sight! Stay inside, fear the night! Call the dark, call the black: bringsie forth! I call it back!" }
+	SUB	"consee1" { TEXT "Garrett! My thiefsie fool? Lives you still?" }
+	SUB	"consee2" { TEXT "Comes chasing your death Garrett? Better for you stays above!" }
+	SUB	"consee3" { TEXT "Come calls your death now!" }
+	SUB	"consee4" { TEXT "Your part is done!" }
+} 

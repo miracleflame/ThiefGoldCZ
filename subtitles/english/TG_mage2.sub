@@ -1,0 +1,112 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Mage"
+	SUB	"mg210401" { TEXT "Many will not survive. We must try to redirect the current." }
+	SUB	"mg210403" { TEXT "Dry and dead is much of The City. The Sun will oppose and the conflict will end in flames." }
+	SUB	"mg210405" { TEXT "Winds of progress always head towards the grave." }
+	SUB	"mg210601" { TEXT "Oh! Why is that, Aroun?" }
+	SUB	"mg210603" { TEXT "Have they no breath in their lungs to ask me themselves?" }
+	SUB	"mg210605" { TEXT "Then report that Verlin the Librarian has progressed excellently with the project in the secret study. Tell them also that Verlin has most-skillfully filed the Ritual of Opening in its proper location. Tell them that Verlin did masterfully tidy away many many books, and that they need think of it no more." }
+	SUB	"mg210607" { TEXT "Well, today or tomorrow." }
+	SUB	"mg2a0ch1" { TEXT "Wind blows; Fire burns. Earth shake; Water flows." }
+	SUB	"mg2a0ch2" { TEXT "I shall walk the path until my return to the Eternal Fire." }
+	SUB	"mg2a0ch3" { TEXT "I shall build shelters from the Winds, feel the countless Waters, see the vast Earth, and burn in Eternal Fires." }
+}
+{
+	TYPE	"bark"
+	DESCR	"mage"
+	SUB	"mg2a1__1" { TEXT "Who troubles this place?" }
+	SUB	"mg2a1__2" { TEXT "Something is amiss." }
+	SUB	"mg2a1__3" { TEXT "The winds are not at peace." }
+	SUB	"mg2a1_w1" { TEXT "My friend, there is a disturbance." }
+	SUB	"mg2a1h_1" { TEXT "A sound ripples through the air." }
+	SUB	"mg2a1h_2" { TEXT "Did I hear a noise?" }
+	SUB	"mg2a1hw1" { TEXT "Did you hear that?" }
+	SUB	"mg2a1hw2" { TEXT "Mysterious sounds." }
+	SUB	"mg2a1hw3" { TEXT "Did you hear something as well?" }
+	SUB	"mg2a1v_1" { TEXT "What vision disturbs me?" }
+	SUB	"mg2a1vw1" { TEXT "The light reveals a shadow to us." }
+	SUB	"mg2a1vw2" { TEXT "Look. Over there!" }
+	SUB	"mg2a2__1" { TEXT "There is a strange presence here!" }
+	SUB	"mg2a2__2" { TEXT "All is not as it should be." }
+	SUB	"mg2a2__3" { TEXT "A danger in the shadows." }
+	SUB	"mg2a2h_1" { TEXT "The sound of an intruder disturbs the air!" }
+	SUB	"mg2a2h_2" { TEXT "Come out at once, for I hear your presence." }
+	SUB	"mg2a2se1" { TEXT "The shadows reveal your cowardice, intruder!" }
+	SUB	"mg2a2se2" { TEXT "The Eternal Fire will reclaim you!" }
+	SUB	"mg2a2se3" { TEXT "I have eternity to seek you out!" }
+	SUB	"mg2a2se4" { TEXT "Leave us, while you can." }
+	SUB	"mg2a2v_1" { TEXT "I see you. Do not try to escape." }
+	SUB	"mg2a3b_1" { TEXT "You have returned my brother to the Eternal Fire. I shall do the same to you!" }
+	SUB	"mg2a3na1" { TEXT "I warn you: do not take up arms against me!" }
+	SUB	"mg2a3na2" { TEXT "Be still." }
+	SUB	"mg2a3na3" { TEXT "Stand as still as a pond in the winter." }
+	SUB	"mg2a3na4" { TEXT "To stir will only bring death!" }
+	SUB	"mg2a3s_1" { TEXT "Do not flee!" }
+	SUB	"mg2a3s_2" { TEXT "Do not try to escape!" }
+	SUB	"mg2a3s_3" { TEXT "You do not belong here!" }
+	SUB	"mg2a3se1" { TEXT "Do you see death in the darkness?" }
+	SUB	"mg2a3se2" { TEXT "The shadows will not shelter you forever." }
+	SUB	"mg2a3se3" { TEXT "Your fate is a hurricane that cannot be outrun." }
+	SUB	"mg2alma1" { TEXT "Your heart will quicken with every pulse of the alarm!" }
+	SUB	"mg2alma2" { TEXT "You will hear the sound of your undoing!" }
+	SUB	"mg2almw1" { TEXT "Sound the alarm!" }
+	SUB	"mg2amb_1" { TEXT "Who attacks me?" }
+	SUB	"mg2amb_2" { TEXT "Aaagh! An unseen foe strikes at me!" }
+	SUB	"mg2amb_3" { TEXT "Uuuhuh! A dishonorable attack from behind!" }
+	SUB	"mg2ambw1" { TEXT "Who attacks?" }
+	SUB	"mg2atb_1" { TEXT "Darkness shall overtake you." }
+	SUB	"mg2atb_2" { TEXT "Feel the sting of my anger." }
+	SUB	"mg2atb_3" { TEXT "I call upon the Elements to smite you!" }
+	SUB	"mg2bak_1" { TEXT "The Wind has deceived me." }
+	SUB	"mg2bak_2" { TEXT "All is still." }
+	SUB	"mg2bak_3" { TEXT "Sweet silence returns." }
+	SUB	"mg2bak_4" { TEXT "Twas a false vision." }
+	SUB	"mg2bak_5" { TEXT "It was nothing." }
+	SUB	"mg2bod_1" { TEXT "You have been wronged, but the Eternal Fire will purge all evil!" }
+	SUB	"mg2bod_2" { TEXT "May your next path be more joyful than this one." }
+	SUB	"mg2chga1" { TEXT "The force of the Elements will fall upon you!" }
+	SUB	"mg2chga2" { TEXT "I shall steal your breath away, thief!" }
+	SUB	"mg2chgw1" { TEXT "This intruder will not stop us!" }
+	SUB	"mg2chgw2" { TEXT "The false one must not learn our ways." }
+	SUB	"mg2det_1" { TEXT "You cannot escape the inevitable." }
+	SUB	"mg2hit_1" { TEXT "Your end approaches!" }
+	SUB	"mg2hit_2" { TEXT "Prepare yourself for death, intruder!" }
+	SUB	"mg2hitw1" { TEXT "Soon he will cross our paths no more!" }
+	SUB	"mg2hlow1" { TEXT "Uuugh! I am falling!" }
+	SUB	"mg2hnd_1" { TEXT "I am unharmed, foolish one!" }
+	SUB	"mg2hnd_2" { TEXT "I stand unscathed." }
+	SUB	"mg2lar_1" { TEXT "The hands of a stranger are at work here." }
+	SUB	"mg2lar_2" { TEXT "An intruder has brought chaos to our Order." }
+	SUB	"mg2los_1" { TEXT "He may have returned to darkness, but time is on my side." }
+	SUB	"mg2los_2" { TEXT "The intruder eludes me, for now." }
+	SUB	"mg2m1603" { TEXT "The seasons move faster, invader!" }
+	SUB	"mg2m1604" { TEXT "He strikes as a dying wind!" }
+	SUB	"mg2m1609" { TEXT "Uaaah! The Earth will protect me!" }
+	SUB	"mg2mis_1" { TEXT "This is not where it should be." }
+	SUB	"mg2mis_2" { TEXT "Thievery!" }
+	SUB	"mg2rbod1" { TEXT "Our brother has returned to the Eternal Fire." }
+	SUB	"mg2rbod2" { TEXT "He walks the Final Path." }
+	SUB	"mg2rint1" { TEXT "I spied the invader." }
+	SUB	"mg2rint2" { TEXT "Our unwelcome guest revealed himself to me." }
+	SUB	"mg2rmis1" { TEXT "A thief is in our home." }
+	SUB	"mg2rmis2" { TEXT "Someone has stolen this!" }
+	SUB	"mg2rmis3" { TEXT "This is missing." }
+	SUB	"mg2roth1" { TEXT "One walks among us who does not belong." }
+	SUB	"mg2roth2" { TEXT "An intruder stalks our towers!" }
+	SUB	"mg2runa1" { TEXT "I shall return with others, rogue!" }
+	SUB	"mg2runa2" { TEXT "To me! An intruder has come!" }
+	SUB	"mg2sec_1" { TEXT "Our sanctum is invaded!" }
+	SUB	"mg2sec_2" { TEXT "An outsider is here!" }
+	SUB	"mg2sma_1" { TEXT "The balance has been disturbed." }
+	SUB	"mg2sma_2" { TEXT "There is disharmony here." }
+	SUB	"mg2telc1" { TEXT "Here he is.... The intruder is revealed." }
+	SUB	"mg2telc2" { TEXT "The false one! He is here!" }
+	SUB	"mg2telc3" { TEXT "I have found him!" }
+	SUB	"mg2telc4" { TEXT "Make haste, fellow mages! The thief is here!" }
+	SUB	"mg2telr1" { TEXT "An intruder has come into the light." }
+	SUB	"mg2telr2" { TEXT "Join me against this outsider!" }
+	SUB	"mg2telr3" { TEXT "I see the source of the disharmony!" } 
+}

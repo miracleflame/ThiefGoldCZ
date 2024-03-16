@@ -1,0 +1,221 @@
+SUB1
+
+{
+	TYPE	"player"
+	DESCR	"Garrett to himself"
+	SUB	"gar001" { TEXT "This door is bolted, and there's no way to open it." }
+	SUB	"gar002" { TEXT "Locked. I'll need the key to open it." }
+	SUB	"gar003" { TEXT "It's locked. I can try picking the lock or finding the right key." }
+	SUB	"gar004" { TEXT "Ahh, got it!" }
+	SUB	"gar005" { TEXT "A container like this might have something good inside it." }
+	SUB	"gar006" { TEXT "That's too high." }
+	SUB	"gar007" { TEXT "Crystals are good for powering up arrows." }
+	SUB	"gar008" { TEXT "This will be useful." }
+	SUB	"gar009" { TEXT "Rope arrows will only stick in wooden surfaces." }
+	SUB	"gar010" { TEXT "Always good to grab loot." }
+	SUB	"gar011" { TEXT "Now this is worth the price of admission." }
+	SUB	"gar012" { TEXT "Now the bow will shoot fire arrows." }
+	SUB	"gar013" { TEXT "Now the bow will shoot water arrows." }
+	SUB	"gar014" { TEXT "Now the bow will shoot moss arrows." }
+	SUB	"gar015" { TEXT "Now the bow will shoot gas arrows." }
+	SUB	"gar016" { TEXT "I'd rather not walk out there into the light." }
+	SUB	"gar017" { TEXT "If I stick close to the walls, I have a chance of not being seen." }
+	SUB	"gar018" { TEXT "I'd better wait 'til his back is turned." }
+	SUB	"gar019" { TEXT "Too many for me to take all at once." }
+	SUB	"gar020" { TEXT "I'd be better off looking for another way around." }
+	SUB	"gar021" { TEXT "I shouldn't leave the body lying around." }
+	SUB	"gar022" { TEXT "Perfect. Only one, and he's looking the other way." }
+	SUB	"gar023" { TEXT "Just keep looking the other way." }
+	SUB	"gar024" { TEXT "I think I lost him." }
+	SUB	"gar025" { TEXT "I hate blind corners. You never know what you're gonna run into." }
+	SUB	"gar026" { TEXT "It almost always pays to listen at a door before opening it." }
+	SUB	"gar027" { TEXT "If I can hit him with the blackjack without being spotted he'll drop without a sound." }
+	SUB	"gar028" { TEXT "That was bloody. I should move the body, but if someone walks by here, they might figure out something's up." }
+	SUB	"gar029" { TEXT "Uuh! This is not good." }
+	SUB	"gar030" { TEXT "I could pick that guy off with an arrow, but if I miss I'll give myself away." }
+	SUB	"gar031" { TEXT "Lots of pyrotechnics, but not very stealthy. I've gotta be careful with those." }
+	SUB	"gar032" { TEXT "Water arrows are most useful for putting out torches." }
+	SUB	"gar033" { TEXT "Moss arrows are meant to be fired at noisy surfaces so that I can walk on them without making a racket." }
+	SUB	"gar034" { TEXT "Not much point in firing those into the floor." }
+	SUB	"gar035" { TEXT "I should remember that splashing around can make a lot of noise." }
+	SUB	"gar036" { TEXT "I can't stay underwater too long, or I'll drown!" }
+	SUB	"gar037" { TEXT "I've only got a few seconds of air left!" }
+	SUB	"gar038" { TEXT "I'll never make any headway against this current!" }
+	SUB	"gar039" { TEXT "Barrels like these can provide good cover in a pinch." }
+	SUB	"gar040" { TEXT "Crates like these are useful for concealment." }
+	SUB	"gar041" { TEXT "Every key opens something somewhere." }
+	SUB	"gar042" { TEXT "(Chuckles) Not so secret anymore, is it?" }
+	SUB	"gar043" { TEXT "Ahh! I'm making too much noise walking on this tile." }
+	SUB	"gar044" { TEXT "Walking over metal is noisy.... I have to be careful." }
+	SUB	"gar045" { TEXT "I have a bad feeling about this...." }
+	SUB	"gar046" { TEXT "Hmm.... This looks interesting." }
+	SUB	"gar047" { TEXT "I wonder what happened here?" }
+	SUB	"gar048" { TEXT "Looks like this hasn't worked in years." }
+	SUB	"gar049" { TEXT "I wonder how I can get up there?" }
+	SUB	"gar050" { TEXT "Hmm.... There must be a way down there." }
+	SUB	"gar06100" { TEXT "Nighty-night!" }
+	SUB	"gar06101" { TEXT "That pays the rent." }
+	SUB	"gar06102" { TEXT "Ahh, a back door." }
+	SUB	"gar06103" { TEXT "Fuuh, sewage is definitely not the glamorous part of the job." }
+	SUB	"gar06104" { TEXT "Lord Randall's would've smelled better." }
+	SUB	"gar06105" { TEXT "They're so busy gambling their money away they won't notice if I take a bit." }
+	SUB	"gar06106" { TEXT "Now I can get my vase." }
+	SUB	"gar06107" { TEXT "That's what I needed to hear." }
+	SUB	"gar06108" { TEXT "I love it when money falls into my lap." }
+	SUB	"gar100" { TEXT "No luck here." }
+	SUB	"gar101" { TEXT "I'm not opening this." }
+	SUB	"gar10100" { TEXT "Hmm.... This looks like the way out. That'll come in useful later." }
+	SUB	"gar10101" { TEXT "So this is where the mages hide their dirty little secrets." }
+	SUB	"gar10102" { TEXT "Looks like Captain Regalio's been holding out on the mages. Good thing he can't hold out on me." }
+	SUB	"gar10103" { TEXT "This'll make any fence crack a smile." }
+	SUB	"gar10104" { TEXT "Now for the talisman...." }
+	SUB	"gar102" { TEXT "Can't get through here." }
+	SUB	"gar103" { TEXT "Can't go this way." }
+	SUB	"gar104" { TEXT "Not this way." }
+	SUB	"gar105" { TEXT "Ahh, no point in going here." }
+	SUB	"gar106" { TEXT "I needn't bother here." }
+	SUB	"gar107" { TEXT "Nothing useful this way." }
+	SUB	"gar108" { TEXT "Nothing back here I care about." }
+	SUB	"gar110" { TEXT "Doesn't seem to do anything." }
+	SUB	"gar111" { TEXT "Doesn't do much." }
+	SUB	"gar120" { TEXT "Hmm. This can't be opened now." }
+	SUB	"gar121" { TEXT "Looks like I can't open it." }
+	SUB	"gar12100" { TEXT "Guess I'm not getting any information from Giry after all." }
+	SUB	"gar12101" { TEXT "Empty.... Now what?" }
+	SUB	"gar12102" { TEXT "The curtains went down on this guy a long time ago, but he's the best lead I have." }
+	SUB	"gar12103" { TEXT "This looks like the way in." }
+	SUB	"gar12104" { TEXT "Heh. Did people really pay money to see this stuff?" }
+	SUB	"gar12105" { TEXT "Aaah. A hidden entrance." }
+	SUB	"gar12106" { TEXT "Well, I'd like to stay for the finale, but I've got a feeling it's time to move on." }
+	SUB	"gar12107" { TEXT "Well, that was a surprise." }
+	SUB	"gar12108" { TEXT "This will make a nice little bonus." }
+	SUB	"gar99100" { TEXT "I'll just sneak out through the windows." }
+	SUB	"gar99102" { TEXT "Better get to work." }
+	SUB	"gar99103" { TEXT "Taffer?" }
+	SUB	"gar99104" { TEXT "Better get to the shadows before they see me." }
+	SUB	"gar99105" { TEXT "I can't hide here forever." }
+	SUB	"gar99106" { TEXT "This guy needs to lose some weight!" }
+	SUB	"gar99107" { TEXT "That shut him up!" }
+	SUB	"gar99108" { TEXT "These guys just have no sense of humor." }
+	SUB	"gar99109" { TEXT "Ahhh...my favorite year!" }
+	SUB	"gar99110" { TEXT "Must be the maid's night off." }
+	SUB	"garc0101" { TEXT "All right, old man. Let's get you out of here and me my money." }
+	SUB	"garc0103" { TEXT "Good thing you're dying, Cutty, or I'd have to kill you for stiffing me...again." }
+	SUB	"garhmmm" { TEXT "Hmm...." }
+	SUB	"garm0101" { TEXT "The Keepers were training me to be one of them, but I found... other uses for those skills." }
+	SUB	"garm0201" { TEXT "Hmm. The few too many to try to get by here." }
+	SUB	"garm0202" { TEXT "Only one guard. Still it'd be nice to get the drop on him." }
+	SUB	"garm0203" { TEXT "Inside at last." }
+	SUB	"garm0204" { TEXT "Huh. Could you possible be any more helpful?" }
+	SUB	"garm0205" { TEXT "Better not leave too many bodies lying around." }
+	SUB	"garm0206" { TEXT "I wonder if he reads them, or if it's just for show." }
+	SUB	"garm0207" { TEXT "Since I'm in here, I might as well pick up something for myself." }
+	SUB	"garm0208" { TEXT "Heh. It's a throne room. How pretentious can you get?" }
+	SUB	"garm0209" { TEXT "Here we go." }
+	SUB	"garm0301" { TEXT "I should be near the prison entrance by now." }
+	SUB	"garm0302" { TEXT "He can't see me while I stick to the shadows, but I'll have to cross into the light in order to get to the stairs." }
+	SUB	"garm0303" { TEXT "Aaahh! Clanky metal grating.... I better tread softly." }
+	SUB	"garm0304" { TEXT "Locked from the other side." }
+	SUB	"garm0305" { TEXT "Hmm.... Better not let anyone bang that gong or I'll have more company than I can handle." }
+	SUB	"garm0306" { TEXT "Heh. Just what the world needs: more Hammers!" }
+	SUB	"garm0307" { TEXT "More than one guy. That'll make things trickier." }
+	SUB	"garm0308" { TEXT "It looks like I'm on the right track." }
+	SUB	"garm0309" { TEXT "I hate blind corners. You never know what you're gonna run into." }
+	SUB	"garm0310" { TEXT "I have a bad feeling about this...." }
+	SUB	"garm0311" { TEXT "Better stick to the shadows here. If they see me I'm in trouble." }
+	SUB	"garm0312" { TEXT "Right.... Cell block four. Cutty, you better appreciate this." }
+	SUB	"garm0313" { TEXT "This seems too easy." }
+	SUB	"garm0314" { TEXT "How many guards do they have in here, anyway?" }
+	SUB	"garm0315" { TEXT "But which one is Cutty? And how am I gonna get the door open?" }
+	SUB	"garm0316" { TEXT "Just keep looking the other way." }
+	SUB	"garm0317" { TEXT "I bet the door controls are in there." }
+	SUB	"garm0318" { TEXT "Well this was a lost cause. Time to get out before I end up in the cell next door." }
+	SUB	"garm0319" { TEXT "Huh.... This must be how they spend all those tithes." }
+	SUB	"garm0320" { TEXT "Wonder if I have time to stop for a snack." }
+	SUB	"garm0321" { TEXT "No point going that way...it'll be crawling with Hammers." }
+	SUB	"garm0322" { TEXT "They take all this stuff way too seriously." }
+	SUB	"garm0323" { TEXT "If I keep going up I'm gonna run out of building." }
+	SUB	"garm0324" { TEXT "No good going this way.... Nowhere to hide." }
+	SUB	"garm0325" { TEXT "Cutty won't be needing this anymore." }
+	SUB	"garm0326" { TEXT "Ahh, this is what I'm looking for." }
+	SUB	"garm0327" { TEXT "At least I can swim better than anyone carrying a sledgehammer." }
+	SUB	"garm0328" { TEXT "So long, Hammers." }
+	SUB	"garm0329" { TEXT "Interesting ride. Wonder if any of the Hammers take it." }
+	SUB	"garm0330" { TEXT "Well, there's Basso. If he weren't unconscious it'd be simpler, but now I'll have to carry him out." }
+	SUB	"garm0401" { TEXT "Not my most elegant entrance, but it worked." }
+	SUB	"garm0402" { TEXT "Felix, you don't look so good." }
+	SUB	"garm0403" { TEXT "Damn, there has to be another way in." }
+	SUB	"garm0404" { TEXT "What's that sound?" }
+	SUB	"garm0405" { TEXT "Whoa! You know you can't take it with you-- But I can." }
+	SUB	"garm0406" { TEXT "The Horn of Quintus, I presume." }
+	SUB	"garm0407" { TEXT "So this is the fabled Horn of Quintus. Hope no one minds if I just take it with me." }
+	SUB	"garm0408" { TEXT "So much for Felix, then." }
+	SUB	"garm0409" { TEXT "It's a long way down." }
+	SUB	"garm0410" { TEXT "Heh.... How rude!" }
+	SUB	"garm0411" { TEXT "Huh.... Tombs with piped in music...how classy." }
+	SUB	"garm0412" { TEXT "Nice view. I wonder if the dead appreciate it." }
+	SUB	"garm0413" { TEXT "Good thing I'm not afraid of heights." }
+	SUB	"garm0414" { TEXT "Sounds like I'm getting close." }
+	SUB	"garm0415" { TEXT "Huh.... These guys don't look too mean." }
+	SUB	"garm0501" { TEXT "So, these are Ramirez' boys. I think it's time I dealt with Mr. Ramirez once and for all." }
+	SUB	"garm0502" { TEXT "It may be time for me to move along now. Don't wanna wear out my welcome." }
+	SUB	"garm0503" { TEXT "Maybe I should head back to my own neighborhood. Those fellas don't seem too friendly." }
+	SUB	"garm0504" { TEXT "What sort of a lunatic keeps these things as pets?" }
+	SUB	"garm0505" { TEXT "Damn! I guess I lost their trail." }
+	SUB	"garm0506" { TEXT "That shot was meant for me." }
+	SUB	"garm0507" { TEXT "These creeps are gonna lead me right back to whoever sent them to kill me. But only if I can tail them without them noticing me." }
+	SUB	"garm0601" { TEXT "A glass gem? This sword was just a waste of time!" }
+	SUB	"garm0602" { TEXT "Damn! It's a fake!" }
+	SUB	"garm0603" { TEXT "Information on Constantine! Almost as good as gold." }
+	SUB	"garm0604" { TEXT "Time to take my new sword and get out of this crazy place." }
+	SUB	"garm0605" { TEXT "Magical traps. Guess he's serious about his privacy." }
+	SUB	"garm0701" { TEXT "Looks like this place was built by my old pals, the Keepers. Wonder what they're hiding in here...?" }
+	SUB	"garm0901" { TEXT "What have we here?" }
+	SUB	"garm0902" { TEXT "I'm not swimming across there." }
+	SUB	"garm0903" { TEXT "Creepy...." }
+	SUB	"garm0904" { TEXT "Anybody...home?" }
+	SUB	"garm0905" { TEXT "I wonder if the Keepers have seen this?" }
+	SUB	"garm0906" { TEXT "One down, one to go." }
+	SUB	"garm0907" { TEXT "How can the Keepers keep this place a secret?" }
+	SUB	"garm0908" { TEXT "Looks like this must've been some sort of library." }
+	SUB	"garm0909" { TEXT "According to the map, this was probably a marketplace." }
+	SUB	"garm0910" { TEXT "Time to...raid some tombs." }
+	SUB	"garm0911" { TEXT "I'm not too crazy about the neighborhood." }
+	SUB	"garm0912" { TEXT "For me to make use of my map, I'm gonna have to find some sort of landmark to go by." }
+	SUB	"garm0913" { TEXT "So this is the Lost City.... It's not 'lost' no more!" }
+	SUB	"garm1001" { TEXT "Damn! I took too much time." }
+	SUB	"garm1002" { TEXT "'I am a Wallbuilder--' Uh...This is no place to be reading poetry." }
+	SUB	"garm1003" { TEXT "'I am a Wallbuilder. Let my walls endure from season to season, year to year, and age to age. Let my walls stand while families toil, armies march, and empires fall. I am a Wallbuilder and my walls will stand always as a shield against evil. This I pray, that will the Master Builder grant.'" }
+	SUB	"garm1101" { TEXT "I don't like the looks of this." }
+	SUB	"garm1102" { TEXT "Uh-oh." }
+	SUB	"garm1103" { TEXT "Hmm...." }
+	SUB	"garm1104" { TEXT "What do we have here?" }
+	SUB	"garm1105" { TEXT "These stairs have seen better days." }
+	SUB	"garm1106" { TEXT "Looks like this doesn't work anymore." }
+	SUB	"garm1107" { TEXT "If I don't get this thing to work, I'm not going to get very far." }
+	SUB	"garm1108" { TEXT "What was that?" }
+	SUB	"garm1109" { TEXT "Now how am I going to get out of here?" }
+	SUB	"garm1110" { TEXT "Oh Master Builder, we ask Thee to bless our Brother who hath died in Thy service. Forgive him the transgressions of his living days and look with favor on his works in Thy Name. Plumb and plane, fire and forge, purify his spirit and draw from him all which does not meet Thy plan. Take him to serve with Thee in the Thy home where he may rest in peace eternal." }
+	SUB	"garm1202" { TEXT "Well, this is...interesting, but it doesn't say anything about The Eye." }
+	SUB	"garm1203" { TEXT "Wow. Huh...not even the Hammers could make heads or tails of this, but it doesn't look good." }
+	SUB	"garm1301" { TEXT "What happened here? And where are all the Hammerites?!" }
+	SUB	"garm1302" { TEXT "Damn! Looks like Constantine got here before me." }
+	SUB	"garm1303" { TEXT "This looks like it'd make a good escape route for me and the High Priest." }
+	SUB	"garm1401" { TEXT "Well this is my way out. Better not mess with it." }
+	SUB	"garm1402" { TEXT "That can't go anywhere pleasant." }
+	SUB	"garm1403" { TEXT "All you other demon things-- You can just stay home, now." }
+	SUB	"garm1404" { TEXT "Now let's not try that again." }
+	SUB	"garm1405" { TEXT "You've gotta be kidding me." }
+	SUB	"garm1406" { TEXT "Huh. Now that's big!" }
+	SUB	"garm1407" { TEXT "Ohh, interesting." }
+	SUB	"garm1408" { TEXT "I've had enough of this." }
+	SUB	"garm1409" { TEXT "Let's just disable that portal and give the Hammers a fighting chance." }
+	SUB	"garOT01" { TEXT "I'm not even gonna comment...." }
+	SUB	"garOT02" { TEXT "I'd call that a bug." }
+	SUB	"garOT03" { TEXT "Hey, get back here!" }
+	SUB	"garOT04" { TEXT "Ohhh yeah...he's gone." }
+	SUB	"garOT05" { TEXT "Somebody light a match." }
+	SUB	"garOT06" { TEXT "What the hell is a 'taffer,' anyway?" }
+	SUB	"garOT07" { TEXT "I hate modern trends." }
+	SUB	"garOT08" { TEXT "I think Bafford's got too many bats in his belfry." }
+}

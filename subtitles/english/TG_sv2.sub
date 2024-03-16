@@ -1,0 +1,112 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Servant"
+	SUB	"sv206301" { TEXT "Oh how silly of me, of course you want to hit on twenty! Twenty-eight? Aww, you lose. Boy, what are the odds of that happening?" }
+	SUB	"sv206303" { TEXT "Of course. At this rate I'll win all your tips for the night!" }
+	SUB	"sv206305" { TEXT "Hmm? Didn't quite catch that." }
+}
+{
+	TYPE	"bark"
+	DESCR	"Servant"
+	SUB	"sv2a1__1" { TEXT "Huh?" }
+	SUB	"sv2a1__2" { TEXT "Someone there?" }
+	SUB	"sv2a1__3" { TEXT "Is that you, Kevel?" }
+	SUB	"sv2a1__4" { TEXT "What's that?" }
+	SUB	"sv2a1h_1" { TEXT "Eee! What's that sound?" }
+	SUB	"sv2a1h_2" { TEXT "Who's there? Did you say something?" }
+	SUB	"sv2a1v_1" { TEXT "Who was that there? I saw something." }
+	SUB	"sv2a1v_2" { TEXT "Aaah! Who-- Is-is someone over there?" }
+	SUB	"sv2a2__1" { TEXT "I don't like this." }
+	SUB	"sv2a2__2" { TEXT "Stop taffing with me." }
+	SUB	"sv2a2__3" { TEXT "What's that? Hey, is someone in here?" }
+	SUB	"sv2a2__4" { TEXT "Who's there?" }
+	SUB	"sv2a3b_1" { TEXT "Uugh! You...you killed him!" }
+	SUB	"sv2a3s_1" { TEXT "Please, don't hurt me!" }
+	SUB	"sv2a3s_2" { TEXT "I surrender!" }
+	SUB	"sv2a3s_3" { TEXT "I-I don't have any money!" }
+	SUB	"sv2a3s_4" { TEXT "Help, help! There's someone in here!" }
+	SUB	"sv2almw1" { TEXT "Oh, ring the alarm! Get help!" }
+	SUB	"sv2bak_1" { TEXT "Oh well.... Too many imaginings." }
+	SUB	"sv2bak_2" { TEXT "I don't know what that was." }
+	SUB	"sv2bak_3" { TEXT "Who knows what it was." }
+	SUB	"sv2bak_4" { TEXT "Glad it was nothing." }
+	SUB	"sv2bak_5" { TEXT "Oh well.... Sorry...guess it was nothing." }
+	SUB	"sv2bak_6" { TEXT "Don't know what it was.... It's gone now." }
+	SUB	"sv2bak_7" { TEXT "Sorry...nothing here now." }
+	SUB	"sv2bod_1" { TEXT "Uuh! All that blood! Uh!" }
+	SUB	"sv2bod_2" { TEXT "Murderers! Help, over here!" }
+	SUB	"sv2bod_3" { TEXT "Over here! Help! He's...he's killed someone!" }
+	SUB	"sv2bod_4" { TEXT "Aah! There's a dead guy over here...look!" }
+}
+{
+	TYPE	"convo"
+	DESCR	"Servant"
+	SUB	"sv2c0102" { TEXT "Enjoy it while it lasts, friend. 'His Fatness' will be back soon to make our lives miserable again." }
+	SUB	"sv2c0104" { TEXT "Down in the cellar again, counting his loot. I hope he stays there all night." }
+	SUB	"sv2c0201" { TEXT "I swear I've never seen the river this low." }
+	SUB	"sv2c0203" { TEXT "You can nearly walk across up at Shalebridge." }
+	SUB	"sv2c0302" { TEXT "The nerve!" }
+	SUB	"sv2c0304" { TEXT "Just so!" }
+	SUB	"sv2c0401" { TEXT "Cook says the Sir's been yelling at him over the dinners not being posh enough." }
+	SUB	"sv2c0403" { TEXT "Exactly! The Sir just thinks everything should be back like it was in the fat years, and won't hear of anything else." }
+	SUB	"sv2c0502" { TEXT "Well better pull it out soon, then. The Sir won't like lots of brown plants hanging about." }
+	SUB	"sv2c0504" { TEXT "It can't last forever. And if it does, the Sir will move to Cyric and be done with it." }
+	SUB	"sv2c0601" { TEXT "Remember back when you were saying the Baron would never marry?" }
+	SUB	"sv2c0603" { TEXT "This Felicia, he's serious about." }
+	SUB	"sv2c0605" { TEXT "My sister! She works for a lady who does Felicia's dresses." }
+	SUB	"sv2c0702" { TEXT "I saw you got back late." }
+	SUB	"sv2c0704" { TEXT "So you stayed and watched?" }
+	SUB	"sv2c0801" { TEXT "Uugh..." }
+	SUB	"sv2c0803" { TEXT "Oh I'm...I'm just worried my Jobi's never coming back. He's off fighting Blackbrook. I thought It'd be good for him, teach him discipline, but now...." }
+	SUB	"sv2c0805" { TEXT "Bein' a mother, worst thing in the world, I tell you. Best you can hope for is to die before your babes." }
+	SUB	"sv2c0902" { TEXT "The Sir, you mean?" }
+	SUB	"sv2c0904" { TEXT "I think it's just the house. All the shadows, they get to you." }
+	SUB	"sv2c1001" { TEXT "You ever go down by uh...you know...the Barricades?" }
+	SUB	"sv2c1003" { TEXT "I heard the buildings were evil spirit stone. They gobbled up who lived there!" }
+	SUB	"sv2c1005" { TEXT "Won't catch me down that way." }
+	SUB	"sv2c1102" { TEXT "Sure, for now." }
+	SUB	"sv2c1202" { TEXT "Can't complain." }
+	SUB	"sv2c1302" { TEXT "Not for a while tonight." }
+	SUB	"sv2c1402" { TEXT "Yep, lots still to do." }
+	SUB	"sv2c1501" { TEXT "Long night?" }
+	SUB	"sv2c1601" { TEXT "I am so tired of muddy boots." }
+	SUB	"sv2c1701" { TEXT "You hear? The Sir said I do good work!" }
+	SUB	"sv2c1801" { TEXT "You lose a button? I've found one in the hall." }
+	SUB	"sv2c1902" { TEXT "One of the bosses beasties caught him in the cellar, tore off his arm! He's lucky to be alive!" }
+}
+{
+	TYPE	"bark"
+	DESCR	"Servant"
+	SUB	"sv2hlow1" { TEXT "Uuugh! Please, no! Help!" }
+	SUB	"sv2lar_1" { TEXT "Aah! Look at this! Help!" }
+	SUB	"sv2lar_2" { TEXT "Oh no, who's done this? Help! Help!" }
+	SUB	"sv2m0201" { TEXT "Cold again. I hate cold breakfast." }
+	SUB	"sv2m0501" { TEXT "More wine', he says. 'More wine'. I've had about enough of him and his wine." }
+	SUB	"sv2m0502" { TEXT "Just sits down there and counts his money, he does. Wish he'd give me some.... The fat, sweaty, tight-wad!" }
+	SUB	"sv2m0503" { TEXT "He should be here. That's strange." }
+	SUB	"sv2mis_1" { TEXT "Hey! Help, thief!" }
+	SUB	"sv2mis_2" { TEXT "Where is it?" }
+	SUB	"sv2mis_3" { TEXT "Where'd the scepter go?" }
+	SUB	"sv2rbod1" { TEXT "D-did you see the body?" }
+	SUB	"sv2rint1" { TEXT "I just saw the intruder! He's around here somewhere!" }
+	SUB	"sv2rint2" { TEXT "There's someone creeping about. I'm scared." }
+	SUB	"sv2rmis1" { TEXT "There's a thief around. All sorts of stuff is missing!" }
+	SUB	"sv2rmis2" { TEXT "Somebody took the scepter!" }
+	SUB	"sv2roth1" { TEXT "Someone's searching for something, and we'll get the taff for it!" }
+	SUB	"sv2roth2" { TEXT "A whole room's been trashed! Have you seen someone?" }
+	SUB	"sv2run_1" { TEXT "Help! Thief! Thief!" }
+	SUB	"sv2run_2" { TEXT "He's right here! Help!" }
+	SUB	"sv2run_3" { TEXT "I see him! Help! Over here!" }
+	SUB	"sv2run_4" { TEXT "Over here! He has a sword!" }
+	SUB	"sv2run_5" { TEXT "Someone, get him!" }
+	SUB	"sv2run_6" { TEXT "Help, help! There's someone in here!" }
+	SUB	"sv2sec_1" { TEXT "Anyone...anyone! There's a prowler through here!" }
+	SUB	"sv2sec_2" { TEXT "Help! Here--an intruder was here!" }
+	SUB	"sv2sma_1" { TEXT "Hey, what's been going on here?" }
+	SUB	"sv2sma_2" { TEXT "What happened here?" }
+	SUB	"sv2telc1" { TEXT "He's right here! Help!" }
+	SUB	"sv2telc2" { TEXT "Over here! He has a sword!" }
+	SUB	"sv2telc3" { TEXT "I see him! Help, over here! " } 
+}

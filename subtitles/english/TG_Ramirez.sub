@@ -1,0 +1,29 @@
+SUB1
+
+{
+	TYPE	"bark"
+	DESCR	"Ramirez"
+	SUB	"rmza0mu1" { TEXT "Maybe I should send some muscle after the Stone Group. Think the taxes will get covered from the fund. Need to get Joff's leg broken; can't defy me like that." }
+	SUB	"rmza1__1" { TEXT "What was that?" }
+	SUB	"rmza1_w1" { TEXT "What was that, there?" }
+	SUB	"rmza1h_1" { TEXT "Odd noise, there." }
+	SUB	"rmza1hw1" { TEXT "What did you say?" }
+	SUB	"rmza1v_1" { TEXT "Hmm.... Would've sworn I saw something." }
+	SUB	"rmza1vw1" { TEXT "Did you see that there?" }
+	SUB	"rmza2__1" { TEXT "Hey! Show yourself!" }
+	SUB	"rmza2h_1" { TEXT "Look you, stop lurking back there! I won't have any servants lurking." }
+	SUB	"rmza2v_1" { TEXT "Who's that there? Come out of the shadows, you!" }
+	SUB	"rmza3na1" { TEXT "Aaaah! Look, who-whoever you are, I-I can make it well worth your while to cause no trouble!" }
+	SUB	"rmza3s_1" { TEXT "Aaah! Who are you and how did you get in here?" }
+	SUB	"rmzalma1" { TEXT "You won't look so smug when my guards get here!" }
+	SUB	"rmzbak_1" { TEXT "Should've known. Nothing could get in here." }
+	SUB	"rmzbod_1" { TEXT "Builder's Gold! An assassin! Guards, guards!" }
+	SUB	"rmzchg_1" { TEXT "So it's you, is it then? I'll finish you myself, you thieving jackal!" }
+	SUB	"rmzhlow1" { TEXT "Uughh, ohhh! Help me, you idiot!" }
+	SUB	"rmzlar_1" { TEXT "Guards, see to this at once: search for an intruder!" }
+	SUB	"rmzlos_1" { TEXT "Damn. Where did he go?" }
+	SUB	"rmzmis_1" { TEXT "Who took this? I'll see him buried alive!" }
+	SUB	"rmzruna1" { TEXT "Guards! Guards! Over here! I want this man dead!" }
+	SUB	"rmzsec_1" { TEXT "Guards, there's an intruder in the house! Look here!" }
+	SUB	"rmzsma_1" { TEXT "Hey.... What's going on here?" }  
+}

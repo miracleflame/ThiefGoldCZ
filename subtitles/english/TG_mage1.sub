@@ -1,0 +1,106 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Mage"
+	SUB	"mg110400" { TEXT "It's true he has returned. We must be ready. Rough waters lie ahead." }
+	SUB	"mg110402" { TEXT "Try as we might, to retrieve the Talismans, the Prophecy is an ocean returning to shore. Little we can do to prevent it; only prepare for its arrival." }
+	SUB	"mg110404" { TEXT "It's the way of things. Civilizations will burn into the earth, so that it may give life to the next." }
+	SUB	"mg110406" { TEXT "Soon, young apprentice, you shall grasp the truth of it." }
+	SUB	"mg110600" { TEXT "Librarian, hold! I'm glad our paths have crossed this day." }
+	SUB	"mg110602" { TEXT "Those of the Inner Circle have charged me with a minor mission: find out your progress in the library." }
+	SUB	"mg110604" { TEXT "Breath enough for a score of mages, as you surely know, but they are consumed of late with other matters." }
+	SUB	"mg110606" { TEXT "I am impressed! You have done all this today?" }
+	SUB	"mg1a0ch1" { TEXT "Wind blows; fire burns. Water flows; earth shakes." }
+	SUB	"mg1a0ch2" { TEXT "I shall walk the path 'til my return to the Eternal Fire." }
+	SUB	"mg1a0ch3" { TEXT "I shall build shelters from the Winds, feel the countless Waters, see the vast Earth, and burn in Eternal Fires." }
+}
+{
+	TYPE	"bark"
+	DESCR	"mage"
+	SUB	"mg1a1__1" { TEXT "All is not still." }
+	SUB	"mg1a1__2" { TEXT "There is a disturbance." }
+	SUB	"mg1a1__3" { TEXT "A mystery presents itself." }
+	SUB	"mg1a1_w1" { TEXT "There, my friend! A disturbance." }
+	SUB	"mg1a1h_1" { TEXT "The air...speaks to me." }
+	SUB	"mg1a1h_2" { TEXT "Hmm. A noise." }
+	SUB	"mg1a1hw1" { TEXT "Do you hear that?" }
+	SUB	"mg1a1hw2" { TEXT "Mysterious sounds." }
+	SUB	"mg1a1v_1" { TEXT "Is this a vision?" }
+	SUB	"mg1a1vw1" { TEXT "Does the light reveal something to us?" }
+	SUB	"mg1a1vw2" { TEXT "Is it over there?" }
+	SUB	"mg1a2__1" { TEXT "There is a false presence here." }
+	SUB	"mg1a2__2" { TEXT "What trouble is this?" }
+	SUB	"mg1a2__3" { TEXT "The shadows hold a threat." }
+	SUB	"mg1a2h_1" { TEXT "The air warns of an intruder." }
+	SUB	"mg1a2h_2" { TEXT "You betray yourself! Come out at once!" }
+	SUB	"mg1a2se1" { TEXT "To hide in the shadows is to reveal your fear, intruder." }
+	SUB	"mg1a2se2" { TEXT "You cannot hide from the inevitable." }
+	SUB	"mg1a2v_1" { TEXT "I have seen you! Do not try to escape." }
+	SUB	"mg1a3b_1" { TEXT "The blood of my brother stains your hands. Now your blood will stain mine!" }
+	SUB	"mg1a3na1" { TEXT "Do not take up arms against me, I warn you!" }
+	SUB	"mg1a3na2" { TEXT "Be still." }
+	SUB	"mg1a3na3" { TEXT "To attack will gain you nothing, man!" }
+	SUB	"mg1a3na4" { TEXT "It would be wise to surrender." }
+	SUB	"mg1a3s_1" { TEXT "Do not flee!" }
+	SUB	"mg1a3s_2" { TEXT "Do not try to escape!" }
+	SUB	"mg1a3s_3" { TEXT "You do not belong here!" }
+	SUB	"mg1a3se1" { TEXT "Escape while you can! We wish to be left alone." }
+	SUB	"mg1a3se2" { TEXT "The darkness will not protect you for long." }
+	SUB	"mg1a3se3" { TEXT "You cannot run from your fate!" }
+	SUB	"mg1alma1" { TEXT "This alarm is your death knell!" }
+	SUB	"mg1almw1" { TEXT "Alert the others, fellow mage!" }
+	SUB	"mg1amb_1" { TEXT "Uuaah! I feel a sting from the darkness!" }
+	SUB	"mg1amb_2" { TEXT "Do not think you are safe from our wrath!" }
+	SUB	"mg1ambw1" { TEXT "Uugh! My lifes' water spills from me." }
+	SUB	"mg1atb_1" { TEXT "Your corpse shall feed the earth!" }
+	SUB	"mg1atb_2" { TEXT "Return to the Eternal Fire, invader!" }
+	SUB	"mg1atb_3" { TEXT "Let the darkness take you!" }
+	SUB	"mg1bak_1" { TEXT "The wind plays tricks with my senses." }
+	SUB	"mg1bak_2" { TEXT "All is still." }
+	SUB	"mg1bak_3" { TEXT "Sweet silence returns." }
+	SUB	"mg1bak_4" { TEXT "Twas a false vision." }
+	SUB	"mg1bak_5" { TEXT "Hmm. Nothing." }
+	SUB	"mg1bak_6" { TEXT "There is no spoon." }
+	SUB	"mg1bod_1" { TEXT "May wisdom guide you on your journey, fallen one." }
+	SUB	"mg1chga1" { TEXT "I shall return you to ashes, rogue!" }
+	SUB	"mg1chga2" { TEXT "I will see you bleed, thief!" }
+	SUB	"mg1chgw1" { TEXT "We must subdue this intruder!" }
+	SUB	"mg1chgw2" { TEXT "We will send you to the next path, false one!" }
+	SUB	"mg1diec2" { TEXT "Nooo!" }
+	SUB	"mg1hit_1" { TEXT "Your suffering shall end shortly." }
+	SUB	"mg1hit_2" { TEXT "Ha ha-ha! Do not fear your death!" }
+	SUB	"mg1hitw1" { TEXT "Strike the foe together!" }
+	SUB	"mg1hlow1" { TEXT "Aaaagh! I fade!" }
+	SUB	"mg1hnd_1" { TEXT "You cannot change my destiny, thief!" }
+	SUB	"mg1lar_1" { TEXT "A great sign of conflict." }
+	SUB	"mg1lar_2" { TEXT "This is not the work of mages!" }
+	SUB	"mg1los_1" { TEXT "He has returned to the shadows." }
+	SUB	"mg1los_2" { TEXT "I failed to find the intruder." }
+	SUB	"mg1m1601" { TEXT "Resistance is futile." }
+	SUB	"mg1m1602" { TEXT "You cannot escape the inevitable!" }
+	SUB	"mg1m1606" { TEXT "His winds blow quickly." }
+	SUB	"mg1mis_1" { TEXT "He has taken our possessions and our peace of mind." }
+	SUB	"mg1mis_2" { TEXT "Something is missing." }
+	SUB	"mg1rbod1" { TEXT "Another has returned to the Eternal Fire." }
+	SUB	"mg1rbod2" { TEXT "We have lost a brother!" }
+	SUB	"mg1rint1" { TEXT "I saw the intruder." }
+	SUB	"mg1rint2" { TEXT "The thief lurks in the darkness. I have seen him." }
+	SUB	"mg1rmis1" { TEXT "Where has it gone?" }
+	SUB	"mg1rmis2" { TEXT "We have been robbed!" }
+	SUB	"mg1rmis3" { TEXT "Someone has taken our possessions!" }
+	SUB	"mg1roth1" { TEXT "One walks among us that does not belong." }
+	SUB	"mg1roth2" { TEXT "The towers contain an intruder!" }
+	SUB	"mg1runa1" { TEXT "I shall return in larger numbers, intruder!" }
+	SUB	"mg1runa2" { TEXT "Mages: unite against this threat!" }
+	SUB	"mg1sec_1" { TEXT "Our sanctum is invaded!" }
+	SUB	"mg1sec_2" { TEXT "The walls have been breached!" }
+	SUB	"mg1sma_1" { TEXT "The balance is uneven here." }
+	SUB	"mg1sma_2" { TEXT "I see disharmony." }
+	SUB	"mg1telc1" { TEXT "The intruder is revealed!" }
+	SUB	"mg1telc2" { TEXT "My search is ended! I have seen the intruder." }
+	SUB	"mg1telc3" { TEXT "The thief has come into the light." }
+	SUB	"mg1telr1" { TEXT "I have found an intruder among us." }
+	SUB	"mg1telr2" { TEXT "Gather round, Mages, to end this threat!" }
+	SUB	"mg1telr3" { TEXT "A visitor threatens our peace!" }
+}

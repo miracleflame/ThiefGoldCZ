@@ -1,0 +1,13 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Cutty"
+	SUB	"cutc0102" { TEXT "Heh heh.... 'Fraid you're going to be disappointed!" }
+	SUB	"cutc0104" { TEXT "Snap snap, puppy! But I owe ya, so.... Felix went after the Horn of Quintus, down the Bonehoard.... Left me his notes." }
+	SUB	"cutc0105" { TEXT "The Hammers'...got 'em...and put 'em in their...'evidence box'." }
+	SUB	"cutc0106" { TEXT "Loot collection more like. Upstairs...Officer's Quarters." }
+	SUB	"cutc0107" { TEXT "Once you're up there...hidden passage. If damp hadn't rotted my lungs...." }
+	SUB	"cutm0301" { TEXT "Garrett! Is that you? In here. Come on, puppy." }
+	SUB	"cutm0302" { TEXT "Garrett, stop taffing around. Your sneaksie tricks won't fool old Cutty." }
+}

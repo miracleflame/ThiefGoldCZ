@@ -1,0 +1,15 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Eye"
+	SUB	"eye01" { TEXT "Comes a man to rescue me. Poor man. The Keepers have sealed the door and only they know how to open them. Cross you the bridge to the grotto of the Keepers' Sentinel. Stand you on the pedestal, and illuminate the statue with fire. Then you can discover the secret of the Talismans." }
+	SUB	"eye02" { TEXT "So, you are returned with the Talismans, you clever man. I did not think it likely that you would succeed." }
+	SUB	"eye03" { TEXT "I am...The Eye. Trapped on this altar these many years. Can you reach me, or will you fail having come so far?" }
+	SUB	"eye04" { TEXT "Welcome, thief. Now that you have obtained your prize, can you escape with your skin?" }
+	SUB	"eye05" { TEXT "Leaving so soon? I think that would be too easy. These doors I sealed once again. You have to find another way." }
+	SUB	"eye06" { TEXT "Where are you going? Have you come all this way only to leave me as I fall within your grasp?" }
+	SUB	"eye07" { TEXT "Poor Murus. Still struggling against me all these years. He's gone quite mad I fear." }
+	SUB	"eye08" { TEXT "Now you have your precious Eye. What do you hope to do with me?" }
+	SUB	"eye09" { TEXT "Master, beware! Something's amiss. Master!" }
+} 

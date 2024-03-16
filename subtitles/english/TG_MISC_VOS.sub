@@ -1,0 +1,18 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Voice"
+	SUB	"fac001" { TEXT "Stay away from my face, thief, or you'll be sorry." }
+SUB	"gh1gold" { TEXT "My thanks, stranger." }
+SUB	"hh1m0401" { TEXT "He who would steal my heart must first defeat my wounds." }
+SUB	"Renthank" { TEXT "I do not know who thou art, but by thy hand I can finally depart this earth and go to The Builder's Home. It is only fitting that I reward thee. In the winter tunnels beneath the cloister seek thee a room with a mural on one of the walls. In the upper right-hand corner of this mural, spy out a hidden button. Press that button. Thou hast what thy will find there and my full thanks. Farewell." }
+}
+{
+	TYPE	"convo"
+	DESCR	"Statue"
+SUB	"statuema" { TEXT "Betrayal will force you to see, Garrett." }
+SUB	"statueme" { TEXT "Greed shall be your undoing, poor Garrett." }
+SUB	"statuemf" { TEXT "Deception is your power, Garrett." }
+SUB	"statuemw" { TEXT "Do not let fear control your path, Garrett." } 
+} 

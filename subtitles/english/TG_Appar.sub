@@ -1,0 +1,12 @@
+SUB1
+
+{
+	TYPE	"bark"
+	DESCR	"Apparition"
+	SUB	"Appa0__1" { TEXT "...leafs that feeders on the fleshed ones, and wielded ..." }
+	SUB	"appa0__2" { TEXT "...leafs that feeders on the fleshed ones, and wielded up a..." } 
+	SUB	"appa0__3" { TEXT "Bidsie him the Spruces, to singer hymn an anthems, and the Woodsie Lord binders them fleshes to stone!" }
+	SUB	"appa0__4" { TEXT "Bidsie him the Spruces, to singer hymn an anthems, and the Woodsie Lord binders them fleshes to stone!" }
+	SUB	"appa0__5" { TEXT "Bow to the Woodsie Lord, and offer up your flesh-eye so that his Eye of stone may see, Manfool!" }
+	SUB	"appa0__6" { TEXT "...fleshes to stone! Bow to the Woodsie Lord, and offer up your flesh-eye so that his Eye of stone may see, Manfool!" } 
+}

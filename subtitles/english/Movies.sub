@@ -1,0 +1,27 @@
+SUB1
+
+{
+	Type "movie"
+	SrtSub	"movie/B01" "B01.srt"
+	SrtSub	"movie/B02" "B02.srt"
+	SrtSub	"movie/B03" "B03.srt"
+	SrtSub	"movie/B04" "B04.srt"
+	SrtSub	"movie/B05" "B05.srt"
+	SrtSub	"movie/B06" "B06.srt"
+	SrtSub	"movie/B07" "B07.srt"
+	SrtSub	"movie/B09" "B09.srt"
+	SrtSub	"movie/B10" "B10.srt"
+	SrtSub	"movie/B11" "B11.srt"
+	SrtSub	"movie/B12" "B12.srt"
+	SrtSub	"movie/B13" "B13.srt"
+	SrtSub	"movie/B14" "B14.srt"
+	SrtSub	"movie/B15" "B15.srt"
+	SrtSub	"movie/B16" "B16.srt"
+	SrtSub	"movie/B17" "B17.srt"
+	SrtSub	"movie/B18" "B18.srt"
+	SrtSub	"movie/CS06" "CS06.srt"
+	SrtSub	"movie/CS11" "CS11.srt"
+	SrtSub	"movie/CS14" "CS14.srt"
+	SrtSub	"movie/INTRO" "INTRO.srt"
+	SrtSub	"movie/SUCCESS" "SUCCESS.srt"
+}

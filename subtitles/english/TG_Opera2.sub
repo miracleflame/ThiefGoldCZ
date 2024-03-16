@@ -1,0 +1,54 @@
+SUB1
+
+{
+	TYPE	"convo"
+	DESCR	"Singer"
+	SUB	"op212400" { TEXT "'But wait! Who is this I spy? Who dares fell wood from my domain?'" }
+	SUB	"op212402" { TEXT "'But wait! Who is this I spy? Who dares fell--'" }
+	SUB	"op212404" { TEXT "I've got a better idea! Why don't you sing the part of 'Conandra Forest Princess' tomorrow night? And while you're at it, why don't you find yourself another leading lady?" }
+	SUB	"op212406" { TEXT "Fine! Untalented taffer troglodyte!" }
+	SUB	"op212501" { TEXT "Ironic, since I always considered your art to be a waste." }
+	SUB	"op212503" { TEXT "I can't believe the opera house is still losing money. It's all these lower-class people working the ticket office and such. They steal everything they can get their hands on! Valerius should fire all of them!" }
+	SUB	"op212505" { TEXT "Taffer!" }
+	SUB	"op212601" { TEXT "I couldn't disagree with you more! This opera is more of a travesty than a testament. The only thing overcome were my poor ears by that horrendous music Cribs has written!" }
+	SUB	"op212603" { TEXT "That's not it at all! Since Valerius took over, we've had to endure this Mr. Cribs and his twisted little operettas with vines and micas (?) as villains--What a complete nonsense! How can you stand it?" }
+	SUB	"op212700" { TEXT "May I take your cloak, sir? Wait a minute.... Help! Thief!" }
+	SUB	"op2a0si5" { TEXT "Seven salty sailors sweetly sang some sad sea songs. Seven sadly swiller-- Oh, goodness me!" }
+}
+{
+	TYPE	"bark"
+	DESCR	"Singer"
+	SUB	"op2a0si7" { TEXT "Me me me me me me!" }
+	SUB	"op2a0si8" { TEXT "La la la la la la la! (etc.)" }
+	SUB	"op2a0si9" { TEXT "Do re mi fa sol la ti do! (etc.)" }
+	SUB	"op2a1__1" { TEXT "I-Is someone there?" }
+	SUB	"op2a1__2" { TEXT "What was that?" }
+	SUB	"op2a1__3" { TEXT "Huh?" }
+	SUB	"op2a1v_1" { TEXT "Hmm? I thought I saw something." }
+	SUB	"op2a2__1" { TEXT "What the devil is going on?" }
+	SUB	"op2a2__2" { TEXT "Who's there?" }
+	SUB	"op2a3s_1" { TEXT "Aaah! Intruder!" }
+	SUB	"op2a3s_2" { TEXT "Guards!" }
+	SUB	"op2alma1" { TEXT "Sound the alarm!" }
+	SUB	"op2bak_1" { TEXT "The rats around here perform more than we do." }
+	SUB	"op2bak_2" { TEXT "Guess it was nothing." }
+	SUB	"op2bak_3" { TEXT "These halls must speak from the past." }
+	SUB	"op2bod_1" { TEXT "Good lord! A corpse!" }
+	SUB	"op2bod_2" { TEXT "Uuugh! The Reaper's work! Guards!" }
+	SUB	"op2hlow1" { TEXT "Uggh! Help me!" }
+	SUB	"op2hlow2" { TEXT "Oooh! Is there a doctor in the house?" }
+	SUB	"op2lar_1" { TEXT "What a mess! Guards!" }
+	SUB	"op2mis_1" { TEXT "What robbery is this? Guards!" }
+	SUB	"op2rbod1" { TEXT "I tell you he's dead! The blood was still fresh on the floor!" }
+	SUB	"op2rint1" { TEXT "I have spied the criminal!" }
+	SUB	"op2rmis1" { TEXT "Robbed, I tell you! There is a burglar somewhere!" }
+	SUB	"op2roth1" { TEXT "Someone is lurking in the halls of the opera house that should not be." }
+	SUB	"op2runa1" { TEXT "Guards...there's a thief lurking about!" }
+	SUB	"op2runa2" { TEXT "Help, someone! There's an intruder!" }
+	SUB	"op2runa3" { TEXT "Guards! Thief! Don't let him escape justice!" }
+	SUB	"op2runa4" { TEXT "Thief! Go after him!" }
+	SUB	"op2sec_1" { TEXT "Help! There is a rogue amongst us!" }
+	SUB	"op2sma_1" { TEXT "Hmm.... Strange." }
+	SUB	"op2telc1" { TEXT "I've spotted him!" }
+	SUB	"op2telc2" { TEXT "Guards! He's over here!" } 
+}

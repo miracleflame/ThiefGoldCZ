@@ -1,0 +1,22 @@
+SUB1
+
+{
+	TYPE	"bark"
+	DESCR	"Haunt"
+	SUB	"Hh1a0mo1" { TEXT "Thy words have struck like spears into the blooded darkened thoughts...thou didst keep thy thoughts to keep hands from thy murder." }
+	SUB	"Hh1a0mo2" { TEXT "[Unintelligible]...foundations...[unintelligible]." }
+	SUB	"Hh1a0mo3" { TEXT "So must thou also armour thyself against their blandishments and strike through their (Two voices speak at once) lies and trickery. The fires of the bound to thy works must end life." }
+	SUB	"Hh1a0wh1" { TEXT "So must thou also armour thyself against their blandishments and strike through their (Two voices speak at once) lies and trickery. The fires of the bound to thy works must end life." }
+	SUB	"Hh1a0wh2" { TEXT "Know then to beware in combat these breakers... and rescue the foundations from the flames." }
+	SUB	"Hh1a0wh3" { TEXT "Thy words have struck like spears into the blooded darkened thoughts...thou didst keep thy thoughts to keep hands from thy murder." }
+	SUB	"Hh1a1__1" { TEXT "Under the skin shall join us now." }
+	SUB	"Hh1a1__2" { TEXT "We suffer the days of the centuries of leaden sordid gods." }
+	SUB	"Hh1a1__3" { TEXT "Smith and return to your flames." }
+	SUB	"Hh1a1__4" { TEXT "Flames around you, flames, nothing but flames, burning your flesh." }
+	SUB	"Hh1a1__5" { TEXT "Your soul cannot be saved." }
+	SUB	"Hh1a1__6" { TEXT "Join us, join us, join us now!" }
+	SUB	"hh1bak__1" { TEXT "Keep hands from thy murder." }
+	SUB	"Hh1m0401" { TEXT "He who would steal my heart must first defeat my wounds." }
+	SUB	"Hha0mo1" { TEXT "Thy works have struck like spears deep into the darkness that would smother thy forge...flames of the murderers?" }
+	SUB	"Hh1a1__2" { TEXT "In dreams we suffer the pain of centuries..." } 
+} 
