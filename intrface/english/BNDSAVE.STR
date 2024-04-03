@@ -1,0 +1,12 @@
+save: "Save"
+done: "Done"
+
+unused: "< EMPTY >"
+
+initial: "Select a bind file to save."
+saving: "Saving..."
+
+success: "Save Successful"
+failure: "Save Failed"
+
+my_binds: "My Binds"

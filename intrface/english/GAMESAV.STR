@@ -1,0 +1,14 @@
+save: "Save"
+done: "Done"
+
+unused: "< EMPTY >"
+
+initial: "Select a file to save."
+saving: "Saving..."
+
+success: "Save Successful"
+failure: "Save Failed"
+
+quick_save: "(Quick Save)"
+
+no_disk_space: "Not Enough Disk Space"

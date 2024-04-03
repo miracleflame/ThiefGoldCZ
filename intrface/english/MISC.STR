@@ -1,0 +1,24 @@
+Loot_0: "Gold"
+Loot_1: "Gems"
+Loot_2: "Goods"
+Loot_total: "Total" 
+
+set_mode_failed: "The requested screen mode could not be set."
+
+between_key_bindings: " or "
+no_key_bindings: "[None]"
+insert_cd_msg: "Please insert the CD into the CD drive"
+insert_cd_title: "Missing CD!"
+
+regkey: "SOFTWARE\\Looking Glass Studios\\Thief:The Dark Project\\1.0"
+
+driver_text: "Thief requries 100% DirectX 6 compatible drivers for your video/3D card. If you do not have such drivers, you may experience some problems while running Thief.
+
+If you experience rendering problems, or systems crashes please update the drivers for your card by contacting your card or PC manufacturer. 
+
+If you have a video card with a 3DFX Voodoo 2 chipset, drivers have been provided on the Thief CD, in the Drivers folder.
+
+Please consult the ReadMe file for more detailed information."
+
+neveragain: "Don't show me this message again"
+

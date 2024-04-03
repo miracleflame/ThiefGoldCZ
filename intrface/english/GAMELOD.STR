@@ -1,0 +1,11 @@
+load: "Load"
+done: "Done"
+
+unused: "< EMPTY >"
+
+initial: "Select a file to load."
+loading: "Loading..."
+failed: "Load Failed" 
+
+
+
