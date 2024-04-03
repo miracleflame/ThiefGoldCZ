@@ -1,20 +1,20 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Prisoner"
-	SUB	"pr1a0mu2" { TEXT "Woe is me...." }
-	SUB	"pr1a1__1" { TEXT "What was that?" }
-	SUB	"pr1a1__2" { TEXT "Hmm...? Go away." }
-	SUB	"pr1a2__1" { TEXT "Huh?" }
-	SUB	"pr1a2__2" { TEXT "Woe is me!" }
-	SUB	"pr1a3__1" { TEXT "Huh? Who are you? Go away!" }
-	SUB	"pr1a3__2" { TEXT "Sorry! Sorry! Sorry sorry sorry sorry! Don't hurt me!" }
-	SUB	"pr1a3__3" { TEXT "Hey! Can you get me outta here?" }
-	SUB	"pr1bak_1" { TEXT "Oh well." }
-	SUB	"pr1bak_2" { TEXT "Rats. Always rats." }
-	SUB	"pr1hhi_1" { TEXT "Ow!" }
-	SUB	"pr1hhi_2" { TEXT "Aaah!" }
-	SUB	"pr1hlo_1" { TEXT "No!" }
-	SUB	"pr1hlo_2" { TEXT "Ouch!" } 
+	TYPE "convo"
+	DESCR "Prisoner"
+	SUB "pr1a0mu2" { TEXT "Bìda mi...." }
+	SUB "pr1a1__1" { TEXT "Co to bylo?" }
+	SUB "pr1a1__2" { TEXT "Hmm...? Jdi pryè." }
+	SUB "pr1a2__1" { TEXT "Ha?" }
+	SUB "pr1a2__2" { TEXT "Bìda mi!" }
+	SUB "pr1a3__1" { TEXT "Co? Kdo jsi? Jdi pryè!" }
+	SUB "pr1a3__2" { TEXT "Promiò! Omlouvám se! Promiò, promiò, promiò, promiò! Neubližuj mi!" }
+	SUB "pr1a3__3" { TEXT "Hej! Mùžeš mì odsud dostat?" }
+	SUB "pr1bak_1" { TEXT "No jo." }
+	SUB "pr1bak_2" { TEXT "Krysy. Vždycky krysy." }
+	SUB "pr1hhi_1" { TEXT "Au!" }
+	SUB "pr1hhi_2" { TEXT "Aaah!" }
+	SUB "pr1hlo_1" { TEXT "Ne!" }
+	SUB "pr1hlo_2" { TEXT "Au!" } 
 } 

@@ -1,144 +1,142 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Thief"
-	SUB	"th206101" { TEXT "I heard that. We got Donal on the south side and Rueben on the north, if something goes down, we'll be caught in the middle of it." }
-	SUB	"th206103" { TEXT "Uugh. I should never have gone Union." }
-	SUB	"th206601" { TEXT "Yeah. Name's Garrett. Ramirez tried recruiting him a while back, but Garrett turned him down. I heard Ramirez sent some cleaners to take care of the mess." }
-	SUB	"th206701" { TEXT "We didn't pull that job, did we?" }
-	SUB	"th206703" { TEXT "Well, who then?" }
-	SUB	"th206801" { TEXT "Nah, what happened?" }
-	SUB	"th206803" { TEXT "That's crazy!" }
-	SUB	"th206805" { TEXT "Okay, what was it?" }
-	SUB	"th206807" { TEXT "Haha haha! You mean to tell me this taffer went through all the trouble breaking into Lord Baffords' manor, only in order to steal a scepter that had already been stolen?" }
-	SUB	"th206809" { TEXT "Why did he end up in Cragscleft, though? Figured Bafford would've just turn him over to the Sheriff." }
-	SUB	"th206811" { TEXT "What did Bafford get?" }
-	SUB	"th206901" { TEXT "Heard he came in pretty late. He get something good?" }
-	SUB	"th206903" { TEXT "He got caught?" }
-	SUB	"th206906" { TEXT "What?" }
-	SUB	"th206908" { TEXT "Ahaha haha haha!" }
-	SUB	"th207105" { TEXT "Are you taffing me?" }
-	SUB	"th207107" { TEXT "And I'm standing here listening to Danno tell you the password. Do you think he's gonna let me if I'm not in the Guild, or you think I'm lackwit enough not to remember it?" }
-	SUB	"th2a0__1" { TEXT "Yeah, yeah...that's the thing...." }
-	SUB	"th2a0mu1" { TEXT "I went to my room, there was nothing in there any more.... People taking my things...." }
-	SUB	"th2a0mu2" { TEXT "Aaah, people around here, they just don't care.... I need some money...." }
-	SUB	"th2a0mu3" { TEXT "Uuugh, my cup, it's gone.... Don't know where it went...." }
-	SUB	"th2a0tc1" { TEXT "Hmmm...." }
+	TYPE "convo"
+	DESCR "ZlodÏj"
+	SUB "th206101" { TEXT "Slyöel jsem. M·me Donala na jiûnÌ stranÏ a Ruebena na severnÌ, jestli se nÏco semele, tak n·s to zastihne uprost¯ed." }
+	SUB "th206103" { TEXT "Uff. Nikdy jsem nemÏl jÌt do odbor˘." }
+	SUB "th206601" { TEXT "Jo. Jmenuje se Garrett. Ramirez se ho p¯ed Ëasem snaûil naverbovat, ale Garrett ho odmÌtl. Slyöel jsem, ûe Ramirez poslal nÏjakÈ uklÌzeËe, aby se postarali o ten nepo¯·dek." }
+	SUB "th206701" { TEXT "Tu pr·ci jsme nezvl·dli, ûe ne?" }
+	SUB "th206703" { TEXT "A kdo tedy?" }
+	SUB "th206801" { TEXT "Ne, co se mu stalo?" }
+	SUB "th206803" { TEXT "To je öÌlen˝!" }
+	SUB "th206805" { TEXT "Dob¯e, co to bylo?" }
+	SUB "th206807" { TEXT "Haha haha! Chceö mi ¯Ìct, ûe tenhle tafer se vloupal do panstvÌ lorda Bafforda jen proto, aby ukradl ûezlo, kterÈ uû bylo ukradeno?" }
+	SUB "th206809" { TEXT "ProË ale skonËil v HoroötÏpu? Myslel jsem, ûe by ho Bafford prostÏ p¯edal öerifovi." }
+	SUB "th206811" { TEXT "Co dostal Bafford?" }
+	SUB "th206901" { TEXT "Pr˝ p¯iöel dost pozdÏ. Dostal nÏco dobrÈho?" }
+	SUB "th206903" { TEXT "Chytli ho?" }
+	SUB "th206906" { TEXT "Coûe?" }
+    SUB "th207105" { TEXT "DÏl·ö si ze mÏ tafra?" }
+	SUB "th207107" { TEXT "A j· tu stojÌm a poslouch·m, jak ti Danno ¯Ìk· heslo. MyslÌö, ûe by to udÏlal, kdybych nebyl z Cechu, nebo si myslÌö, ûe jsem takov˝ tupec, abych si to heslo nezapamatoval?" }
+	SUB "th2a0__1" { TEXT "Jo, jo... to je ono...." }
+	SUB "th2a0mu1" { TEXT "äel jsem do svÈho pokoje, uû tam nic nebylo.... Lidi mi berou vÏci...." }
+	SUB "th2a0mu2" { TEXT "Aaah, lidi tady, je jim to prostÏ jedno.... Pot¯ebuju nÏjakÈ penÌze...." }
+	SUB "th2a0mu3" { TEXT "Uh, m˘j hrnek, je pryË.... NevÌm, kam se podÏl...." }
+	SUB "th2a0tc1" { TEXT "Hmmm...." }
 }
 {
-	TYPE	"bark"
-	DESCR	"Thief"
-	SUB	"th2a1__1" { TEXT "Huh?" }
-	SUB	"th2a1__2" { TEXT "What" }
-	SUB	"th2a1__3" { TEXT "Uh?" }
-	SUB	"th2a1__4" { TEXT "Hey." }
-	SUB	"th2a1_w1" { TEXT "What's happening?" }
-	SUB	"th2a1_w2" { TEXT "What's going on?" }
-	SUB	"th2a1h_1" { TEXT "What was that I heard?" }
-	SUB	"th2a1h_2" { TEXT "Mmm. I thought I heard something." }
-	SUB	"th2a1hw1" { TEXT "Quiet!" }
-	SUB	"th2a1hw2" { TEXT "Hey, you hear that?" }
-	SUB	"th2a1hw3" { TEXT "Hey! Hear that noise?" }
-	SUB	"th2a1hw4" { TEXT "Shhhh!" }
-	SUB	"th2a1v_1" { TEXT "Thought I saw something." }
-	SUB	"th2a1v_2" { TEXT "Did I just see what I think I saw?" }
-	SUB	"th2a1vw1" { TEXT "Hey! Did you see that?" }
-	SUB	"th2a1vw2" { TEXT "Look at that!" }
-	SUB	"th2a1vw3" { TEXT "Did you see something?" }
-	SUB	"th2a2__1" { TEXT "Who's that?" }
-	SUB	"th2a2__2" { TEXT "Something's wrong." }
-	SUB	"th2a2__3" { TEXT "What's going on?" }
-	SUB	"th2a2__4" { TEXT "Something is strange here." }
-	SUB	"th2a2h_1" { TEXT "Maybe if you weren't such an amateur you wouldn't make so much noise!" }
-	SUB	"th2a2h_2" { TEXT "You're a noisy one!" }
-	SUB	"th2a2h_3" { TEXT "I heard that! Stay where you are!" }
-	SUB	"th2a2se1" { TEXT "We're gonna have fun guttin' you, boy!" }
-	SUB	"th2a2se2" { TEXT "Just poke your head out! I'll end it for you quick-like!" }
-	SUB	"th2a2se3" { TEXT "I'll find you...eventually." }
-	SUB	"th2a2v_1" { TEXT "You know I see you, don't you?" }
-	SUB	"th2a3b_1" { TEXT "That's not loot you're carrying!" }
-	SUB	"th2a3na1" { TEXT "Freeze!" }
-	SUB	"th2a3na2" { TEXT "Move and you're done for!" }
-	SUB	"th2a3na3" { TEXT "I got you now, taffer!" }
-	SUB	"th2a3na4" { TEXT "Stay right there, Garrett!" }
-	SUB	"th2a3s_1" { TEXT "Garrett!" }
-	SUB	"th2a3s_2" { TEXT "You're not one of us!" }
-	SUB	"th2a3s_3" { TEXT "What the hell are you doin' here?" }
-	SUB	"th2a3s_4" { TEXT "Hey!" }
-	SUB	"th2a3se1" { TEXT "When I find you, I'm gonna take my time with you!" }
-	SUB	"th2a3se2" { TEXT "Come on out and play!" }
-	SUB	"th2a3se3" { TEXT "You can't hide forever!" }
-	SUB	"th2almw1" { TEXT "Go sound the alarm! I'll take care of him!" }
-	SUB	"th2almw2" { TEXT "The alarm, now!" }
-	SUB	"th2amb_1" { TEXT "You're a lousy shot!" }
-	SUB	"th2amb_2" { TEXT "You may as well have missed!" }
-	SUB	"th2ambw1" { TEXT "Ugh! He got me!" }
-	SUB	"th2ambw2" { TEXT "Help!" }
-	SUB	"th2atn_1" { TEXT "Feel my blade, Garrett!" }
-	SUB	"th2atw_1" { TEXT "You're gonna rot in the sewers!" }
-	SUB	"th2atww1" { TEXT "He doesn't stand a chance!" }
-	SUB	"th2bak_1" { TEXT "Huh. Too many damn rats around here." }
-	SUB	"th2bak_2" { TEXT "Uh, it was nothin', I guess." }
-	SUB	"th2bak_3" { TEXT "Hm.... [It]'s quiet now." }
-	SUB	"th2bak_4" { TEXT "Guess it was nothin'." }
-	SUB	"th2bkd_1" { TEXT "Quick, eh?" }
-	SUB	"th2bkd_2" { TEXT "Block this!" }
-	SUB	"th2bkdw1" { TEXT "I heard you were good." }
-	SUB	"th2blk_1" { TEXT "You're awfully slow." }
-	SUB	"th2blk_2" { TEXT "You better learn to be quicker if you want to learn to compete with us, Garrett!" }
-	SUB	"th2blk_3" { TEXT "You gotta be quicker than that, Garrett!" }
-	SUB	"th2blkw1" { TEXT "Not so tough now, is he?" }
-	SUB	"th2bod_1" { TEXT "He's dead!" }
-	SUB	"th2bod_2" { TEXT "Not another one!" }
-	SUB	"th2chga1" { TEXT "I'm gonna finish you, Garrett!" }
-	SUB	"th2chga2" { TEXT "You're gonna learn what pain is all about!" }
-	SUB	"th2chgw1" { TEXT "We're gonna have fun with you, Garrett!" }
-	SUB	"th2chgw2" { TEXT "After him!" }
-	SUB	"th2chgw3" { TEXT "Get him!" }
-	SUB	"th2det_1" { TEXT "You're not trying to get away, are you?" }
-	SUB	"th2det_2" { TEXT "Don't be such a sissy!" }
-	SUB	"th2detw1" { TEXT "We have him now!" }
-	SUB	"th2hit_1" { TEXT "How'd ya like that, Garrett?" }
-	SUB	"th2hit_2" { TEXT "Does it hurt?" }
-	SUB	"th2hit_3" { TEXT "Had enough?" }
-	SUB	"th2hitw1" { TEXT "We've got you now!" }
-	SUB	"th2hitw2" { TEXT "There are too many of us, Garrett!" }
-	SUB	"th2hlo_4" { TEXT "Aghhhh! Quit it!" }
-	SUB	"th2hlow1" { TEXT "Ughhh! Help me!" }
-	SUB	"th2hnd_1" { TEXT "Hah!" }
-	SUB	"th2hnd_2" { TEXT "That tickles!" }
-	SUB	"th2lar_1" { TEXT "Definitely something going down." }
-	SUB	"th2lar_2" { TEXT "Problems like this we don't need." }
-	SUB	"th2los_1" { TEXT "Where did he go, dammit?" }
-	SUB	"th2los_2" { TEXT "Lost him." }
-	SUB	"th2los_3" { TEXT "He's gone." }
-	SUB	"th2mis_1" { TEXT "Where the hell is it?" }
-	SUB	"th2mis_2" { TEXT "Who stole it?!" }
-	SUB	"th2rbod1" { TEXT "Uugh. He's been taken out." }
-	SUB	"th2rbod2" { TEXT "Someone's getting trigger happy around here. Watch it!" }
-	SUB	"th2rint1" { TEXT "Keep your eyes open. There's trouble." }
-	SUB	"th2rint2" { TEXT "Something odd is going on. Stay alert." }
-	SUB	"th2rint3" { TEXT "There's trouble. Stay sharp." }
-	SUB	"th2rmis1" { TEXT "Keep an eye out...someone took a larger cut of the score than they should have." }
-	SUB	"th2rmis2" { TEXT "Hey, there's stuff missing here!" }
-	SUB	"th2rmis3" { TEXT "The vase is gone! Thing's are gonna get ugly!" }
-	SUB	"th2roth1" { TEXT "Trouble's about.... Keep sharp." }
-	SUB	"th2roth2" { TEXT "Head's up! We got an intruder!" }
-	SUB	"th2runa1" { TEXT "Guards! Over here!" }
-	SUB	"th2runa2" { TEXT "Guards, it's Garrett! Get him!" }
-	SUB	"th2runa3" { TEXT "We have an intruder!" }
-	SUB	"th2sec_1" { TEXT "Somebody's lurkin' around." }
-	SUB	"th2sec_2" { TEXT "We definitely got a troublemaker around here." }
-	SUB	"th2sma_1" { TEXT "What's this?" }
-	SUB	"th2sma_2" { TEXT "Hmm.... This is wrong." }
-	SUB	"th2sma_3" { TEXT "Hmm.... Smells like trouble." }
-	SUB	"th2telc1" { TEXT "I found him!" }
-	SUB	"th2telc2" { TEXT "There he is!" }
-	SUB	"th2telc3" { TEXT "He's getting away! After him!" }
-	SUB	"th2telr1" { TEXT "Get over here! An intruder got inside!" }
-	SUB	"th2telr2" { TEXT "It's Garrett! Get over here!" }
-	SUB	"th2telr3" { TEXT "I've spotted him!" }
-	SUB	"th2telr4" { TEXT "Hey, he's over here!" }
-	SUB	"th2telr5" { TEXT "There he is!" } 
+	TYPE "bark"
+	DESCR "ZlodÏj"
+	SUB "th2a1__1" { TEXT "Ha?" }
+	SUB "th2a1__2" { TEXT "Co" }
+	SUB "th2a1__3" { TEXT "Uh?" }
+	SUB "th2a1__4" { TEXT "Hej." }
+	SUB "th2a1_w1" { TEXT "Co se dÏje?" }
+	SUB "th2a1_w2" { TEXT "Co se dÏje?" }
+	SUB "th2a1h_1" { TEXT "Co jsem to slyöel?" }
+	SUB "th2a1h_2" { TEXT "Mmm. Myslel jsem, ûe jsem nÏco slyöel." }
+	SUB "th2a1hw1" { TEXT "Ticho!" }
+	SUB "th2a1hw2" { TEXT "Hej, slyöÌö to?" }
+	SUB "th2a1hw3" { TEXT "Hej! SlyöÌö ten r·mus?" }
+	SUB "th2a1hw4" { TEXT "Pöööt!" }
+	SUB "th2a1v_1" { TEXT "Myslel jsem, ûe jsem nÏco vidÏl." }
+	SUB "th2a1v_2" { TEXT "VidÏl jsem to, co si myslÌm, ûe jsem vidÏl?" }
+	SUB "th2a1vw1" { TEXT "Hej! VidÏl jsi to?" }
+	SUB "th2a1vw2" { TEXT "PodÌvej se na to!" }
+	SUB "th2a1vw3" { TEXT "VidÏl jsi nÏco?" }
+	SUB "th2a2__1" { TEXT "Kdo je to?" }
+	SUB "th2a2__2" { TEXT "NÏco je öpatnÏ." }
+	SUB "th2a2__3" { TEXT "Co se dÏje?" }
+	SUB "th2a2__4" { TEXT "NÏco je tu divnÈ." }
+	SUB "th2a2h_1" { TEXT "Moûn· kdybys nebyl takov˝ amatÈr, nedÏlal bys tolik hluku!" }
+	SUB "th2a2h_2" { TEXT "Ty jsi ale hluËn˝!" }
+	SUB "th2a2h_3" { TEXT "To jsem slyöel! Z˘staÚ, kde jsi!" }
+	SUB "th2a2se1" { TEXT "To bude övanda, aû tÏ vykuch·me, chlapËe!" }
+	SUB "th2a2se2" { TEXT "Jen vystrË hlavu ven! Rychle to pro tebe ukonËÌm!" }
+	SUB "th2a2se3" { TEXT "Najdu tÏ... nakonec." }
+	SUB "th2a2v_1" { TEXT "VÌö, ûe tÏ vidÌm, ûe?" }
+	SUB "th2a3b_1" { TEXT "To nenÌ ko¯ist, kterou neseö!" }
+	SUB "th2a3na1" { TEXT "Ani hnout!" }
+	SUB "th2a3na2" { TEXT "Uhni a je po tobÏ!" }
+	SUB "th2a3na3" { TEXT "Uû tÏ m·m, taf¯e!" }
+	SUB "th2a3na4" { TEXT "Z˘staÚ kde si, Garrette!" }
+	SUB "th2a3s_1" { TEXT "Garrett!" }
+	SUB "th2a3s_2" { TEXT "Nejsi jeden z n·s!" }
+	SUB "th2a3s_3" { TEXT "Co tady sakra dÏl·ö?" }
+	SUB "th2a3s_4" { TEXT "Hej!" }
+	SUB "th2a3se1" { TEXT "Aû tÏ najdu, d·m si s tebou na Ëas!" }
+	SUB "th2a3se2" { TEXT "PojÔ si hr·t!" }
+	SUB "th2a3se3" { TEXT "Nem˘ûeö se schov·vat vÏËnÏ!" }
+	SUB "th2almw1" { TEXT "Jdi spustit poplach! Postar·m se o nÏj!" }
+	SUB "th2almw2" { TEXT "Poplach, hned!" }
+	SUB "th2amb_1" { TEXT "Jsi mizern˝ st¯elec!" }
+	SUB "th2amb_2" { TEXT "StejnÏ tak jsi mohl minout!" }
+	SUB "th2ambw1" { TEXT "Ugh! Dostal mÏ!" }
+	SUB "th2ambw2" { TEXT "Pomoc!" }
+	SUB "th2atn_1" { TEXT "S·hni si na mÈ ost¯Ì, Garrette!" }
+	SUB "th2atw_1" { TEXT "Shnijeö ve stok·ch!" }
+	SUB "th2atww1" { TEXT "Nem· öanci!" }
+	SUB "th2bak_1" { TEXT "Je tu moc zatracen˝ch krys." }
+	SUB "th2bak_2" { TEXT "Uh, asi to nic nebylo." }
+	SUB "th2bak_3" { TEXT "Hm.... TeÔ uû je klid." }
+	SUB "th2bak_4" { TEXT "Asi to nic nebylo." }
+	SUB "th2bkd_1" { TEXT "Rychle, co?" }
+	SUB "th2bkd_2" { TEXT "Zablokuj tohle!" }
+	SUB "th2bkdw1" { TEXT "Slyöel jsem, ûe jsi dobr˝." }
+	SUB "th2blk_1" { TEXT "Jsi straönÏ pomal˝." }
+	SUB "th2blk_2" { TEXT "MÏl by ses nauËit b˝t rychlejöÌ, jestli n·m chceö konkurovat, Garrette!" }
+    SUB "th2blk_3" { TEXT "MusÌö b˝t rychlejöÌ, Garrette!"    }     
+    SUB "th2blkw1" { TEXT "TeÔ uû nejsi takov˝ tvrÔ·k, co?" }
+	SUB "th2bod_1" { TEXT "Je mrtv˝!" }
+    SUB "th2bod_2" { TEXT "Snad ne dalöÌ!" }
+	SUB "th2chga1" { TEXT "Skoncuju s tebou, Garrette!" }
+	SUB "th2chga2" { TEXT "Pozn·ö, co je to bolest!" }
+	SUB "th2chgw1" { TEXT "PobavÌme se s tebou, Garrette!" }
+	SUB "th2chgw2" { TEXT "Za nÌm!" }
+	SUB "th2chgw3" { TEXT "Chyùte ho!" }
+	SUB "th2det_1" { TEXT "NesnaûÌö se utÈct, ûe ne?" }
+	SUB "th2det_2" { TEXT "NebuÔ takov˝ posera!" }
+	SUB "th2detw1" { TEXT "Uû ho m·me!" }
+	SUB "th2hit_1" { TEXT "Jak se ti to lÌbÌ, Garrette?" }
+	SUB "th2hit_2" { TEXT "BolÌ to?" }
+	SUB "th2hit_3" { TEXT "M·ö dost?" }
+	SUB "th2hitw1" { TEXT "Uû tÏ m·me!" }
+	SUB "th2hitw2" { TEXT "Je n·s mnoho, Garrette!" }
+	SUB "th2hlo_4" { TEXT "Agh! Nech toho!" }
+	SUB "th2hlow1" { TEXT "Uh! Pomozte mi!" }
+	SUB "th2hnd_2" { TEXT "To lecht·!" }
+	SUB "th2lar_1" { TEXT "RozhodnÏ se nÏco dÏje." }
+	SUB "th2lar_2" { TEXT "TakovÈ problÈmy nepot¯ebujeme." }
+	SUB "th2los_1" { TEXT "Kam to sakra öel?" }
+	SUB "th2los_2" { TEXT "Ztratil jsem ho." }
+	SUB "th2los_3" { TEXT "Je pryË." }
+	SUB "th2mis_1" { TEXT "Kde sakra je?" }
+	SUB "th2mis_2" { TEXT "Kdo to ukradl?!" }
+	SUB "th2rbod1" { TEXT "Uh. Byl vy¯azen." }
+	SUB "th2rbod2" { TEXT "NÏkdo tady zaËÌn· mÌt radost ze spouötÏ. Pozor na to!" }
+	SUB "th2rint1" { TEXT "MÏjte oËi otev¯enÈ. Jsou tu potÌûe." }
+	SUB "th2rint2" { TEXT "DÏje se nÏco divnÈho. BuÔte ve st¯ehu." }
+	SUB "th2rint3" { TEXT "Jsou tu potÌûe. BuÔte ve st¯ehu." }
+	SUB "th2rmis1" { TEXT "D·vejte pozor... nÏkdo si vzal vÏtöÌ Ë·st skÛre, neû mÏl." }
+	SUB "th2rmis2" { TEXT "Hej, tady nÏco chybÌ!" }
+	SUB "th2rmis3" { TEXT "V·za je pryË! Bude to oöklivÈ!" }
+	SUB "th2roth1" { TEXT "PotÌûe na obzoru.... BuÔ ve st¯ehu." }
+	SUB "th2roth2" { TEXT "Hlavu vzh˘ru! M·me tu vet¯elce!" }
+	SUB "th2runa1" { TEXT "Str·ûe! Tady!" }
+	SUB "th2runa2" { TEXT "Str·ûe, to je Garrett! Chyùte ho!" }
+	SUB "th2runa3" { TEXT "M·me tu vet¯elce!" }
+	SUB "th2sec_1" { TEXT "NÏkdo tu ËÌh·." }
+	SUB "th2sec_2" { TEXT "UrËitÏ tu m·me nÏjakÈho potÌûistu." }
+	SUB "th2sma_1" { TEXT "Co je to?" }
+	SUB "th2sma_2" { TEXT "Hmm.... Tohle je öpatnÏ." }
+	SUB "th2sma_3" { TEXT "Hmm.... SmrdÌ to jako trable." }
+	SUB "th2telc1" { TEXT "Naöel jsem ho!" }
+	SUB "th2telc2" { TEXT "Tady je!" }
+	SUB "th2telc3" { TEXT "UtÌk·! Za nÌm!" }
+	SUB "th2telr1" { TEXT "PojÔ sem! Vet¯elec se dostal dovnit¯!" }
+	SUB "th2telr2" { TEXT "To je Garrett! PojÔ sem!" }
+	SUB "th2telr3" { TEXT "ZahlÈdl jsem ho!" }
+	SUB "th2telr4" { TEXT "Hej, je tady!" }
+	SUB "th2telr5" { TEXT "Tady je!" } 
 } 

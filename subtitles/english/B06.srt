@@ -1,128 +1,99 @@
 1
 00:00:03,300 --> 00:00:07,300
-Builds your roofs of dead wood. 
+Staví vaše støechy z mrtvého døeva. 
 
 2
 00:00:08,400 --> 00:00:12,000
-Builds your walls of dead stone. 
+Staví vaše zdi z mrtvého kamene. 
 
 3
 00:00:12,602 --> 00:00:15,902
-Builds your dreams of dead thoughts.
+Staví vaše sny z mrtvých myšlenek.
 
 4
-00:00:16,204 --> 00:00:19,004
-Comes crying laughing singing back to life,
-
-5
-00:00:19,005 --> 00:00:21,005
-takes what you steal, 
+00:00:16,204 --> 00:00:21,005
+S pláèem a zpìvem navrací se k životu, bere si co ste ukradli,
 
 6
 00:00:21,506 --> 00:00:26,306
-and pulls the skins from your dead bones shrieking.
+A stahuje kùže z vašich mrtvých kostí za kvílení.
 
 7
-00:00:27,107 --> 00:00:29,257
--- Clay tablet in an abandoned Trickster temple
+00:00:27,107 --> 00:00:30,257
+-- Hlinìná tabulka v opuštìném chrámu Šejdíøe.
 
 8
 00:00:30,808 --> 00:00:33,408
-I was contacted by a woman named Viktoria.
+Kontaktovala mì žena jménem Viktorie.
 
 9
-00:00:33,409 --> 00:00:35,909
-She claims to represent a client who was impressed
-
-10
-00:00:35,910 --> 00:00:38,310
-by the way I took care of Ramirez,
+00:00:33,409 --> 00:00:38,310
+Tvrdí, že zastupuje klienta, na kterého prý udìlalo ohromný dojem, jak jsem se vyspoøádal s Ramirezem...
 
 11
-00:00:38,311 --> 00:00:40,511
-and now wants me to steal something for him.
+00:00:38,311 --> 00:00:40,711	
+...a nyní chce, abych pro nìj nìco ukradl.
 
 12
-00:00:41,712 --> 00:00:43,912
-The target is a magical sword, 
-
-13
-00:00:43,913 --> 00:00:47,413
-owned by a nobleman and collector named Constantine..
+00:00:41,712 --> 00:00:48,213
+Jedná se o kouzelný meè, který vlastní urozený sbìratel jménem Konstantin...
 
 14
-00:00:48,214 --> 00:00:50,614
-Little is known about Constantine
-
-15
-00:00:50,615 --> 00:00:53,615
-except that he is an eccentric new face in this city,
+00:00:48,214 --> 00:00:53,915
+O Konstantinovi se toho moc neví, kromì toho, že je to nová excentrická tváø v tomto mìstì,
 
 16
-00:00:53,916 --> 00:00:56,116
-and mostly keeps to himself.
+00:00:53,916 --> 00:00:56,916
+a vìtšinou si drží odstup.
 
 17
-00:00:57,617 --> 00:01:01,317
-Viktoria says the sword will probably be on display,
+00:00:57,617 --> 00:01:01,517
+Viktorie øíká, že meè bude pravdìpodobnì vystaven,
 
 18
-00:01:01,518 --> 00:01:05,118
-but it will be well protected by guards and security systems. 
+00:01:01,518 --> 00:01:05,318
+ale bude dobøe støežen strážemi a bezpeènostními systémy. 
 
 19
-00:01:05,319 --> 00:01:08,619
-She also mentioned that the guards are tough and organized,
+00:01:05,319 --> 00:01:08,719
+Také se zmínila, že stráže jsou silné a organizované,
 
 20
-00:01:08,720 --> 00:01:11,820
-and the mansion is confusing to navigate in.
+00:01:08,720 --> 00:01:12,020
+A že v sídle se dá lehce ztrati orientace.
 
 21
 00:01:13,021 --> 00:01:14,721
-The house was constructed recently,
+Budova byla postavena nedávno,
 
 22
-00:01:14,722 --> 00:01:17,222
-so I've had to piece together my own map
-
-23
-00:01:17,223 --> 00:01:19,323
-from observation and hearsay.
+00:01:14,722 --> 00:01:19,323
+takže jsem si musel dát dohromady vlastní mapu z pozorování a z doslechu.
 
 24
-00:01:19,424 --> 00:01:22,124
-Sounds like the place is a bit of a maze.
+00:01:19,424 --> 00:01:22,224
+Vypadá to, že to místo je trochu jako bludištì.
 
 25
-00:01:22,325 --> 00:01:24,025
-I guess if you're rich enough
-
-26
-00:01:24,026 --> 00:01:26,626
-you can build any sort of madhouse to live in.
+00:01:22,325 --> 00:01:26,926
+Hádám, že když jsi dost bohatý, mùžeš si postavit jakýkoli blázinec, ve kterém budeš žít.
 
 27
-00:01:27,200 --> 00:01:29,400
-This is going to be a challenging job,
+00:01:27,200 --> 00:01:29,590
+Tohle bude nároèná práce,
 
 28
-00:01:29,600 --> 00:01:32,050
-but it will pay better than the last few I've taken.
+00:01:29,600 --> 00:01:34,050
+ale bude lépe placená než ty poslední, které jsem vzal.
 
 29
 00:01:34,800 --> 00:01:37,900
-As usual, the front entrance is heavily guarded,
+Pøední vchod je jako obvykle silnì støežen,
 
 30
-00:01:38,101 --> 00:01:40,601
-but I've managed to find another way in.
+00:01:38,101 --> 00:01:41,601
+ale podaøilo se mi najít jinou cestu dovnitø.
 
 31
-00:01:41,902 --> 00:01:44,102
-'Course once I've picked up the sword
-
-32
-00:01:44,103 --> 00:01:46,003
-I'll still have to worry about getting back out.
-
+00:01:41,902 --> 00:01:46,003
+Samozøejmì, že jakmile budu mít meè, budu se muset postarat o to, abych se dostal taky zpátky.

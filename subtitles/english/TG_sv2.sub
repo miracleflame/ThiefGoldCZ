@@ -1,112 +1,112 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Servant"
-	SUB	"sv206301" { TEXT "Oh how silly of me, of course you want to hit on twenty! Twenty-eight? Aww, you lose. Boy, what are the odds of that happening?" }
-	SUB	"sv206303" { TEXT "Of course. At this rate I'll win all your tips for the night!" }
-	SUB	"sv206305" { TEXT "Hmm? Didn't quite catch that." }
+	TYPE "convo"
+	DESCR "Sluebník"
+	SUB "sv206301" { TEXT "Ach, jak jsem hloupı, samozøejmì, e chceš zabodovat na dvacítce! Dvacet osm? Ó, prohrál jsi. Paneèku, jaká je pravdìpodobnost, e se to stane?" }
+	SUB "sv206303" { TEXT "Samozøejmì. Tímhle tempem vyhraju všechny tvoje dıška za veèer!" }
+	SUB "sv206305" { TEXT "Hmm? To jsem nepochopil." }
 }
 {
-	TYPE	"bark"
-	DESCR	"Servant"
-	SUB	"sv2a1__1" { TEXT "Huh?" }
-	SUB	"sv2a1__2" { TEXT "Someone there?" }
-	SUB	"sv2a1__3" { TEXT "Is that you, Kevel?" }
-	SUB	"sv2a1__4" { TEXT "What's that?" }
-	SUB	"sv2a1h_1" { TEXT "Eee! What's that sound?" }
-	SUB	"sv2a1h_2" { TEXT "Who's there? Did you say something?" }
-	SUB	"sv2a1v_1" { TEXT "Who was that there? I saw something." }
-	SUB	"sv2a1v_2" { TEXT "Aaah! Who-- Is-is someone over there?" }
-	SUB	"sv2a2__1" { TEXT "I don't like this." }
-	SUB	"sv2a2__2" { TEXT "Stop taffing with me." }
-	SUB	"sv2a2__3" { TEXT "What's that? Hey, is someone in here?" }
-	SUB	"sv2a2__4" { TEXT "Who's there?" }
-	SUB	"sv2a3b_1" { TEXT "Uugh! You...you killed him!" }
-	SUB	"sv2a3s_1" { TEXT "Please, don't hurt me!" }
-	SUB	"sv2a3s_2" { TEXT "I surrender!" }
-	SUB	"sv2a3s_3" { TEXT "I-I don't have any money!" }
-	SUB	"sv2a3s_4" { TEXT "Help, help! There's someone in here!" }
-	SUB	"sv2almw1" { TEXT "Oh, ring the alarm! Get help!" }
-	SUB	"sv2bak_1" { TEXT "Oh well.... Too many imaginings." }
-	SUB	"sv2bak_2" { TEXT "I don't know what that was." }
-	SUB	"sv2bak_3" { TEXT "Who knows what it was." }
-	SUB	"sv2bak_4" { TEXT "Glad it was nothing." }
-	SUB	"sv2bak_5" { TEXT "Oh well.... Sorry...guess it was nothing." }
-	SUB	"sv2bak_6" { TEXT "Don't know what it was.... It's gone now." }
-	SUB	"sv2bak_7" { TEXT "Sorry...nothing here now." }
-	SUB	"sv2bod_1" { TEXT "Uuh! All that blood! Uh!" }
-	SUB	"sv2bod_2" { TEXT "Murderers! Help, over here!" }
-	SUB	"sv2bod_3" { TEXT "Over here! Help! He's...he's killed someone!" }
-	SUB	"sv2bod_4" { TEXT "Aah! There's a dead guy over here...look!" }
+	TYPE "bark"
+	DESCR "Sluebník"
+	SUB "sv2a1__1" { TEXT "Ha?" }
+	SUB "sv2a1__2" { TEXT "Je tam nìkdo?" }
+	SUB "sv2a1__3" { TEXT "Jsi to ty, Kevele?" }
+	SUB "sv2a1__4" { TEXT "Co je to?" }
+	SUB "sv2a1h_1" { TEXT "Eee! Co je to za zvuk?" }
+	SUB "sv2a1h_2" { TEXT "Kdo je tam? Øíkal jsi nìco?" }
+	SUB "sv2a1v_1" { TEXT "Kdo to tam byl? Nìco jsem vidìl." }
+	SUB "sv2a1v_2" { TEXT "Aaah! Kdo... Je tam nìkdo?" }
+	SUB "sv2a2__1" { TEXT "Tohle se mi nelíbí." }
+	SUB "sv2a2__2" { TEXT "Pøestaò se se mnou taføit." }
+	SUB "sv2a2__3" { TEXT "Co to je? Hej, je tu nìkdo?" }
+	SUB "sv2a2__4" { TEXT "Kdo je tam?" }
+	SUB "sv2a3b_1" { TEXT "Uugh! Ty... ty jsi ho zabil!" }	
+    SUB "sv2a3s_1" { TEXT "Prosím, neubliuj mi!" }
+	SUB "sv2a3s_2" { TEXT "Vzdávám se!" }
+	SUB "sv2a3s_3" { TEXT "Já-já nemám ádné peníze!" }
+	SUB "sv2a3s_4" { TEXT "Pomoc, pomoc! Nìkdo tu je!" }
+	SUB "sv2almw1" { TEXT "Oh, zazvoòte na poplach! Zavolejte pomoc!" }
+	SUB "sv2bak_1" { TEXT "No dobøe.... Pøíliš mnoho pøedstav." }
+	SUB "sv2bak_2" { TEXT "Nevím, co to bylo." }
+	SUB "sv2bak_3" { TEXT "Kdo ví, co to bylo." }
+	SUB "sv2bak_4" { TEXT "Jsem rád, e to nic nebylo." }
+	SUB "sv2bak_5" { TEXT "No jo.... Promiò... asi to nic nebylo." }
+	SUB "sv2bak_6" { TEXT "Nevím, co to bylo.... U je to pryè." }
+	SUB "sv2bak_7" { TEXT "Pardon...teï u tu nic není." }
+	SUB "sv2bod_1" { TEXT "Uuh! Tolik krve! Uh!" }
+	SUB "sv2bod_2" { TEXT "Vrazi! Pomoc, tady!" }
+	SUB "sv2bod_3" { TEXT "Tady! Pomoc! On... nìkoho zabil!" }
+	SUB "sv2bod_4" { TEXT "Aah! Tady je mrtvı chlap... podívejte!" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Servant"
-	SUB	"sv2c0102" { TEXT "Enjoy it while it lasts, friend. 'His Fatness' will be back soon to make our lives miserable again." }
-	SUB	"sv2c0104" { TEXT "Down in the cellar again, counting his loot. I hope he stays there all night." }
-	SUB	"sv2c0201" { TEXT "I swear I've never seen the river this low." }
-	SUB	"sv2c0203" { TEXT "You can nearly walk across up at Shalebridge." }
-	SUB	"sv2c0302" { TEXT "The nerve!" }
-	SUB	"sv2c0304" { TEXT "Just so!" }
-	SUB	"sv2c0401" { TEXT "Cook says the Sir's been yelling at him over the dinners not being posh enough." }
-	SUB	"sv2c0403" { TEXT "Exactly! The Sir just thinks everything should be back like it was in the fat years, and won't hear of anything else." }
-	SUB	"sv2c0502" { TEXT "Well better pull it out soon, then. The Sir won't like lots of brown plants hanging about." }
-	SUB	"sv2c0504" { TEXT "It can't last forever. And if it does, the Sir will move to Cyric and be done with it." }
-	SUB	"sv2c0601" { TEXT "Remember back when you were saying the Baron would never marry?" }
-	SUB	"sv2c0603" { TEXT "This Felicia, he's serious about." }
-	SUB	"sv2c0605" { TEXT "My sister! She works for a lady who does Felicia's dresses." }
-	SUB	"sv2c0702" { TEXT "I saw you got back late." }
-	SUB	"sv2c0704" { TEXT "So you stayed and watched?" }
-	SUB	"sv2c0801" { TEXT "Uugh..." }
-	SUB	"sv2c0803" { TEXT "Oh I'm...I'm just worried my Jobi's never coming back. He's off fighting Blackbrook. I thought It'd be good for him, teach him discipline, but now...." }
-	SUB	"sv2c0805" { TEXT "Bein' a mother, worst thing in the world, I tell you. Best you can hope for is to die before your babes." }
-	SUB	"sv2c0902" { TEXT "The Sir, you mean?" }
-	SUB	"sv2c0904" { TEXT "I think it's just the house. All the shadows, they get to you." }
-	SUB	"sv2c1001" { TEXT "You ever go down by uh...you know...the Barricades?" }
-	SUB	"sv2c1003" { TEXT "I heard the buildings were evil spirit stone. They gobbled up who lived there!" }
-	SUB	"sv2c1005" { TEXT "Won't catch me down that way." }
-	SUB	"sv2c1102" { TEXT "Sure, for now." }
-	SUB	"sv2c1202" { TEXT "Can't complain." }
-	SUB	"sv2c1302" { TEXT "Not for a while tonight." }
-	SUB	"sv2c1402" { TEXT "Yep, lots still to do." }
-	SUB	"sv2c1501" { TEXT "Long night?" }
-	SUB	"sv2c1601" { TEXT "I am so tired of muddy boots." }
-	SUB	"sv2c1701" { TEXT "You hear? The Sir said I do good work!" }
-	SUB	"sv2c1801" { TEXT "You lose a button? I've found one in the hall." }
-	SUB	"sv2c1902" { TEXT "One of the bosses beasties caught him in the cellar, tore off his arm! He's lucky to be alive!" }
+	TYPE "convo"
+	DESCR "Sluebník"
+	SUB "sv2c0102" { TEXT "Uij si to, dokud to jde, pøíteli. 'Jeho Tlustost' se brzy vrátí, aby nám zase znepøíjemnila ivot." }
+	SUB "sv2c0104" { TEXT "Zase dole ve sklepì poèítá svou koøist. Doufám, e tam zùstane celou noc." }
+	SUB "sv2c0201" { TEXT "Pøísahám, e takhle nízko jsem hladinu øeky ještì nevidìla." }
+	SUB "sv2c0203" { TEXT "V Shalebridge se dá skoro pøejít." }
+	SUB "sv2c0302" { TEXT "Ta drzost!" }
+	SUB "sv2c0304" { TEXT "Pøesnì tak!" }
+	SUB "sv2c0401" { TEXT "Kuchaø øíká, e na nìj pán køièí, e veèeøe nejsou dost nóbl." }
+	SUB "sv2c0403" { TEXT "Pøesnì tak! Pán si prostì myslí, e by všechno mìlo bıt zase jako za mastnıch let, a o nièem jiném nechce ani slyšet." }
+	SUB "sv2c0502" { TEXT "Tak to bys ji mìl co nejdøív vytrhnout. Pánovi se nebude líbit, kdy se kolem bude povalovat spousta hnìdıch rostlin." }
+	SUB "sv2c0504" { TEXT "Nemùe to trvat vìènì. A jestli ano, Pán se pøestìhuje do Cyriky a bude po všem." }
+	SUB "sv2c0601" { TEXT "Pamatuješ, jak jsi øíkal, e se Baron nikdy neoení?" }
+	SUB "sv2c0603" { TEXT "S tou Felicií to myslí vánì." }
+	SUB "sv2c0605" { TEXT "Moje sestra! Pracuje pro paní, která šije Feliciiny šaty." }
+	SUB "sv2c0702" { TEXT "Vidìla jsem, e ses vrátil pozdì." }
+	SUB "sv2c0704" { TEXT "Take jsi zùstal a díval se?" }
+	SUB "sv2c0801" { TEXT "Uff..." }
+	SUB "sv2c0803" { TEXT "No já... já se jen bojím, e se mùj Jobi u nikdy nevrátí. Je pryè a bojuje s Blackbrookem. Myslela jsem, e to pro nìj bude dobré, nauèí ho to disciplínì, ale teï...." }
+	SUB "sv2c0805" { TEXT "Bıt matkou, nejhorší vìc na svìtì, to ti povídám. Nejlepší, v co mùeš doufat, je umøít døív ne tvoje dìti." }
+	SUB "sv2c0902" { TEXT "Myslíš pána?" }
+	SUB "sv2c0904" { TEXT "Podle mì je to jen domem. Všechny ty stíny tì dostanou." }
+	SUB "sv2c1001" { TEXT "Šel jsi nìkdy dolù k... víš... k Barikádám?" }
+	SUB "sv2c1003" { TEXT "Slyšela jsem, e ty budovy jsou z kamene zlıch duchù. Pohltili toho, kdo tam il!" }
+	SUB "sv2c1005" { TEXT "Tam dole mì nezastihneš." }
+	SUB "sv2c1102" { TEXT "Jistì, zatím." }
+	SUB "sv2c1202" { TEXT "Nemùu si stìovat." }
+	SUB "sv2c1302" { TEXT "Dnes veèer ještì ne." }
+	SUB "sv2c1402" { TEXT "Jo, ještì toho mám hodnì na práci." }
+	SUB "sv2c1501" { TEXT "Dlouhá noc?" }
+	SUB "sv2c1601" { TEXT "U mì nebaví ty zablácené boty." }
+	SUB "sv2c1701" { TEXT "Slyšel jsi? Pán øíkal, e odvádím dobrou práci!" }
+	SUB "sv2c1801" { TEXT "Ztratil jsi knoflík? Jeden jsem našla na chodbì." }
+	SUB "sv2c1902" { TEXT "Jedna z šéfovıch bestií ho chytila ve sklepì a utrhla mu ruku! Má štìstí, e je naivu!" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Servant"
-	SUB	"sv2hlow1" { TEXT "Uuugh! Please, no! Help!" }
-	SUB	"sv2lar_1" { TEXT "Aah! Look at this! Help!" }
-	SUB	"sv2lar_2" { TEXT "Oh no, who's done this? Help! Help!" }
-	SUB	"sv2m0201" { TEXT "Cold again. I hate cold breakfast." }
-	SUB	"sv2m0501" { TEXT "More wine', he says. 'More wine'. I've had about enough of him and his wine." }
-	SUB	"sv2m0502" { TEXT "Just sits down there and counts his money, he does. Wish he'd give me some.... The fat, sweaty, tight-wad!" }
-	SUB	"sv2m0503" { TEXT "He should be here. That's strange." }
-	SUB	"sv2mis_1" { TEXT "Hey! Help, thief!" }
-	SUB	"sv2mis_2" { TEXT "Where is it?" }
-	SUB	"sv2mis_3" { TEXT "Where'd the scepter go?" }
-	SUB	"sv2rbod1" { TEXT "D-did you see the body?" }
-	SUB	"sv2rint1" { TEXT "I just saw the intruder! He's around here somewhere!" }
-	SUB	"sv2rint2" { TEXT "There's someone creeping about. I'm scared." }
-	SUB	"sv2rmis1" { TEXT "There's a thief around. All sorts of stuff is missing!" }
-	SUB	"sv2rmis2" { TEXT "Somebody took the scepter!" }
-	SUB	"sv2roth1" { TEXT "Someone's searching for something, and we'll get the taff for it!" }
-	SUB	"sv2roth2" { TEXT "A whole room's been trashed! Have you seen someone?" }
-	SUB	"sv2run_1" { TEXT "Help! Thief! Thief!" }
-	SUB	"sv2run_2" { TEXT "He's right here! Help!" }
-	SUB	"sv2run_3" { TEXT "I see him! Help! Over here!" }
-	SUB	"sv2run_4" { TEXT "Over here! He has a sword!" }
-	SUB	"sv2run_5" { TEXT "Someone, get him!" }
-	SUB	"sv2run_6" { TEXT "Help, help! There's someone in here!" }
-	SUB	"sv2sec_1" { TEXT "Anyone...anyone! There's a prowler through here!" }
-	SUB	"sv2sec_2" { TEXT "Help! Here--an intruder was here!" }
-	SUB	"sv2sma_1" { TEXT "Hey, what's been going on here?" }
-	SUB	"sv2sma_2" { TEXT "What happened here?" }
-	SUB	"sv2telc1" { TEXT "He's right here! Help!" }
-	SUB	"sv2telc2" { TEXT "Over here! He has a sword!" }
-	SUB	"sv2telc3" { TEXT "I see him! Help, over here! " } 
+	TYP "bark "
+	DESCR "Sluebník"
+	SUB "sv2hlow1" { TEXT "Prosím, ne! Pomoc!" }
+	SUB "sv2lar_1" { TEXT "Aah! Podívejte se na tohle! Pomoc!" }
+	SUB "sv2lar_2" { TEXT "Ale ne, kdo to udìlal? Pomoc! Pomoc!" }
+	SUB "sv2m0201" { TEXT "Zase zima. Nesnáším studené snídanì." }
+	SUB "sv2m0501" { TEXT "'Ještì víno', øíká. 'Více vína'. U ho mám dost i s tím jeho vínem." }
+	SUB "sv2m0502" { TEXT "Jen si tam sedne a poèítá peníze, to dìlá. Ké by mi dal.... Ten tlustı, zpocenı, upjatı tupec!" }
+	SUB "sv2m0503" { TEXT "Mìl by tu bıt. To je divné." }
+	SUB "sv2mis_1" { TEXT "Hej! Pomoc, zlodìj!" }
+	SUB "sv2mis_2" { TEXT "Kde je?" }
+	SUB "sv2mis_3" { TEXT "Kam se podìlo ezlo?" }
+	SUB "sv2rbod1" { TEXT "V-vidìli jste tìlo?" }
+	SUB "sv2rint1" { TEXT "Právì jsem vidìl narušitele! Je nìkde tady!" }
+	SUB "sv2rint2" { TEXT "Nìkdo se tu plíí. Mám strach." }
+	SUB "sv2rmis1" { TEXT "Tady nìkde je zlodìj. Ztratily se všechny moné vìci!" }
+	SUB "sv2rmis2" { TEXT "Nìkdo vzal ezlo!" }
+	SUB "sv2roth1" { TEXT "Nìkdo nìco hledá a my za to dostaneme taf!" }
+	SUB "sv2roth2" { TEXT "Celá místnost byla zdemolována! Nevidìli jste nìkoho?" }
+	SUB "sv2run_1" { TEXT "Pomoc! Zlodìj! Zlodìj!" }
+	SUB "sv2run_2" { TEXT "Je pøímo tady! Pomoc!" }
+	SUB "sv2run_3" { TEXT "Vidím ho! Pomoc! Tady!" }
+	SUB "sv2run_4" { TEXT "Tady! Má meè!" }
+	SUB "sv2run_5" { TEXT "Chyte ho nìkdo!" }
+	SUB "sv2run_6" { TEXT "Pomoc, pomoc! Nìkdo tu je!" }
+	SUB "sv2sec_1" { TEXT "Nìkdo...nìkdo! Je tu nìjakı zlodìj!" }
+	SUB "sv2sec_2" { TEXT "Pomoc! Tady... byl tu narušitel!" }
+	SUB "sv2sma_1" { TEXT "Hej, co se to tu dìje?" }
+	SUB "sv2sma_2" { TEXT "Co se tu stalo?" }
+	SUB "sv2telc1" { TEXT "Je tady! Pomoc!" }
+	SUB "sv2telc2" { TEXT "Tady! Má meè!" }
+	SUB "sv2telc3" { TEXT "Vidím ho! Pomoc, tady! " } 
 }

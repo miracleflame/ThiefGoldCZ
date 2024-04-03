@@ -1,84 +1,59 @@
 1
 00:00:07,640 --> 00:00:11,600
-The ancient corruption was again contained.
+Starobylá zkaenost byla opìt zadrena.
 
 2
-00:00:11,901 --> 00:00:15,901
-To do more would have upset the balance,
-
-3
-00:00:15,902 --> 00:00:19,902
-but we knew to remain ever vigilant lest it resurface. 
+00:00:11,901 --> 00:00:19,902
+Udìlat víc, narušilo by to rovnováhu, ale vìdìli jsme, e musíme zùstat stále ve støehu, aby se znovu nevynoøila. 
 
 4
 00:00:20,403 --> 00:00:27,203
-Neither the Hammers nor the pagans could be trusted not to meddle.
+Ani kladiváøùm, ani pohanùm se nedalo vìøit, e se do toho nebudou vmìšovat.
 
 5
 00:00:27,704 --> 00:00:29,604
--- Keeper Annals
+-- Kroniky Strácù
 
 6
 00:00:30,205 --> 00:00:33,205
-I had some money to spare after disposing of the Horn,
+Po prodeji rohu jsem mìl nìjaké peníze nazbyt,
 
 7
-00:00:33,206 --> 00:00:35,606
-so it seemed time to invest in some new...  
-
-8
-00:00:35,607 --> 00:00:37,207
-...tools.
+00:00:33,206 --> 00:00:37,207
+take se zdálo, e je èas investovat do nìjakıch novıch nástrojù.
 
 9
-00:00:37,808 --> 00:00:39,908
-Farkus is one of the few merchants willing to risk 
-
-10
-00:00:39,909 --> 00:00:41,909
-selling to an independent like me,
+00:00:37,808 --> 00:00:41,909
+Farkus je jedním z mála obchodníkù, kteøí jsou ochotni riskovat prodej nìkomu nezávislému, jako jsem já
 
 11
 00:00:41,910 --> 00:00:43,610
-and his prices are steep...
+a jeho ceny jsou vysoké...
 
 12
-00:00:43,711 --> 00:00:45,711
-but the other choice is to let one of the so-called 
-
-13
-00:00:45,712 --> 00:00:47,812
-"City Wardens" give me orders...
-
-14
-00:00:47,813 --> 00:00:49,713
-...And take a cut of my profits. 
+00:00:43,711 --> 00:00:49,713
+Ale druhou moností je nechat se zamìstnat jedním z tzv. "Dozorcù Mìsta" a pøijít o podíl z mého zisku. 
 
 15
-00:00:50,450 --> 00:00:52,500
-They'd been after me for years to
-
-16
-00:00:52,515 --> 00:00:54,415
-join one of their stables, but I'm not interested.
+00:00:50,450 --> 00:00:54,415
+Šli po mnì celé roky, abych se pøidal k jedné z jejich skupin, ale já nemám zájem.
 
 17
 00:00:54,716 --> 00:00:56,916
-Maybe they'll get the idea and give up. 
+Tøeba jim to dojde a vzdají to. 
 
 18
 00:00:57,200 --> 00:00:59,600
-More likely they'll just ramp up the threats.
+Spíš jen zesílí vıhrùky.
 
 19
 00:01:01,001 --> 00:01:03,501
-Nothing I can't handle if I'm careful.
+Nic, co bych nezvládl, kdy budu opatrnı...
 
 20
 00:01:03,950 --> 00:01:05,110
-And lucky.
+...a mít štìstí.
 
 21
 00:01:05,250 --> 00:01:08,050
-And my luck seems to have finally turned for the better.
-
+A to mi, zdá se, koneènì zaèína pøát.

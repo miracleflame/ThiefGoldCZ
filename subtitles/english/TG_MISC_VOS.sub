@@ -1,18 +1,18 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Voice"
-	SUB	"fac001" { TEXT "Stay away from my face, thief, or you'll be sorry." }
-SUB	"gh1gold" { TEXT "My thanks, stranger." }
-SUB	"hh1m0401" { TEXT "He who would steal my heart must first defeat my wounds." }
-SUB	"Renthank" { TEXT "I do not know who thou art, but by thy hand I can finally depart this earth and go to The Builder's Home. It is only fitting that I reward thee. In the winter tunnels beneath the cloister seek thee a room with a mural on one of the walls. In the upper right-hand corner of this mural, spy out a hidden button. Press that button. Thou hast what thy will find there and my full thanks. Farewell." }
+	TYPE "convo"
+	DESCR "Hlas"
+	SUB "fac001" { TEXT "Zmiz mi z oèí, zlodìji, nebo budeš litovat." }
+SUB "gh1gold" { TEXT "Dìkuji, cizinèe." }
+SUB "hh1m0401" { TEXT "Kdo mi chce ukrást srdce, musí nejdøív porazit mé rány." }
+SUB "Renthank" { TEXT "Nevím, kdo jsi, ale tvou rukou mohu koneènì opustit tuto zemi a odejít do Stavitelova domova. Je jen vhodné, abych tì odmìnil. V zimních tunelech pod klášterem vyhledej místnost s nástìnnou malbou na jedné ze stìn. V pravém horním rohu této fresky vyhlédni skryté tlaèítko. Stiskni ho. Máš, co tam najdeš, a mùj plný dík. Sbohem." }
 }
 {
-	TYPE	"convo"
-	DESCR	"Statue"
-SUB	"statuema" { TEXT "Betrayal will force you to see, Garrett." }
-SUB	"statueme" { TEXT "Greed shall be your undoing, poor Garrett." }
-SUB	"statuemf" { TEXT "Deception is your power, Garrett." }
-SUB	"statuemw" { TEXT "Do not let fear control your path, Garrett." } 
+	TYPE "convo"
+	DESCR "Socha"
+SUB "statuema" { TEXT "Zrada tì donutí vidìt, Garrette." }
+SUB "statuema" { TEXT "Chamtivost bude tvou zkázou, ubohý Garrette." }
+SUB "statuemf" { TEXT "Podvod je tvá síla, Garrette." }
+SUB "statuemw" { TEXT "Nedovol, aby tvou cestu ovládal strach, Garrette." } 
 } 

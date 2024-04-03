@@ -1,247 +1,245 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Guard"
-	SUB	"SG2A0MU1" { TEXT "Ahh, it's so wet.... Mold everywhere down here!" }
-	SUB	"SG2A0MU2" { TEXT "I don't like this place at all.... It's just a bunch of people walking around...." }
-	SUB	"SG2A0MU3" { TEXT "Oh geez, I've gotta get home to dinner.... It's waiting and I'm starving.... Haven't eaten since breakfast!" }
+	TYPE "convo"
+	DESCR "HlÌdka"
+	SUB "SG2A0MU1" { TEXT "Fuj, je tu mokro... Vöude plÌseÚ!" }
+	SUB "SG2A0MU2" { TEXT "Tohle mÌsto se mi v˘bec nelÌbÌ... ChodÌ tu jen m·lo lidÌ..." }
+	SUB "SG2A0MU3" { TEXT "Ach jo, uû musÌm dom˘ na veËe¯i... »ek· mÏ a j· m·m hlad... Nejedl jsem od snÌdanÏ!" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Guard"
-	SUB	"SG2A1__1" { TEXT "Someone behind me?" }
-	SUB	"SG2A1__2" { TEXT "Who goes there?" }
-	SUB	"SG2A1__3" { TEXT "Is that you?" }
-	SUB	"SG2A1__4" { TEXT "Huh?" }
-	SUB	"SG2A1__5" { TEXT "Huh?" }
-	SUB	"SG2A1__6" { TEXT "What's that? Who goes?!" }
-	SUB	"SG2A1_W1" { TEXT "Was somethin' just there?" }
-	SUB	"SG2A1_W2" { TEXT "Think somethin's there?" }
-	SUB	"SG2A1DR1" { TEXT "Who goes there?" }
-	SUB	"SG2A1H_1" { TEXT "Hey! What was that noise?" }
-	SUB	"SG2A1H_2" { TEXT "Who's noisin' about then?" }
-	SUB	"SG2A1H_3" { TEXT "Strange noise." }
-	SUB	"SG2A1HW1" { TEXT "Somethin' made a noise! Hush!" }
-	SUB	"SG2A1HW2" { TEXT "Did you hear that too? I think there's someone...." }
-	SUB	"SG2A1HW3" { TEXT "What was that? Did you hear somethin'?" }
-	SUB	"SG2A1HW4" { TEXT "You hear somethin'?" }
-	SUB	"SG2A1V_1" { TEXT "Did that shadow move?" }
-	SUB	"SG2A1V_2" { TEXT "Somethin' move there?" }
-	SUB	"SG2A1VW1" { TEXT "What was that? Did you see it?" }
-	SUB	"SG2A1VW2" { TEXT "Did you see something? No! Over there!" }
-	SUB	"SG2A1VW3" { TEXT "Hey, I think I saw somethin'!" }
-	SUB	"SG2A1VW4" { TEXT "See that there?" }
-	SUB	"SG2A2__1" { TEXT "Is that you? Wait, who's that?!" }
-	SUB	"SG2A2__2" { TEXT "Stop taffin' with me! Show yourself!" }
-	SUB	"SG2A2__3" { TEXT "What's that? Hey, someone taffin' about?" }
-	SUB	"SG2A2__4" { TEXT "What's goin' on over there?" }
-	SUB	"SG2A2__5" { TEXT "Who's that there?" }
-	SUB	"SG2A2DR1" { TEXT "What's that?" }
-	SUB	"SG2A2DR2" { TEXT "Eh-hey! Quit taffin' around!" }
-	SUB	"sg2a2h_1" { TEXT "Who goes there? Who made that noise?" }
-	SUB	"Sg2a2h_2" { TEXT "I heard that! Show yourself! I mean it!" }
-	SUB	"SG2A2H_3" { TEXT "I hear you there!" }
-	SUB	"SG2A2SE1" { TEXT "Okay, you taffer, I'll find you!" }
-	SUB	"SG2A2SE2" { TEXT "You can't hide for long!" }
-	SUB	"SG2A2SE3" { TEXT "Just you wait 'til I find you!" }
-	SUB	"SG2A2SE4" { TEXT "All right, where are you?" }
-	SUB	"SG2A2V_1" { TEXT "I see you there! Who is that?" }
-	SUB	"Sg2a3b_1" { TEXT "What did you do? Stay where you are!" }
-	SUB	"SG2A3DR1" { TEXT "Heh, who the hell are you?" }
-	SUB	"SG2A3NA1" { TEXT "Mess with me and you're crow meat, taffer boy!" }
-	SUB	"SG2A3NA2" { TEXT "We've got an intruder!" }
-	SUB	"SG2A3NA3" { TEXT "Don't think you can just vanish in the shadows again, tricksie boy! I see ya!" }
-	SUB	"SG2A3NA4" { TEXT "Don't try to run, taffer! Just surrender now!" }
-	SUB	"SG2A3NA5" { TEXT "Stop right there!" }
-	SUB	"SG2A3NA6" { TEXT "Move and you're dead! Don't try it!" }
-	SUB	"SG2A3S_1" { TEXT "Ahh! Stop right there!" }
-	SUB	"SG2A3S_2" { TEXT "Wuah!" }
-	SUB	"SG2A3S_3" { TEXT "Eh, you!" }
-	SUB	"SG2A3S_4" { TEXT "Eh, stop!" }
-	SUB	"Sg2a3se1" { TEXT "Hiding won't save you, thief!" }
-	SUB	"Sg2a3se2" { TEXT "When I find you, you'll regret it!" }
-	SUB	"Sg2a3se3" { TEXT "Come back here and fight!" }
-	SUB	"Sg2a3se4" { TEXT "Come out here! I dare you!" }
-	SUB	"SG2ALMA1" { TEXT "To the alarm!" }
-	SUB	"SG2ALMA2" { TEXT "All speed to the alarm!" }
-	SUB	"SG2ALMA3" { TEXT "For the alarm!" }
-	SUB	"SG2ALMW1" { TEXT "Quick! Get to the alarm!" }
-	SUB	"SG2ALMW2" { TEXT "Get to the alarm!" }
-	SUB	"SG2AMB_1" { TEXT "Come out where I can hurt you!" }
-	SUB	"SG2AMB_2" { TEXT "Foul! Come out here!" }
-	SUB	"SG2AMB_3" { TEXT "Where are ya, black dog?" }
-	SUB	"SG2AMB_4" { TEXT "Coward! Get out here!" }
-	SUB	"SG2AMBW1" { TEXT "I'm hit! Watch your back!" }
-	SUB	"SG2AMBW2" { TEXT "I'm under attack!" }
-	SUB	"SG2AMBW3" { TEXT "Help! I'm hit!" }
-	SUB	"Sg2atb_1" { TEXT "Ya can't dodge an arrow!" }
-	SUB	"Sg2atb_2" { TEXT "For your heart!" }
-	SUB	"Sg2atb_3" { TEXT "Just like target practice!" }
-	SUB	"SG2ATN_1" { TEXT "Die!" }
-	SUB	"SG2ATN_2" { TEXT "There!" }
-	SUB	"Sg2atw_1" { TEXT "Knock your teeth out!" }
-	SUB	"SG2ATW_2" { TEXT "Ha ha,' to you!" }
-	SUB	"SG2ATWW1" { TEXT "He's losing it!" }
-	SUB	"SG2BAK_1" { TEXT "Gotta stop jumpin' at nothin'!" }
-	SUB	"SG2BAK_2" { TEXT "Too much coffees this mornin', I'm twitchy as 'ell! Seems clear." }
-	SUB	"SG2BAK_3" { TEXT "Seems clear enough, now." }
-	SUB	"SG2BAK_4" { TEXT "That's the last time I jump for rats." }
-	SUB	"SG2BAK_5" { TEXT "Nothin' to be seen now." }
-	SUB	"SG2BAK_6" { TEXT "Can't hear it anymore. Probably nothing." }
-	SUB	"SG2BAK_7" { TEXT "All quiet now. must a' been rats." }
-	SUB	"SG2BAK_8" { TEXT "Don't see anythin' now." }
-	SUB	"SG2BKD_1" { TEXT "Damn!" }
-	SUB	"SG2BKD_2" { TEXT "Try and block the next one!" }
-	SUB	"SG2BKD_3" { TEXT "You'll falter yet!" }
-	SUB	"SG2BKDW1" { TEXT "He's got a good defense! Be quick!" }
-	SUB	"SG2BLK_1" { TEXT "Better try again!" }
-	SUB	"SG2BLK_2" { TEXT "Gotta be faster than that!" }
-	SUB	"SG2BLK_3" { TEXT "Not today, buddy!" }
-	SUB	"SG2BLKW1" { TEXT "Keep your guard up and he can't get through!" }
-	SUB	"SG2BOD_1" { TEXT "Oh my god! They killed him!" }
-	SUB	"SG2BOD_2" { TEXT "Ahh, shh...! What happened?" }
-	SUB	"SG2BOD_3" { TEXT "Blood for blood!" }
+	TYPE "bark"
+	DESCR "HlÌdka"
+	SUB "SG2A1__1" { TEXT "NÏkdo je za mnou?" }
+	SUB "SG2A1__2" { TEXT "Kdo to tam jde?" }
+	SUB "SG2A1__3" { TEXT "Jsi to ty?" }
+	SUB "SG2A1__4" { TEXT "Co?" }
+	SUB "SG2A1__5" { TEXT "Co?" }
+	SUB "SG2A1__6" { TEXT "Co to je? Kde kdo?!" }
+	SUB "SG2A1_W1" { TEXT "Bylo tam nÏco?" }
+	SUB "SG2A1_W2" { TEXT "MyslÌö, ûe tam nÏco je?" }
+	SUB "SG2A1DR1" { TEXT "Kdo to tam chodÌ?" }
+	SUB "SG2A1H_1" { TEXT "Hej! Co to bylo za zvuk?" }
+	SUB "SG2A1H_2" { TEXT "Kdo to tam öustÌ?" }
+	SUB "SG2A1H_3" { TEXT "Divn˝ r·mus." }
+    SUB "SG2A1HW1" { TEXT "NÏco udÏlalo r·mus! Tiöe!" }
+	SUB "SG2A1HW2" { TEXT "Taky jsi to slyöel? MyslÌm, ûe tam nÏkdo je..." }
+	SUB "SG2A1HW3" { TEXT "Co to bylo? Slyöel jsi nÏco?" }
+	SUB "SG2A1HW4" { TEXT "Slyöel jsi nÏco?" }
+	SUB "SG2A1V_1" { TEXT "Pohnul se ten stÌn?" }
+	SUB "SG2A1V_2" { TEXT "NÏco se tam pohnulo?" }
+	SUB "SG2A1VW1" { TEXT "Co to bylo? VidÏl jsi to?" }
+	SUB "SG2A1VW2" { TEXT "VidÏl jsi nÏco? Ne! T·mhle!" }
+	SUB "SG2A1VW3" { TEXT "Hej, myslÌm, ûe jsem nÏco vidÏl!" }
+	SUB "SG2A1VW4" { TEXT "VidÌö to?" }
+	SUB "SG2A2__1" { TEXT "Jsi to ty? PoËkej, kdo je to?!" }
+	SUB "SG2A2__2" { TEXT "P¯estaÚ se se mnou taf¯it! Ukaû se!" }
+	SUB "SG2A2__3" { TEXT "Co je to? Hej, nÏkdo se tu taf¯Ì?" }
+	SUB "SG2A2__4" { TEXT "Co se to tam dÏje?" }
+	SUB "SG2A2__5" { TEXT "Kdo je to tam?" }
+	SUB "SG2A2DR1" { TEXT "Co je to?" }
+	SUB "SG2A2DR2" { TEXT "Eh-hey! P¯estaÚ se tu taf¯it!" }
+	SUB "sg2a2h_1" { TEXT "Kdo tam chodÌ? Kdo udÏlal ten r·mus?" }
+	SUB "sg2a2h_2" { TEXT "To jsem slyöel! Ukaû se! MyslÌm to v·ûnÏ!" }
+	SUB "SG2A2H_3" { TEXT "Slyöel jsem tÏ!" }
+	SUB "SG2A2SE1" { TEXT "Dob¯e, ty tafre, najdu tÏ!" }
+	SUB "SG2A2SE2" { TEXT "Dlouho se neschov·ö!" }
+	SUB "SG2A2SE3" { TEXT "Jen poËkej, aû tÏ najdu!" }
+	SUB "SG2A2SE4" { TEXT "Dob¯e, kde jsi?" }
+	SUB "SG2A2V_1" { TEXT "VidÌm tÏ tam! Kdo je to?" }
+	SUB "Sg2a3b_1" { TEXT "Co jsi udÏlal? Z˘staÚ, kde jsi!" }
+	SUB "SG2A3DR1" { TEXT "Heh, kdo sakra jsi?" }
+	SUB "SG2A3NA1" { TEXT "Zahr·vej si se mnou a je z tebe maso pro vr·ny, hochu!" }
+	SUB "SG2A3NA2" { TEXT "M·me tu naruöitele!" }
+	SUB "SG2A3NA3" { TEXT "Nemysli si, ûe m˘ûeö zase jen tak zmizet ve stÌnech, chytr·ku! VidÌm tÏ!" }
+	SUB "SG2A3NA4" { TEXT "Nepokouöej se utÈct, tafre! ProstÏ se vzdej!" }
+	SUB "SG2A3NA5" { TEXT "St˘j!" }
+	SUB "SG2A3NA6" { TEXT "Pohni se a je po tobÏ! Nezkouöej to!" }
+	SUB "SG2A3S_1" { TEXT "¡·! Zastav se!" }
+	SUB "SG2A3S_3" { TEXT "Eh, ty!" }
+	SUB "SG2A3S_4" { TEXT "Eh, st˘j!" }
+    SUB "Sg2a3se1" { TEXT "Schov·v·nÌ tÏ nezachr·nÌ, zlodÏji!" }
+	SUB "Sg2a3se2" { TEXT "Aû tÏ najdu, budeö toho litovat!" }
+	SUB "Sg2a3se3" { TEXT "Vraù se sem a bojuj!" }
+	SUB "Sg2a3se4" { TEXT "PojÔ sem! Vyz˝v·m tÏ!" }
+	SUB "SG2ALMA1" { TEXT "Poplach!" }
+	SUB "SG2ALMA2" { TEXT "VöÌ rychlostÌ k alarmu!" }
+	SUB "SG2ALMA3" { TEXT "K alarmu!" }
+	SUB "SG2ALMW1" { TEXT "Rychle! BÏûte k alarmu!" }
+	SUB "SG2ALMW2" { TEXT "Rychle k alarmu!" }
+	SUB "SG2AMB_1" { TEXT "Vylez ven, kde ti m˘ûu ublÌûit!" }
+	SUB "SG2AMB_2" { TEXT "Hnido! PojÔ sem!" }
+	SUB "SG2AMB_3" { TEXT "Kde jsi, Ëern˝ pse?" }
+	SUB "SG2AMB_4" { TEXT "ZbabÏlec! Vypadni odsud!" }
+	SUB "SG2AMBW1" { TEXT "Jsem zasaûen! Pozor na z·da!" }
+	SUB "SG2AMBW2" { TEXT "Jsem napaden!" }
+	SUB "SG2AMBW3" { TEXT "Pomoc! Jsem napaden!" }
+	SUB "Sg2atb_1" { TEXT "Nem˘ûeö uhnout öÌpu!" }
+	SUB "Sg2atb_2" { TEXT "Pro tvÈ srdce!" }
+	SUB "Sg2atb_3" { TEXT "Jako cviËn˝ terË!" }
+	SUB "SG2ATN_1" { TEXT "Zhebni!" }
+	SUB "SG2ATN_2" { TEXT "Tam!" }
+	SUB "Sg2atw_1" { TEXT "Vymlaù si zuby!" }
+	SUB "SG2ATW_2" { TEXT "Ha ha tobÏ!" }
+	SUB "SG2ATWW1" { TEXT "Ztr·cÌ nervy!" }
+	SUB "SG2BAK_1" { TEXT "MusÌm se p¯estat cukat pro nic!" }
+	SUB "SG2BAK_2" { TEXT "Moc kafe dneska r·no, jsem nervnÌ jak Ëert! Zd· se tu Ëisto." }
+	SUB "SG2BAK_3" { TEXT "»isto, zd· se." }
+	SUB "SG2BAK_4" { TEXT "To je naposledy, co jsem vyskoËil kv˘li krys·m." }
+	SUB "SG2BAK_5" { TEXT "TeÔ uû nenÌ nic k vidÏnÌ." }
+	SUB "SG2BAK_6" { TEXT "Uû to nenÌ slyöet. Asi nic." }
+	SUB "SG2BAK_7" { TEXT "TeÔ uû je ticho. To musely b˝t krysy." }
+	SUB "SG2BAK_8" { TEXT "TeÔ uû nic nevidÌm." }
+	SUB "SG2BKD_1" { TEXT "Sakra!" }
+	SUB "SG2BKD_2" { TEXT "Zkus zablokovat dalöÌ!" }
+	SUB "SG2BKD_3" { TEXT "JeötÏ zakolÌs·ö!" }
+	SUB "SG2BKDW1" { TEXT "M· dobrou obranu! Urychli to!" }
+	SUB "SG2BLK_1" { TEXT "RadÏji to zkus znovu!" }
+	SUB "SG2BLK_2" { TEXT "MusÌö b˝t rychlejöÌ!" }
+	SUB "SG2BLK_3" { TEXT "Dnes ne, k·mo!" }
+	SUB "SG2BLKW1" { TEXT "Drû se ve st¯ehu a neprojde!" }
+	SUB "SG2BOD_1" { TEXT "Paneboûe! Zabili ho!" }
+	SUB "SG2BOD_2" { TEXT "Ahh, pöööt...! Co se stalo?" }
+	SUB "SG2BOD_3" { TEXT "Krev za krev!" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Guard"
-	SUB	"SG2C0102" { TEXT "T-uh! Couldn't pay me enough!" }
-	SUB	"SG2C0104" { TEXT "Nah, nah! It makes me sick! When I was a kid--" }
-	SUB	"SG2C0106" { TEXT "Shut up, you taffer! You want blood? You should've been there years ago! Tell ya...the bears then? They were something to see. Those bears, they didn't need no cheek-spikes and razor collars, and paw hooks, and all that knifery you straps to 'em now!" }
-	SUB	"SG2C0108" { TEXT "Huh! Naaah! The bears back then, they had claws as long as your finger! And wicked teeth!" }
-	SUB	"SG2C0110" { TEXT "That's why I can't stand the Pits now! You don't know what you've missed. They just don't make bears like they used to...." }
-	SUB	"Sg2c0702" { TEXT "Eh, could be worse." }
-	SUB	"Sg2c0704" { TEXT "You rather be sweepin' streets again?" }
-	SUB	"Sg2c0706" { TEXT "Yeah, but the wrong kind of people...." }
-	SUB	"Sg2c0802" { TEXT "Nah, Bafford and his flunkies ate it all!" }
-	SUB	"Sg2c0804" { TEXT "Maybe there's some left in the kitchen." }
-	SUB	"Sg2c0806" { TEXT "Huh! Fat slob!" }
-	SUB	"Sg2c0902" { TEXT "The boss sent them on a special errand. Some fellow he wants dead! A thief, name of 'Garrett.'" }
-	SUB	"Sg2c0904" { TEXT "Not anymore if he's had a visit from those two!" }
-	SUB	"Sg2c1002" { TEXT "Didn't you hear? They pulled the basement shift. We probably won't see them for hours yet!" }
-	SUB	"Sg2c1004" { TEXT "Better for us then, hey? Well I should be getting back to the front gate. See ya back here in a couple hours, then?" }
-	SUB	"Sg2c1101" { TEXT "Eh, go down to the well and get us some water." }
-	SUB	"SG2C1202" { TEXT "What? Why me?" }
-	SUB	"SG2C1204" { TEXT "I'll quit first. See if I don't!" }
-	SUB	"Sg2c1301" { TEXT "You seen the stuff Shemenov's tough boys are wearin'?" }
-	SUB	"Sg2c1303" { TEXT "And we get stuck with this stuff! And they got halberds too!" }
-	SUB	"Sg2c1601" { TEXT "Hear you gotta pool!" }
-	SUB	"Sg2c1603" { TEXT "Uh, give me six on Bohn and--uh...uh--five on another two years." }
-	SUB	"Sg2c1605" { TEXT "Wait a minute. We pay you now, and you don't pay for two years? Nevermind!" }
-	SUB	"Sg2c1702" { TEXT "Yeah! Of course.... Had a buddy in the group was blockin' the back alley." }
-	SUB	"Sg2c1704" { TEXT "Another under-market warden? That's slick!" }
-	SUB	"Sg2c1802" { TEXT "What?" }
-	SUB	"Sg2c1804" { TEXT "Creepy!" }
-	SUB	"Sg2c2001" { TEXT "So, like I was tellin' you yesterday, you wanna hurt the guy, not knock him down or pat him on the head." }
-	SUB	"Sg2c2003" { TEXT "Thunk him on the shoulder and that'll just slow him up! Go for the stomach, or lower. A Hammer's usually weak there." }
-	SUB	"SG2C2102" { TEXT "You know how the world's like now. Ya can't blame 'im." }
-	SUB	"Sg2c2201" { TEXT "Think anything'll happen?" }
-	SUB	"Sg2c2203" { TEXT "Not me!" }
-	SUB	"Sg2c2501" { TEXT "I think you're a-sleepy." }
-	SUB	"Sg2c2503" { TEXT "'Dreamsie' ya did." }
-	SUB	"Sg2c2602" { TEXT "Why do you be goin' down to Wayside anyway? Nothin' there but whores and moneymongers." }
-	SUB	"Sg2c2604" { TEXT "Bet I know which sort she is!" }
-	SUB	"Sg2c3002" { TEXT "Seen better.... Seen better." }
-	SUB	"Sg2c3102" { TEXT "You too." }
+	TYPE "convo"
+	DESCR "HlÌdka"
+	SUB "SG2C0102" { TEXT "Ts! Nezaplatili mi dost!" }
+	SUB "SG2C0104" { TEXT "Ne, ne! Je mi z toho zle! Kdyû jsem byl mal˝..." }
+	SUB "SG2C0106" { TEXT "Sklapni, ty tafre! Chceö krev? MÏl jsi tam b˝t p¯ed lety! ÿeknu ti... medvÏdi tehdy? Bylo se na co dÌvat. Ti medvÏdi nepot¯ebovali û·dnÈ bodce na tv·¯e, ûiletkovÈ obojky, h·ky na tlapy a vöechny ty noûe, co jim teÔ nasazujou!" }
+	SUB "SG2C0108" { TEXT "Hah! Naaa! TehdejöÌ medvÏdi mÏli dr·py dlouhÈ jako tv˘j prst! A straönÈ tes·ky!" }
+	SUB "SG2C0110" { TEXT "Proto teÔ nem˘ûu vyst·t J·my! Ani nevÌö, o co jsi p¯iöel. MedvÏdi uû prostÏ nejsou jako kdysi...." }
+	SUB "Sg2c0702" { TEXT "Eh, mohlo to b˝t horöÌ." }
+	SUB "Sg2c0704" { TEXT "RadÏji bys zase zametal ulice?" }
+	SUB "Sg2c0706" { TEXT "Jo, ale öpatn˝ druh lidÌ...." }
+	SUB "Sg2c0802" { TEXT "Ne, Bafford a jeho poskoci to vöechno seûrali!" }
+	SUB "Sg2c0804" { TEXT "Moûn·, ûe v kuchyni nÏco zbylo." }
+	SUB "Sg2c0806" { TEXT "Huh! Tlust˝ fl·kaË!" }
+	SUB "Sg2c0902" { TEXT "äÈf je poslal na zvl·ötnÌ poch˘zku. Na nÏjakÈho chl·pka, co chce pod drnem! ZlodÏje, jmenuje se 'Garrett'." }
+	SUB "Sg2c0904" { TEXT "Uû ne, pokud ho navötÌvili tihle dva!" }
+	SUB "Sg2c1002" { TEXT "Copak jsi to neslyöel? Vyt·hli smÏnu ze sklepa. NejspÌö je jeötÏ p·r hodin neuvidÌme!" }
+	SUB "Sg2c1004" { TEXT "Tak to je pro n·s lepöÌ, co? No, mÏl bych se vr·tit k p¯ednÌ br·nÏ. UvidÌme se tady za p·r hodin?" }
+	SUB "Sg2c1101" { TEXT "Eh, jdi dol˘ ke studni a p¯ines n·m trochu vody." }
+	SUB "SG2C1202" { TEXT "Coûe? ProË mnÏ?"}
+	SUB "SG2C1204" { TEXT "J· konËÌm prvnÌ. UvidÌö, jestli ne!" }
+	SUB "Sg2c1301" { TEXT "VidÏl jsi, co nosÌ äemenovi drsÚ·ci?" }
+	SUB "Sg2c1303" { TEXT "A my tu trËÌme s tÌmhle haramp·dÌm! A oni majÌ taky halapartny!" }
+	SUB "Sg2c1601" { TEXT "Pr˝ se musÌö z·sobit!" }
+	SUB "Sg2c1603" { TEXT "Uh, dej mi öest na Bohna a... uh... uh... pÏt na dalöÌ dva roky." }
+	SUB "Sg2c1605" { TEXT "Hele poËkej. ZaplatÌme ti teÔ a ty dva roky neplatÌö? Nasrat!" }
+	SUB "Sg2c1702" { TEXT "Jo! Samoz¯ejmÏ.... MÏl k·moöe z party, co blokoval zadnÌ uliËku." }
+	SUB "Sg2c1704" { TEXT "DalöÌ dozorce pod trhem? To je mazan˝!" }
+	SUB "Sg2c1802" { TEXT "Coûe?" }
+	SUB "Sg2c1804" { TEXT "DÏs!" }
+	SUB "Sg2c2001" { TEXT "Takûe, jak jsem ti vËera ¯Ìkal, chceö tomu chlapovi ublÌûit, ne ho srazit na zem nebo ho popl·cat po hlavÏ." }
+	SUB "Sg2c2003" { TEXT "Praöù ho do ramene a to ho jen zpomalÌ! Jdi na b¯icho nebo nÌû. Kladivo je tam obvykle slabÈ." }
+	SUB "SG2C2102" { TEXT "VÌö, jak to teÔ na svÏtÏ chodÌ. Nem˘ûeö mu to mÌt za zlÈ." }
+	SUB "Sg2c2201" { TEXT "MyslÌö, ûe se nÏco stane?" }
+	SUB "Sg2c2203" { TEXT "J· ne!" }
+	SUB "Sg2c2501" { TEXT "MyslÌm, ûe jsi ospal˝." }
+	SUB "Sg2c2503" { TEXT "'SnÌËek' mÏls." }
+	SUB "Sg2c2602" { TEXT "ProË v˘bec chodÌö do Wayside? Jsou tam jen dÏvky a penÏzomÏnci." }
+	SUB "Sg2c2604" { TEXT "VsadÌm se, ûe vÌm, co je zaË!" }
+	SUB "Sg2c3002" { TEXT "VidÏl jsem lepöÌ... VidÏl jsem lepöÌ." }
+	SUB "Sg2c3102" { TEXT "Taky." }
 }
 {
-	TYPE	"bark"
-	DESCR	"Guard"
-	SUB	"Sg2c3201" { TEXT "Seen anything?" }
-	SUB	"Sg2c3301" { TEXT "Nice night." }
-	SUB	"Sg2c3401" { TEXT "All's well my way." }
-	SUB	"SG2C3502" { TEXT "Oh, who you kiddin'?" }
-	SUB	"SG2CHGA1" { TEXT "That was your last chance!" }
-	SUB	"SG2CHGA2" { TEXT "This is gonna be fun!" }
-	SUB	"SG2CHGW1" { TEXT "Help me get 'im! Thief, thief!" }
-	SUB	"SG2CHGW2" { TEXT "Charge!" }
-	SUB	"SG2CHGW3" { TEXT "Help me get this taffer!" }
-	SUB	"SG2CHGW4" { TEXT "After him!" }
-	SUB	"SG2DET_1" { TEXT "Won't hurt me that way!" }
-	SUB	"SG2DET_2" { TEXT "Got ya scared?" }
-	SUB	"SG2DET_3" { TEXT "Think that'll help?" }
-	SUB	"SG2DETW1" { TEXT "He's scared of us now." }
-	SUB	"SG2HIT_1" { TEXT "Got you!" }
-	SUB	"SG2HIT_2" { TEXT "Heh-hah!" }
-	SUB	"SG2HIT_3" { TEXT "Give up taffer!" }
-	SUB	"SG2HIT_4" { TEXT "That must a' hurt!" }
-	SUB	"SG2HITW1" { TEXT "We've got 'im on the ropes!" }
-	SUB	"SG2HITW2" { TEXT "Your turn!" }
-	SUB	"SG2HLOW1" { TEXT "Cover me!" }
-	SUB	"SG2HND_1" { TEXT "That the best you can do?" }
-	SUB	"SG2HND_2" { TEXT "Not a scratch!" }
-	SUB	"SG2HND_3" { TEXT "My, ya dented the armor a little!" }
-	SUB	"SG2LAR_1" { TEXT "Look at this! Help! This way!" }
-	SUB	"SG2LAR_2" { TEXT "What the hell? Who's been-- Help!" }
-	SUB	"SG2LAR_3" { TEXT "What's all this?" }
-	SUB	"SG2LOS_1" { TEXT "Where did he go now?" }
-	SUB	"SG2LOS_2" { TEXT "Where'd that taffer go?" }
-	SUB	"SG2LOS_3" { TEXT "Hey! Come back here! Where'd you go?" }
-	SUB	"SG2LOS_4" { TEXT "Where'd he go?" }
+	TYPE "bark"
+	DESCR "HlÌdka"
+	SUB "Sg2c3201" { TEXT "VidÏl jsi nÏco?" }
+	SUB "Sg2c3301" { TEXT "Hezk· noc." }
+	SUB "Sg2c3401" { TEXT "U mÏ vöecko v po¯·dku." }
+	SUB "SG2C3502" { TEXT "Oh, z koho si utahujeö?" }
+	SUB "SG2CHGA1" { TEXT "To byla tv· poslednÌ öance!" }
+	SUB "SG2CHGA2" { TEXT "Tohle bude z·bava!" }
+	SUB "SG2CHGW1" { TEXT "Pomozte mi ho dostat! ZlodÏj, zlodÏj!" }
+	SUB "SG2CHGW2" { TEXT "Ke zbrani!" }
+	SUB "SG2CHGW3" { TEXT "Pomozte mi dostat toho zlodÏje!" }
+	SUB "SG2CHGW4" { TEXT "Za nÌm!" }
+	SUB "SG2DET_1" { TEXT "Tohle mi neublÌûÌ!" }
+	SUB "SG2DET_2" { TEXT "M·ö nahn·no?" }
+	SUB "SG2DET_3" { TEXT "MyslÌö, ûe to pom˘ûe?" }
+	SUB "SG2DETW1" { TEXT "TeÔ z n·s m· plnÈ gatÏ." }
+	SUB "SG2HIT_1" { TEXT "M·m tÏ!" }
+	SUB "SG2HIT_3" { TEXT "Vzdej to, tafre!" }
+	SUB "SG2HIT_4" { TEXT "To musÌ bolet!" }
+	SUB "SG2HITW1" { TEXT "M·me ho v koutÏ!" }
+	SUB "SG2HITW2" { TEXT "Jsi na ¯adÏ!" }
+	SUB "SG2HLOW1" { TEXT "Kryjte mÏ!" }
+	SUB "SG2HND_1" { TEXT "To je to nejlepöÌ, co dok·ûeö?" }
+	SUB "SG2HND_2" { TEXT "Ani ökr·bnutÌ!" }
+	SUB "SG2HND_3" { TEXT "P·ni, trochu jsi prom·Ëkl brnÏnÌ!" }
+	SUB "SG2LAR_1" { TEXT "PodÌvejte se na to! Pomoc! Tudy!" }
+	SUB "SG2LAR_2" { TEXT "Co to sakra je? Kdo to... Pomoc!" }
+	SUB "SG2LAR_3" { TEXT "Co to vöechno je?" }
+	SUB "SG2LOS_1" { TEXT "Kam öel teÔ?" }
+	SUB "SG2LOS_2" { TEXT "Kam öel ten tafer?" }
+	SUB "SG2LOS_3" { TEXT "Hej! Vraù se sem! Kam jsi öel?" }
+	SUB "SG2LOS_4" { TEXT "Kam öel?" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Guard"
-	SUB	"Sg2m0201" { TEXT "Great. The Master's out, and while the rest are probably enjoying themselves upstairs, I'm stuck down here guarding the ale, 'stead of drinking it!" }
-	SUB	"Sg2m0202" { TEXT "Brigands! Help!" }
-	SUB	"Sg2m02d1" { TEXT "Hey there, friend! What's with the crazy get-up?" }
+	TYPE "convo"
+	DESCR "HlÌdka"
+	SUB "Sg2m0201" { TEXT "SkvÏlÈ. Mistr je pryË, a zatÌmco ostatnÌ se nejspÌö bavÌ naho¯e, j· tu trËÌm dole a hlÌd·m pivo, mÌsto abych ho pil!" }
+	SUB "Sg2m0202" { TEXT "LoupeûnÌci! Pomoc!" }
+	SUB "Sg2m02d1" { TEXT "Ahoj, p¯Ìteli! Co to m·ö za bl·zniv˝ p¯evlek?" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Guard"
-	SUB	"SG2M0501" { TEXT "Get 'im!" }
-	SUB	"Sg2m0502" { TEXT "He's gettin' away!" }
-	SUB	"Sg2m0503" { TEXT "Wait! Did you hear someone?" }
-	SUB	"Sg2m0504" { TEXT "Could'a sworn I heard someone. Look sharp!" }
-	SUB	"Sg2m0505" { TEXT "You here that? Someone's on our tail for sure!" }
-	SUB	"Sg2m0506" { TEXT "Look! It's him! Take him down, this time!" }
-	SUB	"Sg2m0507" { TEXT "I feel like we're bein' followed!" }
-	SUB	"Sg2m0508" { TEXT "Someone followin' us?" }
-	SUB	"Sg2m0509" { TEXT "Heard somethin' weird back there." }
-	SUB	"Sg2m0510" { TEXT "You hear that?" }
-	SUB	"SG2MIS_1" { TEXT "Where'd that go? Thief, thief!" }
-	SUB	"SG2MIS_2" { TEXT "Where's the scepter?" }
-	SUB	"SG2MIS_3" { TEXT "That's no good. Where'd it go?" }
-	SUB	"SG2MIS_4" { TEXT "Thief! The sword's gone!" }
-	SUB	"SG2RBOD1" { TEXT "Careful, there's a killer out there. I've seen the body to prove it." }
-	SUB	"SG2RBOD2" { TEXT "There's a murderer in with us! Trust no one!" }
-	SUB	"SG2RBOD3" { TEXT "Watch out! Been murder!" }
-	SUB	"SG2RINT1" { TEXT "Watch out! There's some taffer runnin' around." }
-	SUB	"SG2RINT2" { TEXT "We've got an intruder around. Look out." }
-	SUB	"SG2RINT3" { TEXT "The thief he mentioned is skulkin' around!" }
-	SUB	"SG2RMIS1" { TEXT "Spread the word! We've been robbed!" }
-	SUB	"SG2RMIS2" { TEXT "The Sir's been robbed! Thief in the building!" }
-	SUB	"SG2RMIS3" { TEXT "The scepter's been stolen!" }
-	SUB	"SG2RMIS4" { TEXT "Thief's been in already!" }
-	SUB	"SG2ROTH1" { TEXT "Stay awake. I think there's somethin' goin' on." }
-	SUB	"SG2ROTH2" { TEXT "Watch out! I saw somethin' odd a time ago!" }
-	SUB	"SG2ROTH3" { TEXT "Careful! There's somethin' up! Watch for anything unusual!" }
-	SUB	"SG2ROTH4" { TEXT "There's an intruder in the building! Don't let him by you!" }
-	SUB	"SG2ROTH5" { TEXT "Thief's broken in!" }
-	SUB	"SG2RUNA1" { TEXT "Can I get some help over here?" }
-	SUB	"SG2RUNA2" { TEXT "Come on over here. Help!" }
-	SUB	"SG2RUNA3" { TEXT "You'll not be so cheery when my brothers arrive!" }
-	SUB	"SG2RUNA4" { TEXT "Thief here! Guards!" }
-	SUB	"SG2SEC_1" { TEXT "Stranger in the building!" }
-	SUB	"SG2SEC_2" { TEXT "Intruder through here!" }
-	SUB	"SG2SEC_3" { TEXT "Hey, watch for an intruder!" }
-	SUB	"SG2SEC_4" { TEXT "Thief's been through here!" }
-	SUB	"SG2SMA_1" { TEXT "Someone's been taffin' through here." }
-	SUB	"SG2SMA_2" { TEXT "What happened here?" }
-	SUB	"SG2SMA_3" { TEXT "Someone been wanderin' around here?" }
-	SUB	"SG2SMA_4" { TEXT "Who's done this?" }
-	SUB	"SG2TELC1" { TEXT "Got him! Over this way!" }
-	SUB	"SG2TELC2" { TEXT "The intruder's right there!" }
-	SUB	"sg2telc3" { TEXT "I see him! This way!" }
-	SUB	"SG2TELC4" { TEXT "Thief! This way!" }
-	SUB	"SG2TELC5" { TEXT "There he is! There!" }
-	SUB	"SG2TELC6" { TEXT "The thief's right here! Don't let him escape!" }
-	SUB	"SG2TELR1" { TEXT "Eh-hey! Look what we've got here!" }
-	SUB	"SG2TELR2" { TEXT "Got a taffer in the building!" }
-	SUB	"SG2TELR3" { TEXT "Thief here!" }
-	SUB	"SG2TELR4" { TEXT "Intruder here!" }
-	SUB	"SG2WRN11" { TEXT "Clear outta here, rogue! This is no place for you." }
-	SUB	"SG2WRN21" { TEXT "This is your last chance! Be gone or face the consequences!" }
-	SUB	"SG2WRNF1" { TEXT "If that's how you want it, knave!" }
-} 
+	TYPE "bark"
+	DESCR "HlÌdka"
+    SUB "SG2M0501" { TEXT "Chopte se ho!" }
+	SUB "Sg2m0502" { TEXT "UtÌk· n·m!" }
+	SUB "Sg2m0503" { TEXT "PoËkej! Slyöel jsi nÏkoho?" }
+	SUB "Sg2m0504" { TEXT "P¯Ìsahal bych, ûe jsem nÏkoho slyöel. Zbyst¯i zrak!" }
+	SUB "Sg2m0505" { TEXT "Slyöel jsi to? NÏkdo je n·m urËitÏ v pat·ch!" }
+	SUB "Sg2m0506" { TEXT "PodÌvej! To je on! Tentokr·t ho sejmi!" }
+	SUB "Sg2m0507" { TEXT "M·m pocit, ûe n·s nÏkdo sleduje!" }
+	SUB "Sg2m0508" { TEXT "NÏkdo n·s sleduje?" }
+	SUB "Sg2m0509" { TEXT "Slyöel jsem tam vzadu nÏco divnÈho." }
+	SUB "Sg2m0510" { TEXT "Slyöels to?" }
+	SUB "SG2MIS_1" { TEXT "Kam to...? ZlodÏj, zlodÏj!" }
+	SUB "SG2MIS_2" { TEXT "Kde je ûezlo?" }
+	SUB "SG2MIS_3" { TEXT "To nenÌ dobrÈ. Kam se podÏlo?" }
+	SUB "SG2MIS_4" { TEXT "ZlodÏj!	MeË je pryË!" }
+	SUB "SG2RBOD1" { TEXT "OpatrnÏ, venku je vrah. VidÏl jsem tÏlo, kterÈ to dokazuje." }
+	SUB "SG2RBOD2" { TEXT "Je tu s n·mi vrah! Nikomu nevÏ¯te!" }
+	SUB "SG2RBOD3" { TEXT "Pozor! Byla tu vraûda!" }
+	SUB "SG2RINT1" { TEXT "Pozor! Kolem bÏh· nÏjak˝ tafer." }
+	SUB "SG2RINT2" { TEXT "M·me tu vet¯elce. Bacha." }
+	SUB "SG2RINT3" { TEXT "⁄dajnÏ se plÌûÌ kolem zlodÏj!" }
+	SUB "SG2RMIS1" { TEXT "äi¯te zpr·vu! Byli jsme okradeni!" }
+	SUB "SG2RMIS2" { TEXT "P·n byl okraden! ZlodÏj v budovÏ!" }
+	SUB "SG2RMIS3" { TEXT "éezlo bylo ukradeno!" }
+	SUB "SG2RMIS4" { TEXT "ZlodÏj uû je uvnit¯!" }
+	SUB "SG2ROTH1" { TEXT "Z˘staÚ vzh˘ru. MyslÌm, ûe se nÏco dÏje." }
+	SUB "SG2ROTH2" { TEXT "Pozor! P¯ed chvÌlÌ jsem vidÏl nÏco divnÈho!" }
+	SUB "SG2ROTH3" { TEXT "Pozor! NÏco se dÏje! Pozor na nÏco neobvyklÈho!" }
+	SUB "SG2ROTH4" { TEXT "V budovÏ je vet¯elec! Nepusùte si ho k tÏlu!" }
+	SUB "SG2ROTH5" { TEXT "ZlodÏj se vloupal dovnit¯!" }
+	SUB "SG2RUNA1" { TEXT "M˘ûete sem zavolat pomoc?" }
+	SUB "SG2RUNA2" { TEXT "PojÔte sem. Pomoc!" }
+	SUB "SG2RUNA3" { TEXT "Aû p¯ijedou moji brat¯i, nebudeö tak zvesela!" }
+	SUB "SG2RUNA4" { TEXT "ZlodÏj tady! Str·ûe!" }
+	SUB "SG2SEC_1" { TEXT "Cizinec v budovÏ!" }
+	SUB "SG2SEC_2" { TEXT "Vet¯elec je tady!" }
+	SUB "SG2SEC_3" { TEXT "Hej, pozor na naruöitele!" }
+	SUB "SG2SEC_4" { TEXT "Proöel tudy zlodÏj!" }
+	SUB "SG2SMA_1" { TEXT "NÏkdo se tu kolem taf¯Ì." }
+	SUB "SG2SMA_2" { TEXT "Co se tu stalo?" }
+	SUB "SG2SMA_3" { TEXT "NÏkdo se tu potuloval?" }
+	SUB "SG2SMA_4" { TEXT "Kdo to udÏlal?" }
+	SUB "SG2TELC1" { TEXT "M·m ho! Tudy!" }
+	SUB "SG2TELC2" { TEXT "Naruöitel je p¯Ìmo tam!" }
+	SUB "sg2telc3" { TEXT "VidÌm ho! Tudy!" }
+	SUB "SG2TELC4" { TEXT "ZlodÏj! Tudy!" }
+	SUB "SG2TELC5" { TEXT "Tady je! Tady!" }
+	SUB "SG2TELC6" { TEXT "ZlodÏj je p¯Ìmo tady! Nenechte ho utÈct!" }
+	SUB "SG2TELR1" { TEXT "Hej! PodÌvejte, co tu m·me!" }
+	SUB "SG2TELR2" { TEXT "M·me v budovÏ tafra!" }
+	SUB "SG2TELR3" { TEXT "ZlodÏj tady!" }
+	SUB "SG2TELR4" { TEXT "Vet¯elec zde!" }
+	SUB "SG2WRN11" { TEXT "Vypadni odsud, lumpe! Tady pro tebe nic nenÌ." }
+	SUB "SG2WRN21" { TEXT "Tohle je tv· poslednÌ öance! Odejdi, nebo budeö Ëelit n·sledk˘m!" }
+	SUB "SG2WRNF1" { TEXT "Kdyû to tak chceö, chytr·ku!" }
+}

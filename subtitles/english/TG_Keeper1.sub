@@ -1,49 +1,49 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Keeper Instructor"
-	SUB	"ke1m0101" { TEXT "Come on son, proceed with your training. If you wish to hear the instructions again, tell me." }
-	SUB	"ke1m0102" { TEXT "You aren't playing by the rules, young one." }
-	SUB	"ke1m0103" { TEXT "Welcome, young Garrett." }
-	SUB	"ke1m0104" { TEXT "In the nearby rooms I will instruct you in the various skills you will need to survive. Please stay in the entrance area to each room while I explain the room's purpose. When you are ready to begin your lessons, proceed down this hallway to the first room." }
-	SUB	"ke1m0105" { TEXT "You must learn how to move unseen. Stay in the shadows...avoid the light. The indicator on your screen will tell you how visible you are. Try to reach the top of the platform without being seen." }
-	SUB	"ke1m0106" { TEXT "Try again. Remember, stay out of the well-lit areas until you reach the platform." }
-	SUB	"ke1m0107" { TEXT "Open this door to continue. When the door is near the center of your screen, it will light up, indicating that it is selected. To manipulate selected doors and other objects, 'Use' them." }
-	SUB	"ke1m0108" { TEXT "Good." }
-	SUB	"ke1m0109" { TEXT "Proceed down this corridor for your next test." }
-	SUB	"ke1m0110" { TEXT "Now you must learn to move quietly." }
-	SUB	"ke1m0111" { TEXT "Some surfaces are louder than others when walked upon, and moving quickly makes more noise than moving slowly. Listen to your own footsteps to hear how much noise you are making. The instructer will have his back turned. You must get to the top of the platform without being heard." }
-	SUB	"ke1m0112" { TEXT "Try again. Remember, walk on quiet surfaces and move slowly." }
-	SUB	"ke1m0113" { TEXT "Beyond this door is a hallway that will lead you to your next task." }
-	SUB	"ke1m0114" { TEXT "Now get your weapons. To pick up objects, select them by centering them on-screen until they light up, then 'Use' them." }
-	SUB	"ke1m0115" { TEXT "Choose your weapon now. Try readying your sword, and then your bow. You can always put them away again if you need your hands free." }
-	SUB	"ke1m0116" { TEXT "Now let's go out to the courtyard for some target practice." }
-	SUB	"ke1m0117" { TEXT "Ready your bow. Nock an arrow and draw back the string by holding down the 'Attack' button. Make sure you draw all the way back, or your shot will not have full power. Take aim, and when you are ready to shoot, release your attack. See if you can hit one of these targets." }
-	SUB	"ke1m0118" { TEXT "Good shot. Keep practicing if you wish." }
-	SUB	"ke1m0119" { TEXT "When you are ready to proceed, approach the training dummy, and ready your sword." }
-	SUB	"ke1m0120" { TEXT "Swing at the target with the 'Attack' button. A quick tap will give you a slash. Move the tip of your sword to the left of the target for a left slash, and to the right of the target for a right slash. Hold the 'Attack' button down, then release for an overhead swing. Try both slashes and the overhead swing on the practice dummy." }
-	SUB	"ke1m0121" { TEXT "Good job. You're ready for a live opponent. To practice against your partner, enter the cobbled sparring area." }
-	SUB	"ke1m0122" { TEXT "Attack him with your sword, not your bow." }
-	SUB	"ke1m0123" { TEXT "Well done. Keep sparring if you wish. When you are done, leave the sparring area." }
-	SUB	"ke1m0124" { TEXT "That's enough sparring for today. Please walk over to the table." }
-	SUB	"ke1m0125" { TEXT "Would you care for some refreshment before we move on, young Garrett?" }
-	SUB	"ke1m0126" { TEXT "Please pick up all of the items on this table." }
-	SUB	"ke1m0127" { TEXT "Cycle through your inventory to see the objects you have in your pockets. Once an object is displayed, you may use it. Have something to eat if you wish, then you may proceed. The next test is waiting on the other side of the metal door." }
-	SUB	"ke1m0128" { TEXT "The door is locked, but the key from the table will open it." }
-	SUB	"ke1m0129" { TEXT "To unlock the door, select the key in your inventory. Center the door on-screen until it lights up, then 'Use' the key on the door." }
-	SUB	"ke1m0130" { TEXT "Good." }
-	SUB	"ke1m0131" { TEXT "Now head down this hallway to get to your next test." }
-	SUB	"ke1m0132" { TEXT "Now you will learn new movement skills." }
-	SUB	"ke1m0133" { TEXT "First, climb the rope by 'Jump'-ing onto it." }
-	SUB	"ke1m0134" { TEXT "Move while looking up or down to climb up or down the rope. Turn to change your facing. If you 'Jump' again, you will release the rope. Now climb the rope to get to the top of the platform." }
-	SUB	"ke1m0135" { TEXT "Well done." }
-	SUB	"ke1m0136" { TEXT "Run and jump across the gap to the other side of the stream." }
-	SUB	"ke1m0137" { TEXT "Looks like you got a bit wet, my boy. Make sure you 'Jump' while 'Run'-ning to get over a gap of that size. Climb the rope again and make another attempt." }
-	SUB	"ke1m0138" { TEXT "Good jump." }
-	SUB	"ke1m0139" { TEXT "This obstacle is easy to climb if you know how." }
-	SUB	"ke1m0140" { TEXT "First, move close to the wall. Next, 'Jump' to grab the edge of the wall, and pull yourself up." }
-	SUB	"ke1m0141" { TEXT "Good job. I am most pleased with your progress. You have passed the last test for today." }
-	SUB	"ke1m0142" { TEXT "If you wish, you may stay to practice your climbing and jumping...or swimming, ducking, leaning or crawling. When you are finished, you may return to your chambers by going through that red door. Farewell." }
-	SUB	"ke1m0143" { TEXT "Most impressive, lad. I hope you use your talent with as much prudence as skill." }
+	TYPE "convo"
+	DESCR "Keeper Instructor"
+	SUB "ke1m0101" { TEXT "No tak, synku, pokraèuj ve vıcviku. Pokud si pøeješ slyšet instrukce znovu, øekni mi to." }
+	SUB "ke1m0102" { TEXT "Nehraješ podle pravidel, mladíku." }
+	SUB "ke1m0103" { TEXT "Vítej, mladı Garrette." }
+	SUB "ke1m0104" { TEXT "V okolních místnostech tì nauèím rùznım dovednostem, které budeš potøebovat k pøeití. Zùstaò prosím ve vstupní èásti kadé místnosti, zatímco vysvìtlím její úèel. A budeš pøipraven zaèít s vıukou, pokraèuj touto chodbou do první místnosti." }
+	SUB "ke1m0105" { TEXT "Musíš se nauèit pohybovat nepozorovanì. Dr se ve stínu... vyhıbej se svìtlu. Indikátor na obrazovce ti ukáe, jak moc jsi vidìt. Sna se dostat na vrchol plošiny, ani by tì nìkdo vidìl." }
+	SUB "ke1m0106" { TEXT "Zkus to znovu. Nezapomeò se dret mimo dobøe osvìtlená místa, dokud nedosáhneš plošiny." }
+	SUB "ke1m0107" { TEXT "Otevøi tyto dveøe, abys mohl pokraèovat. A se dveøe budou nacházet blízko støedu obrazovky, rozsvítí se, co znamená, e jsou vybrány. Chceš-li manipulovat s vybranımi dveømi a dalšími objekty, 'Pouij' je." }
+	SUB "ke1m0108" { TEXT "Dobøe." }
+	SUB "ke1m0109" { TEXT "Pokraèuj touto chodbou k dalšímu testu." }
+	SUB "ke1m0110" { TEXT "Nyní se musíš nauèit pohybovat tiše." }
+	SUB "ke1m0111" { TEXT "Nìkteré povrchy jsou pøi chùzi hlasitìjší ne jiné a rychlı pohyb dìlá vìtší hluk ne pomalı. Poslouchej své vlastní kroky, abys slyšel, jak velkı hluk dìláš. Instruktor bude otoèen zády. Musíš se dostat na vrchol plošiny, ani by tì nìkdo slyšel." }
+	SUB "ke1m0112" { TEXT "Zkus to znovu. Nezapomeò chodit po tichém povrchu a pohybovat se pomalu." }
+	SUB "ke1m0113" { TEXT "Za tìmito dveømi je chodba, která tì dovede k dalšímu úkolu." }
+	SUB "ke1m0114" { TEXT "Nyní si vem zbranì. Chceš-li sebrat pøedmìty, vyber je tak, e je vycentruješ na obrazovce, dokud se nerozsvítí, a pak je 'Pouij'." }
+	SUB "ke1m0115" { TEXT "Nyní si vyber zbraò. Zkus si pøipravit meè a pak luk. Vdy je mùeš zase odloit, pokud potøebuješ mít volné ruce." }
+	SUB "ke1m0116" { TEXT "Nyní pojïme na nádvoøí, abychom si procvièili støelbu na terè." }
+	SUB "ke1m0117" { TEXT "Pøiprav si luk. Zaklesni šíp a podrením tlaèítka 'Útok' natáhni tìtivu. Dbej na to, abys natáhl tìtivu úplnì dozadu, jinak tvùj vıstøel nebude mít plnou sílu. Zamiø, a a budeš pøipraven vystøelit, uvolni útok. Zkus, zda se ti podaøí zasáhnout nìkterı z tìchto cílù." }
+	SUB "ke1m0118" { TEXT "Dobrá trefa. Pokud chceš, pokraèuj v tréninku." }
+	SUB "ke1m0119" { TEXT "A budeš pøipraven pokraèovat, pøistup k tréninkové figurínì a pøiprav si meè." }
+	SUB "ke1m0120" { TEXT "Máchni na cíl tlaèítkem 'Útok'. Rychlım klepnutím provedeš seknutí. Pøesuò špièku meèe vlevo od cíle pro seknutí vlevo a vpravo od cíle pro seknutí vpravo. Podrením tlaèítka 'útok' a jeho uvolnìním provedeš švih nad hlavou. Zkus si oba seky a švih nad hlavou na cvièné figurínì." }
+	SUB "ke1m0121" { TEXT "Dobrá práce. Jsi pøipraven na ivého protivníka. Chceš-li trénovat proti svému partnerovi, vstup do dládìného sparingového prostoru." }
+	SUB "ke1m0122" { TEXT "Zaútoè na nìj meèem, ne lukem." }
+	SUB "ke1m0123" { TEXT "Dobrá práce. Pokud si pøeješ, pokraèuj v sparingu. A skonèíš, opus prostor pro sparing." }
+	SUB "ke1m0124" { TEXT "To by pro dnešek staèilo. Prosím, pøejdi ke stolu." }
+	SUB "ke1m0125" { TEXT "Chtìl by ses obèerstvit, ne budeme pokraèovat, mladı Garrette?" }
+	SUB "ke1m0126" { TEXT "Prosím, posbírej všechny pøedmìty na tomto stole." }
+	SUB "ke1m0127" { TEXT "Projdi svùj inventáø a podívej se na pøedmìty, které máš v kapsách. Jakmile je pøedmìt zobrazen, mùeš jej pouít. Pokud si pøeješ, dej si nìco k jídlu a pak mùeš pokraèovat. Další zkouška èeká na druhé stranì kovovıch dveøí." }
+	SUB "ke1m0128" { TEXT "Dveøe jsou zamèené, ale klíè ze stolu je otevøe." }
+	SUB "ke1m0129" { TEXT "Chceš-li dveøe odemknout, vyber klíè ze svého inventáøe. Vycentruj dveøe na obrazovce, dokud se nerozsvítí, a pak klíè na dveøe 'pouij'." }
+	SUB "ke1m0130" { TEXT "Dobøe." }
+	SUB "ke1m0131" { TEXT "Nyní se vydej touto chodbou, abys se dostal k dalšímu testu." }
+	SUB "ke1m0132" { TEXT "Nyní se nauèíš nové pohybové dovednosti." }
+	SUB "ke1m0133" { TEXT "Nejprve vyšplhej po lanì tak, e na nìj skoèíš." }
+	SUB "ke1m0134" { TEXT "Pohybuj pohledem nahoru nebo dolù abys šplhal po lanì nahoru nebo dolù. Otáèením zmìníš smìr pohledu. Pokud znovu 'Skoèíš', pustíš se lana. Nyní vyšplhej po lanì a dostaò se na vrchol plošiny." }
+	SUB "ke1m0135" { TEXT "Dobrá práce." }
+	SUB "ke1m0136" { TEXT "Bì a pøeskoè pøes propast na druhou stranu od potoka." }
+	SUB "ke1m0137" { TEXT "Vypadá to, e ses trochu promoèil, chlapèe. Ujisti se, e pøi 'bìhu' 'skáèeš', abys pøekonal tak velkou mezeru. Znovu vyšplhej po lanì a proveï další pokus." }
+	SUB "ke1m0138" { TEXT "Dobrı skok." }
+	SUB "ke1m0139" { TEXT "Tuto pøekáku snadno zdoláš, pokud víš, jak na to." }
+	SUB "ke1m0140" { TEXT "Nejprve se pøibli ke zdi. Poté se 'Skokem' chytni okraje zdi a vytáhni se nahoru." }
+	SUB "ke1m0141" { TEXT "Dobrá práce. Jsem velmi potìšen tvım pokrokem. Poslední test pro dnešní den jsi zvládl." }
+	SUB "ke1m0142" { TEXT "Pokud chceš, mùeš zùstat a procvièit si šplhání a skákání... nebo plavání, uhıbání, naklánìní èi plazení. A skonèíš, mùeš se vrátit do svıch komnat tak, e projdeš tìmito èervenımi dveømi. Buï zdráv." }
+	SUB "ke1m0143" { TEXT "Velmi pùsobivé, chlapèe. Doufám, e svùj talent vyuiješ stejnì rozvánì jako obratnì." }
 }

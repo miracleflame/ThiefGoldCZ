@@ -1,13 +1,13 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Cutty"
-	SUB	"cutc0102" { TEXT "Heh heh.... 'Fraid you're going to be disappointed!" }
-	SUB	"cutc0104" { TEXT "Snap snap, puppy! But I owe ya, so.... Felix went after the Horn of Quintus, down the Bonehoard.... Left me his notes." }
-	SUB	"cutc0105" { TEXT "The Hammers'...got 'em...and put 'em in their...'evidence box'." }
-	SUB	"cutc0106" { TEXT "Loot collection more like. Upstairs...Officer's Quarters." }
-	SUB	"cutc0107" { TEXT "Once you're up there...hidden passage. If damp hadn't rotted my lungs...." }
-	SUB	"cutm0301" { TEXT "Garrett! Is that you? In here. Come on, puppy." }
-	SUB	"cutm0302" { TEXT "Garrett, stop taffing around. Your sneaksie tricks won't fool old Cutty." }
+	TYPE "convo"
+	DESCR "Cutty"
+	SUB "cutc0102" { TEXT "Heheh.... Obávám se, že budeš zklamaný!" }
+    SUB "cutc0104" { TEXT "Chòap, chòap, pejsku! Ale dlužím ti, takže.... Felix se vydal za Rohem Quinta, dolù do Kostìjova..... Zanechal mi své zápisky." }
+	SUB "cutc0105" { TEXT "Kladiva... je... dostala... a dala je do své... 'dùkazní skøíòky'." }
+	SUB "cutc0106" { TEXT "Spíše sbírka koøisti. Nahoøe... v dùstojnické komnatì." }
+	SUB "cutc0107" { TEXT "Až budeš nahoøe... skrytý prùchod. Kdyby mi nezplesnivìly plíce vlhkem...." }
+	SUB "cutm0301" { TEXT "Garrett! Jsi to ty? Tady. Pojï, pejsku." }
+	SUB "cutm0302" { TEXT "Garrette, pøestaò se tahat. Tvé záludné triky starého Cuttyho neoblafnou." }
 }

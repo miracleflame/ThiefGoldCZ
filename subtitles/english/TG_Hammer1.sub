@@ -1,230 +1,226 @@
 SUB1
 
 {
-	TYPE	"bark"
-	DESCR	"Hammerite"
-	SUB	"hm106500" { TEXT "By The Builder I will find you and stain the walls of Cragscleft with your blood, thief!" }
-	SUB	"HM1A0CH1" { TEXT "And the word went before him on a breeze carrying our salvation. Here at least is a man with a mind of a general and the heart of a poet, yet also with the hands of a builder. He will lift us up from the earth." }
-	SUB	"HM1A0CH2" { TEXT "Vigilance is our shield that protects us from our squalid past. Knowledge is our weapon, with which we carve a path to an enlightened future." }
-	SUB	"HM1A0CH3" { TEXT "Hammer, anvil, forge and fire, chase away The Hoofed Liar. Roof and doorway, block and beam, chase The Trickster from our dreams." }
-	SUB	"HM1A0MU1" { TEXT "Hmm.... Why do I have to be the one down here, guarding all this and--" }
-	SUB	"HM1A0MU2" { TEXT "And I don't see why I should be placed here when everyone else is out running around.... When am I going to get my dinner? That's what I would like to know...." }
-	SUB	"HM1A0MU3" { TEXT "All these people I have to work with are so incompetent, so stupid, so lazy.... I don't see why I should be the one to be put with these incompetent people...." }
-	SUB	"HM1A1__1" { TEXT "Identify thyself. Is someone there?" }
-	SUB	"HM1A1__2" { TEXT "Halt! Be someone there?" }
-	SUB	"HM1A1__3" { TEXT "Hast someone come?" }
-	SUB	"HM1A1__4" { TEXT "Stand forth, and speak thyself, if thou be there." }
-	SUB	"HM1A1_W1" { TEXT "Is something over there?" }
-	SUB	"HM1A1H_1" { TEXT "Hmm, I thought I heard something." }
-	SUB	"HM1A1H_2" { TEXT "Did something make a noise?" }
-	SUB	"HM1A1HW1" { TEXT "Didst thou hear something?" }
-	SUB	"HM1A1HW2" { TEXT "Heard thou anything?" }
-	SUB	"HM1A1HW3" { TEXT "Quietly. I...I hear something." }
-	SUB	"HM1A1V_1" { TEXT "Hmm.... I thought I spied something." }
-	SUB	"HM1A1VW1" { TEXT "Saw thou something over there?" }
-	SUB	"HM1A1VW2" { TEXT "Didst thou see someone over there?" }
-	SUB	"HM1A1VW3" { TEXT "Didst thou see that, too?" }
-	SUB	"HM1A2__1" { TEXT "Who is that there? Speak thyself." }
-	SUB	"HM1A2__2" { TEXT "Over there! Stand forth and declare thy name." }
-	SUB	"HM1A2__3" { TEXT "Hold! What is that there?" }
-	SUB	"HM1A2__4" { TEXT "By The Builder, show thyself." }
-	SUB	"HM1A2H_1" { TEXT "I hear thee. Show thyself in the open at once." }
-	SUB	"HM1A2H_2" { TEXT "I heard that. Stop right there!" }
-	SUB	"Hm1a2se1" { TEXT "Where art thou, villain?" }
-	SUB	"Hm1a2se2" { TEXT "Never fear I shall spy thee out." }
-	SUB	"Hm1a2se3" { TEXT "Thou shalt not hide forever." }
-	SUB	"Hm1a2se4" { TEXT "Hiding shall not save thee." }
-	SUB	"HM1A2V_1" { TEXT "I see thee there. Who art thou?" }
-	SUB	"HM1A3B_1" { TEXT "Halt! What foul deed is this?" }
-	SUB	"HM1A3B_2" { TEXT "What's this? A killer! You'll pay The Builder now!" }
-	SUB	"HM1A3NA1" { TEXT "Halt! Thou art my prisoner!" }
-	SUB	"HM1A3NA2" { TEXT "Hold thy place." }
-	SUB	"HM1A3NA3" { TEXT "Halt thief! I see thee. Thou shalt not escape!" }
-	SUB	"HM1A3NA4" { TEXT "Drop thy weapon! And do...not...move." }
-	SUB	"HM1A3S_1" { TEXT "By The Builder, from whence came thee?" }
-	SUB	"HM1A3S_2" { TEXT "From what shadow sprang thou, villain?" }
-	SUB	"HM1A3S_3" { TEXT "By the Builder's Hand...!" }
-	SUB	"HM1A3S_4" { TEXT "Back to thy cell, villain!" }
-	SUB	"Hm1a3se1" { TEXT "I shall spy thee ere long, thief!" }
-	SUB	"Hm1a3se2" { TEXT "Thou shalt not escape me!" }
-	SUB	"Hm1a3se3" { TEXT "Cease thy hiding, craven." }
-	SUB	"Hm1a3se4" { TEXT "Thou canst not stay in shadows forever!" }
-	SUB	"HM1ALMA1" { TEXT "Let The Builder's metal ring thy doom!" }
-	SUB	"HM1ALMA2" { TEXT "Speak, alarm, and summon thy charges!" }
-	SUB	"HM1ALMW1" { TEXT "Go thou and sound the alarm!" }
-	SUB	"HM1AMB_1" { TEXT "Aaah, most foul cowardice!" }
-	SUB	"HM1AMB_2" { TEXT "Stand and face me, villain!" }
-	SUB	"HM1AMB_3" { TEXT "Come out of thy shadows and face my steel!" }
-	SUB	"HM1AMB_4" { TEXT "Thy treachery dooms thee!" }
-	SUB	"HM1AMBW1" { TEXT "Stand with me brother, for I am hit!" }
-	SUB	"HM1AMBW2" { TEXT "I...am...attacked!" }
-	SUB	"Hm1ambw3" { TEXT "Canst thou see who did that?" }
-	SUB	"HM1ATL_1" { TEXT "Builder! Grant me strength!" }
-	SUB	"HM1ATL_2" { TEXT "Builder! Help my blow!" }
-	SUB	"HM1ATN_1" { TEXT "Lay thyself on my anvil, thief!" }
-	SUB	"HM1ATN_2" { TEXT "Thy joints shall be split ere thou leave here!" }
-	SUB	"HM1ATN_4" { TEXT "Hahaaa!" }
-	SUB	"HM1ATN_6" { TEXT "Crumble before The Builder's might!" }
-	SUB	"HM1ATN_7" { TEXT "Thy blood shall spill now!" }
-	SUB	"HM1ATN_8" { TEXT "Receive thy pounding!" }
-	SUB	"HM1ATN_9" { TEXT "Feel the spike of thy sin!" }
-	SUB	"HM1ATN_A" { TEXT "Ha haaa!" }
-	SUB	"Hm1atp_1" { TEXT "The Builder's Hand strikes thee down at my call!" }
-	SUB	"Hm1atp_2" { TEXT "I send thee thy destruction!" }
-	SUB	"Hm1atp_3" { TEXT "Builder, smite this villain!" }
-	SUB	"HM1ATW_1" { TEXT "The Builder's Hand soon grants me victory!" }
-	SUB	"HM1ATW_2" { TEXT "Thou art failing now!" }
-	SUB	"HM1ATWW1" { TEXT "One stroke more, my brother!" }
-	SUB	"HM1BAK_1" { TEXT "Hmm.... 'Tis nothing there, now." }
-	SUB	"HM1BAK_2" { TEXT "All seems peaceful, now." }
-	SUB	"HM1BAK_3" { TEXT "It seems nothing, now." }
-	SUB	"HM1BAK_4" { TEXT "Nah.... It was only rats, in truth." }
-	SUB	"HM1BAK_5" { TEXT "Well, I see nothing now." }
-	SUB	"HM1BAK_6" { TEXT "Twas just the wind then." }
-	SUB	"HM1BAK_7" { TEXT "Hmm.... The noise has stopped. It was no doubt nothing." }
-	SUB	"HM1BAK_8" { TEXT "Hmm, I do wonder what it was, but it seems gone now." }
-	SUB	"HM1BKD_1" { TEXT "Thou art lucky this time!" }
-	SUB	"HM1BKD_2" { TEXT "Thou cannot hold forever!" }
-	SUB	"HM1BKD_3" { TEXT "If not this stroke, then the next shall claim thee!" }
-	SUB	"HM1BKDW1" { TEXT "Canst thou get by his guard?" }
-	SUB	"HM1BLK_1" { TEXT "Thy blows are water!" }
-	SUB	"HM1BLK_2" { TEXT "Think not thou canst harm me!" }
-	SUB	"HM1BLK_3" { TEXT "Thou can not prevail!" }
-	SUB	"HM1BLKW1" { TEXT "The villain is slow, ha ha!" }
-	SUB	"HM1BOD_1" { TEXT "Awake! Murder! Assassin!" }
-	SUB	"HM1BOD_2" { TEXT "And the faithful spoke, saying 'Lo, with the scepter of rightheousness has justice been forged.'" }
-	SUB	"HM1BOD_3" { TEXT "By The Builder, to me! One of ours has been broken, his life poured out!" }
+	TYPE "bark"
+	DESCR "Kladiváø"
+	SUB "hm106500" { TEXT "Stavitel mi je svìdkem, najdu tì a potøísním zdi Horoštìpu krví tvou, zlodìji!" }
+	SUB "HM1A0CH1" { TEXT "A slovo šlo pøed ním na vánku nesoucím naši spásu. Zde jest alespoò mu s myslí generála a srdcem básníka, ale také s rukama stavitele. On nás ze zemì pozvedne." }
+	SUB "HM1A0CH2" { TEXT "Naším štítem bdìlost jest, je nás pøed minulostí bídnou chrání. Naší zbraní poznání jest, jím cestu k budoucnosti osvícené razíme si." }
+	SUB "HM1A0CH3" { TEXT "Kladivo, kovadlina, vıheò a oheò, zaeòte Lháøe Kopytnatého. Støecha a vrata, cihla a trám, zaeòte Šejdíøe ze snù našich." }
+	SUB "HM1A0MU1" { TEXT "Hmm.... Proè zrovna já musím tady dole bıti, hlídati to všechno a..." }
+	SUB "HM1A0MU2" { TEXT "A nevím, proè bych umístìn tady mìl bıti, kdy všichni ostatní venku bìhaj... Kdy veèeøi dostanu? To bych vìdìl rád...." }
+	SUB "HM1A0MU3" { TEXT "Všichni ti lidé, se kterımi pracovati musím, tak neschopní jsou, tak hloupí, tak líní.... Nechápu, proè bych mìl zrovna já ten bıti, kdo má k tìmto nekompetentním lidem postaven bıti...." }
+	SUB "HM1A1__1" { TEXT "Identifikovati se. Nìkdo tam jest?" }
+	SUB "HM1A1__2" { TEXT "Státi! Nìkdo tam jest?" }
+	SUB "HM1A1__3" { TEXT "Nìkdo pøišels?" }
+	SUB "HM1A1__4" { TEXT "Pøedstoupiti a promluviti, jsou-li tam." }
+	SUB "HM1A1_W1" { TEXT "Nìco tamhle jest?" }
+	SUB "HM1A1H_1" { TEXT "Hmm, zdálo se mi, e nìco zaslechl jsem." }
+	SUB "HM1A1H_2" { TEXT "Vydalo nìco zvuk?" }
+	SUB "HM1A1HW1" { TEXT "Slyšels nìco?" }
+	SUB "HM1A1HW2" { TEXT "Slyšeti nìco?" }
+	SUB "HM1A1HW3" { TEXT "Tiše. Já... slyšeti nìco." }
+	SUB "HM1A1V_1" { TEXT "Hmm.... Zdálo se mi, e jsem nìco zazøel." }
+	SUB "HM1A1VW1" { TEXT "Vidìls tam nìco?" }
+	SUB "HM1A1VW2" { TEXT "Vidìti nìkoho?" }
+	SUB "HM1A1VW3" { TEXT "Vidìls to také?" }
+	SUB "HM1A2__1" { TEXT "Kdo je to tam? Promluviti." }
+	SUB "HM1A2__2" { TEXT "Tamhle! Pøedstoupiti a øeknou jméno své." }
+	SUB "HM1A2__3" { TEXT "Státi! Co je to tam?" }
+	SUB "HM1A2__4" { TEXT "U Stavitele, zjev se!" }
+	SUB "HM1A2H_1" { TEXT "Slyším je. Pøed zraky se ukáou vmiku." }
+	SUB "HM1A2H_2" { TEXT "Slyšel jsem to. Na míste stùj!" }
+	SUB "Hm1a2se1" { TEXT "Kde jseš, zlosyne?" }
+	SUB "Hm1a2se2" { TEXT "ádnı strach, špehovati budu tì ." }
+	SUB "Hm1a2se3" { TEXT "Nebudeš se skrıvati na vìky." }
+	SUB "Hm1a2se4" { TEXT "Skrıvání nezachrání tì." }
+	SUB "HM1A2V_1" { TEXT "Vidím tì tam. Kdo jseš?" }
+	SUB "HM1A3B_1" { TEXT "Stùj! Co to jest za ohavnı èin?" }
+	SUB "HM1A3B_2" { TEXT "Co to jest? Vrahoun! Teï Staviteli zaplatíš!" }
+	SUB "HM1A3NA1" { TEXT "Stùj! Jseš vìzeò mùj!" }
+	SUB "HM1A3NA2" { TEXT "Zotrvej na místì." }
+	SUB "HM1A3NA3" { TEXT "Stùj, zlodìji! Vidím tì. Neuteèeš!" }
+	SUB "HM1A3NA4" { TEXT "Odhoï zbraò! A...nehıbej se." }
+	SUB "HM1A3S_1" { TEXT "U Stavitele, od kterak pøišels?" }
+	SUB "HM1A3S_2" { TEXT "Z jakého to stínu vzešels, zlosynu?" }
+	SUB "HM1A3S_3" { TEXT "Rukou Stavitele...!" }
+	SUB "HM1A3S_4" { TEXT "Zpátky do cely tvé, zlosynu!" }
+	SUB "Hm1a3se1" { TEXT "Stopovati vytrvale tì budu, zlodìji!" }
+	SUB "Hm1a3se2" { TEXT "Neunikneš mì!" }
+	SUB "Hm1a3se3" { TEXT "Skoncuj se skrıváním, zbloudilèe." }
+	SUB "Hm1a3se4" { TEXT "Nemùeš ve stínu zùstat na vìky!" }
+	SUB "HM1ALMA1" { TEXT "Nech stavitelùv kov zvoní tvé záhubì!" }
+	SUB "HM1ALMA2" { TEXT "Mluv, alarmuj a pøivolej své svìøence!" }
+	SUB "HM1ALMW1" { TEXT "Jdi a vyhlaš poplach!" }
+	SUB "HM1AMB_1" { TEXT "Ááá, nejhorší zbabìlost!" }
+	SUB "HM1AMB_2" { TEXT "Èelem postav se mi, zlosyne!" }
+	SUB "HM1AMB_3" { TEXT "Vyjdi ze svého stínu a postav se mé oceli!" }
+	SUB "HM1AMB_4" { TEXT "Tvá zrada tì odsoudí k zániku!" }
+	SUB "HM1AMBW1" { TEXT "Stùj pøi mnì, bratøe, nebo jsem zasaen!" }
+	SUB "HM1AMBW2" { TEXT "Jsem... napaden!" }
+	SUB "Hm1ambw3" { TEXT "Zøels, kdo to udìlal?" }
+	SUB "HM1ATL_1" { TEXT "Staviteli! Dej mi sílu!" }
+	SUB "HM1ATL_2" { TEXT "Staviteli! Pomoz mé ránì!" }
+	SUB "HM1ATN_1" { TEXT "Polo se na mou kovadlinu, zlodìji!" }
+	SUB "HM1ATN_2" { TEXT "Tvé klouby budou rozštípány, ne odsud odejdeš!" }
+	SUB "HM1ATN_6" { TEXT "Zhroutiti se pøed Stavitele silou!" }
+	SUB "HM1ATN_7" { TEXT "Prolita tvá krev bude!" }
+	SUB "HM1ATN_8" { TEXT "Pøijmi ránu svou!" }
+	SUB "HM1ATN_9" { TEXT "Pocítíš hrot høíchu svého!" }
+	SUB "Hm1atp_1" { TEXT "Stavitelova ruka srazí je na zvolání mé!" }
+	SUB "Hm1atp_2" { TEXT "Sesílám jejich znièení!" }
+	SUB "Hm1atp_3" { TEXT "Staviteli, sraz tohoto zlosyna!" }
+	SUB "HM1ATW_1" { TEXT "Stavitelova ruka mi brzy dopøeje vítìzství!" }
+	SUB "HM1ATW_2" { TEXT "Nyní selháváš!" }
+	SUB "HM1ATWW1" { TEXT "Ještì jeden úder, bratøe!" }
+	SUB "HM1BAK_1" { TEXT "Hmm.... Teï u tam nic není." }
+	SUB "HM1BAK_2" { TEXT "Teï se zdá bıt všechno v klidu." }
+	SUB "HM1BAK_3" { TEXT "Teï se zdá, e tam nic není." }
+	SUB "HM1BAK_4" { TEXT "Na.... vskutku, pouhé krysy." }
+	SUB "HM1BAK_5" { TEXT "No, teï u nic nevidím." }
+	SUB "HM1BAK_6" { TEXT "Pouhı vítr bıti." }
+	SUB "HM1BAK_7" { TEXT "Hmm.... Hluk ustal. Bıti to nic nepochybnì." }
+	SUB "HM1BAK_8" { TEXT "Hmm, spytuju se, co to bylo, ale zdá se, e u je to pryè." }
+	SUB "HM1BKD_1" { TEXT "Tentokrát máš štìstí!" }
+	SUB "HM1BKD_2" { TEXT "Nemùeš vydret vìènì!" }
+	SUB "HM1BKD_3" { TEXT "Kdy ne tento úder, tak pøíští vyádá si tì!" }
+	SUB "HM1BKDW1" { TEXT "Dostaneš se pøes jeho strá?" }
+	SUB "HM1BLK_1" { TEXT "Tvé údery jsou voda!" }
+	SUB "HM1BLK_2" { TEXT "Nemyslis, e mi mùeš ublíiti!" }
+	SUB "HM1BLK_3" { TEXT "Nemùeš zvítìziti!" }
+	SUB "HM1BLKW1" { TEXT "Zloduch je pomalı, ha ha!" }
+	SUB "HM1BOD_1" { TEXT "Probuï se! Vrada! Vrah!" }
+	SUB "HM1BOD_2" { TEXT "A vìøící promluvili i øekli, 'Hle, ezlem Pravosti byla ukována spravedlnost.'" }
+	SUB "HM1BOD_3" { TEXT "U Stavitele, ke mnì! Jeden z našich zlomen byl, jeho ivot vylit!" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Hammerite"
-	SUB	"HM1C0311" { TEXT "Tis noted to us: The Fellahdeen are heretics and will crumble as old wood." }
-	SUB	"HM1C0312" { TEXT "Thieves respect naught. Divinity--even false divinity--is as the mud below their feet. They wish not it be clay that shalt be shaped by The Builder's Hand." }
-	SUB	"HM1C0313" { TEXT "Nay, our walls be cut from the thickest stones, our gates be wrought from full iron. Any who pits his strength 'gainst their strength shall smash himself with his own effort, even as the fruit falling from a tree dashes itself on a rock below." }
-	SUB	"HM1C0314" { TEXT "The Builder places thy challenges before thee as a stairway of hewn stone up the tower of thine life. When thou seekest to add to those challenges, to compass thine pride, thou dost clutter the design of the stairway, and introduce cracks and weaknesses, through which The Trickster mayest enter and bring thy ruin!" }
-	SUB	"HM1C0321" { TEXT "Rather to buttress our defenses." }
-	SUB	"HM1C0322" { TEXT "Nay, 'tis not they who chart the building of the battle. They but put in force the will of the Baron, and the Baron chooseth not to press the attack." }
-	SUB	"HM1C0323" { TEXT "Lackwit. Thinks thou the Baron wishes to defeat Blackbrook?" }
-	SUB	"HM1C0324" { TEXT "How think ye? The war grants the Baron a crisis to posture before and gains him many taxes he wouldst not otherwise see." }
-	SUB	"HM1C0325" { TEXT "Daah, infant! 'Tis truth. And ever so the chisel cannot know the will of the hand it serves, nor should it judge whether the mark it makes be for well or ill. 'Tis enough for a tool to be sharp and well-crafted. Only so canst it serve The Builder." }
-	SUB	"HM1C0331" { TEXT "Wilt this famine never break? The Stonemarket merchants ask yet another fifth above what they charged but a month ago. Yet I think they profit little from their sales." }
-	SUB	"HM1C0332" { TEXT "I would've said myself 'twas due to the war between Cyric and Bohn. The lines of battle do rage over and pass what were, times ago, farms and ranches." }
-	SUB	"HM1C0333" { TEXT "Thine arguments are persuasive and do show dedication, but I think thou may simplify o'er much." }
-	SUB	"HM1C0334" { TEXT "Hmm...." }
-	SUB	"HM1C0351" { TEXT "Have thou learnt nothing? That name soils thy mouth." }
-	SUB	"HM1C0352" { TEXT "Nay, simpleton. Knowest thou not to say 'Taffer' is to speak the name of the defeated adversary, the Trickster? 'Tis a corruption--a cloaking that acknowledges him without intent--and gives him an entry into thy thoughts." }
-	SUB	"HM1C0353" { TEXT "A foe is best contested in the light, not the shadows! Allow none to so disguise themselves before thee lest thou slip into the shadows thyself, and so be lost." }
-	SUB	"HM1C0601" { TEXT "In truth I have never heard such carrying on as this thief's-pawn, Cutty." }
-	SUB	"HM1C0603" { TEXT "For a time I thought Block 4 might never sleep again for his coughs. But he quiets now." }
-	SUB	"hm1c0701" { TEXT "(Coughs) Curse upon this dust!" }
-	SUB	"hm1c0703" { TEXT "Aye, they thought stone dust would settle faster than wood. But many feet cast it up." }
-	SUB	"hm1c0705" { TEXT "Tis true. And, 'til then, misfortunes are mirror for our blessings." }
-	SUB	"hm1c0801" { TEXT "Hast thought upon who is likely to succeed our master?" }
-	SUB	"hm1c0803" { TEXT "Art thou blind? He is old, and the Master Forgers do jostle each other for precedence." }
-	SUB	"hm1c0805" { TEXT "Tis true, 'tis true...." }
-	SUB	"Hm1c0902" { TEXT "Meanest thou the action on DeWall's thugs?" }
-	SUB	"Hm1c0904" { TEXT "Thieves betray their own. Now as always." }
-	SUB	"hm1c1002" { TEXT "The wretched man serves only the merchants in his own greed." }
-	SUB	"hm1c1004" { TEXT "The Builder's truth it is, that men without belief do soften and fail, as rotten wood." }
-	SUB	"hm1c1301" { TEXT "Heard thou? Tarius, seeking to save his purse, didst buy his new knife from the Shemenov's, not our smiths." }
-	SUB	"hm1c1303" { TEXT "He certainly hadst fill of shame when his blade did snap at supper." }
-	SUB	"hm1c1401" { TEXT "Time was all these halls would be close-packed with novices, striving to learn our teachings." }
-	SUB	"hm1c1403" { TEXT "But fewer brother, fewer. Youths in this time seek to learn about gold and politics, not honest craft." }
-	SUB	"hm1c1601" { TEXT "Master Forger Dovetail hath finished his work on the spiral gear!" }
-	SUB	"hm1c1603" { TEXT "As planned! This shall bring a new standard to the winding machines." }
-	SUB	"Hm1c1701" { TEXT "Builder walk with thee." }
-	SUB	"Hm1c1801" { TEXT "Good even." }
-	SUB	"Hm1c1902" { TEXT "I praise The Builder." }
-	SUB	"Hm1c2302" { TEXT "Well met." }
-	SUB	"Hm1c2402" { TEXT "Thine as well." }
-	SUB	"Hm1c2501" { TEXT "Be thy carving ready?" }
+	TYPE "convo"
+	DESCR "Kladiváø"
+	SUB "HM1C0311" { TEXT "Jest nám poznamenáno: Fellahdeeni jsou kacíøi a rozpadnou se jako staré døíví." }
+	SUB "HM1C0312" { TEXT "Zlodìji nemaj úctu praádnou. Boství - i falešné boství - je jako bláto pod jejich nohama. Nepøejí si, aby to byla hlína, kterou bude tvarovat Stavitelova ruka." }
+	SUB "HM1C0313" { TEXT "Kdepak, naše hradby jsou tesány z nejtuších kamenù, naše brány jsou kovány z plného eleza. Kadı, kdo proti síle jejich 'postaví sílu svou, rozbije úsilím vlastním, jako ovoce padající ze stromu rozbije se o skálu dolù.'" }
+	SUB "HM1C0314" { TEXT "Stavitel klade pøed tebe vızvy jako schody z tesaného kamene do vìe ivota tvého. Kdy snaíš se k tìmto vızvám pøiloiti, abys zdolal pıchu svou, zaneøádíš plán schodištì a vneseš do nìj trhliny a slabiny, jimi mùe Šejdíø vstoupiti i pøivoditi zánik tvùj!" }
+	SUB "HM1C0321" { TEXT "Radìji k upevnìní obrany naší." }
+    SUB "HM1C0322" { TEXT "Nikoli, to oni nejsou, kdo rısují stavbu bitvy. Oni pouze prosazují vùli Baronovu a Baron se rozhodl útok neprosazovat." }
+	SUB "HM1C0323" { TEXT "Nerozum. Myslíš, e baron chce Blackbrook dobıti?" }
+	SUB "HM1C0324" { TEXT "Copak myslíš? Válka poskytuje baronovi krizi, pøed kterou se mùe postaviti, a pøináší mu daní spousty, kterıch by se jindy nedoèkal." }
+	SUB "HM1C0325" { TEXT "Daah, dìtinskost! To pravda jest. A tak dláto nikdy nemùe znáti vùli ruky, jí slouí, a nemìlo by posuzovat, zda znamení, je udìlá, dobré èi špatné jest. Postaèuje, kdy nástroj ostrı a dobøe opracovanı jest. Jen tak mùe Staviteli slouiti." }
+	SUB "HM1C0331" { TEXT "Copak tento hladomor nepøestane nikdy? Obchodníci ze Stonemarketu chtìjí ještì o pìtinu navíc, ne si pøed mìsícem úètovali. Pøesto si myslím, e z prodeje maj zisk malı." }
+	SUB "HM1C0332" { TEXT "Sám bych øekl, e to bylo kvùli válce mezi Cyrikem a Bohnem. Bitevní linie se skuteènì rozbíhají a míjejí to, co pøed èasem byly farmy a ranèe." }
+	SUB "HM1C0333" { TEXT "Tvé argumenty pøesvìdèivé jsou a prokazují oddanost, ale myslím, e bys mohl mnohé zjednodušiti." }
+	SUB "HM1C0334" { TEXT "Hmm...." }
+	SUB "HM1C0351" { TEXT "Copak ses nic nenauèil? To jméno ti ústa zneèišuje." }
+	SUB "HM1C0352" { TEXT "Nikoli, prosáèku. Copak nevíš, e øíci 'Tafer' znamená vyslovit jméno protivníka poraeného, Šejdíøe? Jest to zkaenost - rouška, která ho uznává bez úmyslu - a umoòuje mu vstup do myšlenek tvıch." }
+	SUB "HM1C0353" { TEXT "S nepøítelem se nejlépe bojuje na svìtle, nikoli ve stínu! Nedovol nikomu, aby se pøed tebou takto zastíral, abys sám do stínù nesklouzl a neztratil se tak." }
+	SUB "HM1C0601" { TEXT "V pravdì øeèeno, nikdy jsem neslyšel, e by se nìkdo tak choval, jako tento zlodìjùv pìšák, Cutty." }
+	SUB "HM1C0603" { TEXT "Chvílemi myslel jsem, e Blok 4 u kvùli svému kašli neusne nikdy. Ale teï se ztišil." }
+	SUB "hm1c0701" { TEXT "Proklínám tento prach!" }
+	SUB "hm1c0703" { TEXT "Inu, mysleli si, e kamennı prach se usadí rychleji ne døevìnı. Aèkoli ho mnoho nohou nahoru vyvrhlo." }
+	SUB "hm1c0705" { TEXT "To pravda jest. A do té doby neštìstí zrcadlem jsou pro naše poehnání." }
+	SUB "hm1c0801" { TEXT "Pøemıšlels o tom, kdo by mohl nástupcem našeho pána bıti?" }
+	SUB "hm1c0803" { TEXT "Slepı jseš? On starı jest a mistøi Kováøi mezi sebou pøetahují se o pøednost." }
+	SUB "hm1c0805" { TEXT "To pravda jest, to pravda...." }
+	SUB "hm1c0902" { TEXT "Míníš akci na DeWallovy bandity?" }
+	SUB "Hm1c0904" { TEXT "Zlodìji své vlastní zrazují. Teï jako jindy." }
+	SUB "hm1c1002" { TEXT "Ten uboák slouí obchodníkùm jen ve vlastní chamtivosti své." }
+	SUB "hm1c1004" { TEXT "Stavitelova pravda jest, e lidé bez víry mìknou a jako døevo ztrouchnivìlé padaj." }
+	SUB "hm1c1301" { TEXT "Slyšels? Tarius, chtìje ušetøit mìšec svùj, novı nù u Šemenovıch koupil si, u našich kováøù nikoliv." }
+	SUB "hm1c1303" { TEXT "Zajisté dost ostudy mìl, kdy mu pøi veèeøi èepel praskla." }
+	SUB "hm1c1401" { TEXT "Èasy bıvaly, kdy všechny tyto sínì plné nováèkù byly, kdo snaili se umìní našemu uèiti." }
+	SUB "hm1c1403" { TEXT "Avšak ménì bratøe, ménì. Mláde se v této dobì snaí o zlatì a politice uèiti, neli o øemesle poctivém." }
+	SUB "hm1c1601" { TEXT "Mistr Kováø Dovetail práci svou na spirálovém soukolí dokonèil!" }
+	SUB "hm1c1603" { TEXT "Dle plánu! Tohle novı standard pro navíjecí stroje pøinese." }
+	SUB "hm1c1701" { TEXT "Stavitel s tebou." }
+	SUB "Hm1c1801" { TEXT "Dobøe i tak." }
+	SUB "Hm1c1902" { TEXT "Chválím Stavitele." }
+	SUB "Hm1c2302" { TEXT "Dobøe stalo se." }
+	SUB "Hm1c2402" { TEXT "Taky tvùj." }
+	SUB "Hm1c2501" { TEXT "Øezba tvá pøipravena jest?" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Hammerite"
-	SUB	"HM1CHGA1" { TEXT "Yaaaah!" }
-	SUB	"HM1CHGA2" { TEXT "Thou art for it now!" }
-	SUB	"HM1CHGA3" { TEXT "My hammer awaits thee!" }
-	SUB	"HM1CHGA4" { TEXT "Haaaah!" }
-	SUB	"HM1CHGW1" { TEXT "Guard mine back!" }
-	SUB	"HM1CHGW2" { TEXT "Stand with me against our foe, and we shall surely prevail!" }
-	SUB	"HM1CHGW3" { TEXT "Lend thy strong arm to mine." }
-	SUB	"HM1DET_1" { TEXT "Art thou afraid, then?" }
-	SUB	"HM1DET_2" { TEXT "Coward!" }
-	SUB	"HM1DET_3" { TEXT "Seek not to block thy doom!" }
-	SUB	"HM1DETW1" { TEXT "We can wait, villain." }
-	SUB	"HM1DIEC3" { TEXT "(Cry of pain) Aaaahh! (Whimpering death) I crumble...." }
-	SUB	"HM1HIT_1" { TEXT "Thy blood makes The Builder's mortar!" }
-	SUB	"HM1HIT_2" { TEXT "Feel thy strengh draining!" }
-	SUB	"HM1HIT_3" { TEXT "Thy pain teaches you thy lesson!" }
-	SUB	"HM1HIT_4" { TEXT "Feel thy resolve crumble!" }
-	SUB	"HM1HITW1" { TEXT "The villain staggers!" }
-	SUB	"HM1HITW2" { TEXT "Let thy stroke echo mine, brother!" }
-	SUB	"HM1HLO_1" { TEXT "Aaah! The Builder help me!" }
-	SUB	"HM1HLOW1" { TEXT "Guard me, brother!" }
-	SUB	"HM1HND_1" { TEXT "That mistake shall cost thee thy life!" }
-	SUB	"HM1HND_2" { TEXT "Lo, for The Builder's Grace doth armor me!" }
-	SUB	"HM1HND_3" { TEXT "Meant thou that to pain me?" }
-	SUB	"HM1LAR_1" { TEXT "What cataclysm has struck here?" }
-	SUB	"HM1LAR_2" { TEXT "What doom is a-borne in here?" }
-	SUB	"HM1LOS_1" { TEXT "Curse mine failing eyes. Where went thee intruder?" }
-	SUB	"HM1LOS_2" { TEXT "Where went he?" }
-	SUB	"HM1LOS_3" { TEXT "Thou shalt not escape me for long, thief!" }
-	SUB	"HM1M1001" { TEXT "What art thou doing? Say, who art thou? Wait a minute! A spy, an intruder!" }
+	TYPE "bark"
+	DESCR "Kladiváø"
+	SUB "HM1CHGA2" { TEXT "Teï to máš za mít!" }
+	SUB "HM1CHGA3" { TEXT "Mé kladivo oèekává tì!" }
+    SUB "HM1CHGW1" { TEXT "Hlídej záda mé!" }
+	SUB "HM1CHGW2" { TEXT "Postav se se mnou proti nepøíteli našemu a zvítìzíme zcela jistì!" }
+	SUB "HM1CHGW3" { TEXT "Podej mì ruku svou silnou." }
+	SUB "HM1DET_1" { TEXT "Štítíš se tedy?" }
+	SUB "HM1DET_2" { TEXT "Zbabìlèe!" }
+	SUB "HM1DET_3" { TEXT "Nesna se zkáze své zabrániti!" }
+	SUB "HM1DETW1" { TEXT "Mùeme poèkat, zlosynu." }
+	SUB "HM1DIEC3" { TEXT "Aaaa! Tøíštím se...." }
+	SUB "HM1HIT_1" { TEXT "Krev tvá maltu Stavitele tvoøí!" }
+	SUB "HM1HIT_2" { TEXT "Cítíš, jak z tebe síla vyprchává!" }
+	SUB "HM1HIT_3" { TEXT "Bolest tvá ti lekci dává!" }
+	SUB "HM1HIT_4" { TEXT "Cítíš, jak odhodlání tvé hroutí se!" }
+	SUB "HM1HITW1" { TEXT "Zlosyn potácí se!" }
+	SUB "HM1HITW2" { TEXT "Nech tvùj úder ozvìnou mého jest, bratøe!" }
+	SUB "HM1HLO_1" { TEXT "Aaah! Stavitel mi pomùe!" }
+	SUB "HM1HLOW1" { TEXT "Chraò mì, bratøe!" }
+	SUB "HM1HND_1" { TEXT "Ta chyba tì ivot stát bude!" }
+	SUB "HM1HND_2" { TEXT "Hle, stavitelova milost obrní mì!" }
+	SUB "HM1HND_3" { TEXT "Chtìls mi tím bolest zpùsobiti?" }
+	SUB "HM1LAR_1" { TEXT "Jaká to pohroma tu udeøila?" }
+	SUB "HM1LAR_2" { TEXT "Co za zkáza se tu nese?" }
+	SUB "HM1LOS_1" { TEXT "Proklínám oèi své chøadnoucí. Kam narušitel podìl se?" }
+	SUB "HM1LOS_2" { TEXT "Kam šel?" }
+	SUB "HM1LOS_3" { TEXT "Na dlouho mi neunikneš, zlodìji!" }
+	SUB "HM1M1001" { TEXT "Co to dìláš? Øekni, kdo jsi? Poèkej chvíli! Špeh, narušitel!" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Hammerite"
-	SUB	"hm1m1002" { TEXT "Young novice, dost thou not have some work to which thou might attend?" }
-	SUB	"hm1m1003" { TEXT "The rules to not permit novices in the barracks, as thou should well know. Be off." }
-	SUB	"hm1m1004" { TEXT "Novice! I find need of thy services. Please, fetch the candlestick left in the diningroom as quick as thou canst make it." }
-	SUB	"hm1m1005" { TEXT "Ahh, novice. Just leave the candlestick on the floor by the altar. There's a good lad." }
-	SUB	"hm1m1006" { TEXT "What emergency threatens that thou makest such speed? Slow down, novice." }
-	SUB	"hm1m1007" { TEXT "Greetings, novice." }
-	SUB	"hm1m1008" { TEXT "Builder's strength to you, novice." }
-	SUB	"HM1M1009" { TEXT "Open the gate!" }
-	SUB	"HM1M1010" { TEXT "Present thy credentials, novice." }
-	SUB	"Hm1m1011" { TEXT "What dost thou here, novice? Wait, thou are not-- Hold there, villain!" }
-	SUB	"Hm1m1301" { TEXT "Ahh, 'tis thee, the master thief. There is scant time to explain. The Trickster's foul beasts hath captured our High Priest, and if we cannot retake him alive, all shall be lost. We dare not try a rescue...we lack thy skills of stealth and treachery, and our enemies must surely kill him should we make a bold attempt. Bring him back to us alive and we may discuss how the Trickster himself can be defeated. He is held somewhere in the caverns and halls beyond that archway. May The Builder guide your steps." }
-	SUB	"HM1M1302" { TEXT "Waste no more time. Bring the High Priest back to us." }
-	SUB	"HM1M1303" { TEXT "Wait! Thou art going the wrong way!" }
-	SUB	"HM1M1304" { TEXT "Thank The Builder! Our High Priest still lives!" }
-	SUB	"HM1M1305" { TEXT "Ahh, 'tis thee, the master thief. There is scant time to explain." }
-	SUB	"HM1M1306" { TEXT "The Trickster's foul beasts hath captured our High Priest, and if we cannot retake him alive, all shall be lost." }
-	SUB	"HM1M1307" { TEXT "We lack thy skills of stealth and treachery, and our enemies must surely kill him should we make a bold attempt." }
-	SUB	"HM1M1308" { TEXT "Take this key and map and go. May The Builder guide your steps." }
-	SUB	"HM1M1309" { TEXT "Also, our enemies hold The Builder's Chisel, which thou must recover." }
-	SUB	"HM1M1310" { TEXT "Thou hast rescued our High Priest, but thou hast not brought us the Chisel. Recover our most holy of artifacts or we are lost." }
-	SUB	"HM1M1311" { TEXT "Thank thee for not killing this one." }
-	SUB	"HM1M1312" { TEXT "Thy recovery of the Chisel is provident, but we must have our High Priest. Hurry!" }
-	SUB	"HM1M1313" { TEXT "Thank The Builder. Not only hast thou returned His Chisel to us, but our High Priest still lives by thy efforts." }
+	TYPE "convo"
+	DESCR "Kladiváø"
+	SUB "hm1m1002" { TEXT "Novici mladej, nemáš nìjakou práci, které by ses vìnovati mohl?" }
+	SUB "hm1m1003" { TEXT "Pravidla nedovolují novicùm v kasárnách pobıvati, jak bys mìl dobøe znáti. Odejdi." }
+	SUB "hm1m1004" { TEXT "Novici! Potøebuji sluby tvé. Jak nejrychleji dovedeš, pøines svícen, prosím, kterı v jídelnì zùstal." }
+	SUB "hm1m1005" { TEXT "Á, novici. Jen zanech svícen na podlaze u oltáøe. To je dobrı chlapec." }
+	SUB "hm1m1006" { TEXT "Co to za nouzi hrozí, e natolik pospícháš? Zpomal, novici." }
+	SUB "hm1m1007" { TEXT "Budi zdráv, novici." }
+	SUB "hm1m1008" { TEXT "Síla Stavitelova tobì, novici." }
+	SUB "HM1M1009" { TEXT "Otevøete bránu!" }
+	SUB "HM1M1010" { TEXT "Pøedlo povìøení své, novici." }
+	SUB "Hm1m1011" { TEXT "Copak tu dìláš, novici? Poèkej, ty nejsi... Stùj, zlosyne!" }
+	SUB "Hm1m1301" { TEXT "Ach, tojs ty, ten mistr zlodìj. Na vysvìtlování málo èasu jest. Šejdíøovy ohavné bestie našeho veleknìze zajaly, a pokud se nám ho získat zpìt ivého nepovede, vše ztraceno bude. Pokusiti o záchranu neodváime se... tvé umìní lsti a zrady postrádame a naši nepøátelé ho jistì zabijí, pokusíme-li se o to troufale. Pøiveï nám ho ivého a mùem promluviti si o tom, jak samotného Šejdíøe poraziti. Nìkde v jeskyních a síních za tímto obloukem dren jest. Nech Stavitel vede kroky tvé." }
+	SUB "HM1M1302" { TEXT "Nemarni èas. Pøiveï nám veleknìze zpìt." }
+	SUB "HM1M1303" { TEXT "Poèkej! Jdeš špatnì!" }
+	SUB "HM1M1304" { TEXT "Chvalme Stavitele! Náš veleknìz stále ije!" }
+	SUB "HM1M1305" { TEXT "Ach, to jsi ty, ten mistr zlodìj. Na vysvìtlování málo èasu jest." }
+    SUB "HM1M1306" { TEXT "Šejdíøovy ohavné bestie našeho veleknìze zajaly, a pokud se nám ho získat zpìt ivého nepovede, vše ztraceno bude." }
+	SUB "HM1M1307" { TEXT "tvé umìní lsti a zrady postrádame a naši nepøátelé ho jistì zabijí, pokusíme-li se o to troufale." }
+	SUB "HM1M1308" { TEXT "Vem tento klíè a mapu a jdi. Nech Stavitel vede kroky tvé." }
+	SUB "HM1M1309" { TEXT "Také naši nepøátelé drí Stavitelovo dláto, které musíš zpìt získati." }
+	SUB "HM1M1310" { TEXT "Zachránils veleknìze našeho, ale nepøinesls nám Dláto. Získej zpìt artefakt náš nejsvìtìjší, jinak ztraceni jsme." }
+	SUB "HM1M1311" { TEXT "Dìkujeme ti, es tohoto nezabil." }
+	SUB "HM1M1312" { TEXT "Tvé navrácení Dláta je prozøetelné, ale musíme našeho veleknìze míti. Pospìš si!" }
+	SUB "HM1M1313" { TEXT "Chvalme Stavitele. Nejenom es nám Dláto Jeho vrátil, ale náš Veleknìz díky úsilí tvému ije stále." }
 }
 {
-	TYPE	"bark"
-	DESCR	"Hammerite"
-	SUB	"HM1MIS_1" { TEXT "Someone has been plundering that not his own." }
-	SUB	"HM1MIS_2" { TEXT "Thief! Looter!" }
-	SUB	"HM1RBOD1" { TEXT "The intruder is a killer as well! Watch your back!" }
-	SUB	"HM1RBOD2" { TEXT "There is a killer on the loose! There has been one death, already!" }
-	SUB	"HM1RINT1" { TEXT "There is an armed thief in the building! Fall upon him shouldst thou spy him!" }
-	SUB	"HM1RINT2" { TEXT "I spied one who may be a 'scaped prisoner. Be wary!" }
-	SUB	"HM1RINT3" { TEXT "Where thou a prowler amongst The Builder's children." }
-	SUB	"HM1RMIS1" { TEXT "Tell the Master Forger he's been robbed." }
-	SUB	"HM1ROTH1" { TEXT "Someone has been in here lawlessly. Keep your eyes open!" }
-	SUB	"HM1ROTH2" { TEXT "Hast thou noted anything? There was something a little while ago." }
-	SUB	"HM1ROTH3" { TEXT "I suspect there is someone in the building. Keep alert." }
-	SUB	"HM1RUNA1" { TEXT "To me, mine brothers! An intruder doth threaten!" }
-	SUB	"HM1RUNA2" { TEXT "Take arms and hither!" }
-	SUB	"HM1RUNA3" { TEXT "Our guard is tested! To me!" }
-	SUB	"HM1SEC_1" { TEXT "Who has been through here?" }
-	SUB	"HM1SEC_2" { TEXT "An intruder comes among us!" }
-	SUB	"HM1SEC_3" { TEXT "Ware an intruder!" }
-	SUB	"HM1SMA_1" { TEXT "Who hast been sundering about here?" }
-	SUB	"HM1SMA_2" { TEXT "This disarray speaks ill." }
-	SUB	"HM1TELC1" { TEXT "To me! After him!" }
-	SUB	"HM1TELC2" { TEXT "This way! The intruder is escaping!" }
-	SUB	"HM1TELC3" { TEXT "The intruder is here!" }
-	SUB	"HM1TELR1" { TEXT "We have an intruder! Hurry! To me!" }
-	SUB	"HM1TELR2" { TEXT "An intruder comes among us!" }
-	SUB	"HM1TELR3" { TEXT "Ware thee, this villain!" }
+	TYPE "bark"
+DESCR "Kladiváø"
+	SUB "HM1MIS_1" { TEXT "Nìkdo drancuje to, co nepatøí mu." }
+	SUB "HM1MIS_2" { TEXT "Zlodìj! Lupiè!" }
+	SUB "HM1RBOD1" { TEXT "Ten narušitel je také vrah! Hlídejte si záda!" }
+	SUB "HM1RBOD2" { TEXT "Na útìku je vrah! U došlo k jednomu úmrtí!" }
+	SUB "HM1RINT1" { TEXT "V budovì je ozbrojenı zlodìj! Vrhni se na nìj, kdybys ho zahlédl!" }
+	SUB "HM1RINT2" { TEXT "Zahlédl jsem jednoho, jen mùe bıt uprchlım vìznìm. Buï na pozoru!" }
+	SUB "HM1RINT3" { TEXT "Kde jseš ty slídile mezi Stavitelovımi dìtmi?" }
+	SUB "HM1RMIS1" { TEXT "Øekni Mistru Kováøi, e okraden byl." }
+	SUB "HM1ROTH1" { TEXT "Nìkdo tu byl bezprávnì. Mìjte oèi otevøené!" }
+	SUB "HM1ROTH2" { TEXT "Zpozorovals nìèeho? Pøed chvílí tu nìco bylo." }
+	SUB "HM1ROTH3" { TEXT "Mám podezøení, e v budovì nìkdo je. Buïte ve støehu." }
+	SUB "HM1RUNA1" { TEXT "Ke mì, bratøi moji! Narušitel ohrouje!" }
+	SUB "HM1RUNA2" { TEXT "Vemte zbranì a sem!" }
+	SUB "HM1RUNA3" { TEXT "Naše strá zkoušena jest! Ke mì!" }
+	SUB "HM1SEC_1" { TEXT "Kdo tudy prošel?" }
+	SUB "HM1SEC_2" { TEXT "Narušitel pøichází mezi nás!" }
+    SUB "HM1SEC_3" { TEXT "Obávejte se narušitele!" }
+	SUB "HM1SMA_1" { TEXT "Kdo se to tu potuluje?" }
+	SUB "HM1SMA_2" { TEXT "Tento neøád mluví zlem." }
+	SUB "HM1TELC1" { TEXT "Ke mì! Za ním!" }
+	SUB "HM1TELC2" { TEXT "Tudy! Narušitel uniká!" }
+	SUB "HM1TELC3" { TEXT "Narušitel je zde!" }
+	SUB "HM1TELR1" { TEXT "Máme tu narušitele! Pospìšte si! Ke mnì!" }
+    SUB "HM1TELR2" { TEXT "Narušitel pøichází mezi nás!" }
+	SUB "HM1TELR3" { TEXT "Varuj se, toten zlosyn!" }
 }

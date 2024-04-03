@@ -1,104 +1,79 @@
 1
-00:00:07,200 --> 00:00:11,200
-Come the time of peril, did the ground gape,
-
-2
-00:00:11,301 --> 00:00:15,301
-and did the dead rest unquiet 'gainst us. 
+00:00:07,200 --> 00:00:15,301
+Nastal hrozby èas, kdy zemì se rozevøela a mrtví z nepokoje povstali proti nám.
 
 3
 00:00:16,202 --> 00:00:20,202
-Our bands of iron and hammers of stone prevailed not, 
+Naše pláty ze železa a kladiva z kamene nezvítìzila, 
 
 4
 00:00:21,203 --> 00:00:24,803
-and some did doubt the Builder's plan.
+I nìkteøí pochybovali o Stavitelovì plánu.
 
 5
 00:00:25,504 --> 00:00:29,204
-But the seals held strong, and the few did triumph,
+Ale peèetì držely pevnì a tìch nìkolik málo zvítìzilo,
 
 6
 00:00:30,205 --> 00:00:33,805
-and the doubters were lain into the foundations of the new sanctum.
+A pochybovaèi byli uloženi do základù nové svatynì.
 
 7
 00:00:34,206 --> 00:00:36,506
--- Collected letters of the smith-in-exile.
+-- Sbírka listin kováøe ve vyhnanství.
 
 8
-00:00:38,007 --> 00:00:40,007
-The Eye that Constantine wants
-
-9
-00:00:40,008 --> 00:00:42,408
-is in the abandoned cathedral of the Hammerites.
+00:00:38,007 --> 00:00:42,408
+Oko, které chce Konstantin je v opuštìné katedrále Kladiváøù.
 
 10
-00:00:43,309 --> 00:00:45,509
-The cathedral is located in the section of the city
-
-11
-00:00:45,510 --> 00:00:50,510
-that was deserted years ago, after some kind of catastrophe. 
+00:00:43,309 --> 00:00:50,510
+Katedrála se nachází v èásti mìsta, která byla pøed lety opuštìna po nìjaké katastrofì. 
 
 12
 00:00:51,511 --> 00:00:53,711
-I've heard stories of the incident,
+Slyšel jsem pøíbìhy o té události,
 
 13
-00:00:53,912 --> 00:00:57,512
-most are wild rumours about hordes of zombies
-
-14
-00:00:57,513 --> 00:00:58,913
-and raging fires.
+00:00:53,912 --> 00:00:58,913
+vìtšinou jsou to divoké zvìsti o hordách zombie a zuøících požárech.
 
 15
-00:00:59,814 --> 00:01:02,214
-Now that part of the city is walled off,
-
-16
-00:01:02,215 --> 00:01:04,115
-no one's allowed to go in.
+00:00:59,814 --> 00:01:04,115
+Nyní je tato èást mìsta obehnána hradbami. Nikdo nesmí dovnitø.
 
 17
 00:01:04,316 --> 00:01:07,416
-Not that many people would dare to in the first place.
+Ne, že by se tam moc lidí vùbec odvážilo.
 
 18
-00:01:07,917 --> 00:01:10,417
-Maps of the area are easy to find,
+00:01:07,917 --> 00:01:12,317
+Mapy této oblasti se dají snadno najít na pùdách a ve starých truhlách.
 
 19
-00:01:10,418 --> 00:01:13,818
-in attics, and old trunks, but like all of them,
-
-20
-00:01:13,819 --> 00:01:16,519
-the one I've got is over fifty years old.
+00:01:12,418 --> 00:01:16,519
+Ale stejnì jako všechny ostatní, i ta má je stará pøes padesát let.
 
 21
 00:01:17,120 --> 00:01:20,320
-I'll make my way through the ruins to the Hammerite cathedral,
+Projdu ruinami ke Kladiváøské katedrále,
 
 22
 00:01:20,321 --> 00:01:22,421
-and find a way inside.
+a najdu cestu dovnitø.
 
 23
 00:01:22,622 --> 00:01:26,322
-Once I get inside the cathedral, I'll have to locate The Eye.
+Jakmile se dostanu dovnitø katedrály, budu muset najít Oko.
 
 24
 00:01:28,123 --> 00:01:30,923
-Something tells me that this is not going to be easy.
+Nìco mi øíká, že to nebude snadné.
 
 25
 00:01:31,324 --> 00:01:33,724
-But for the amount I'm getting paid,
+Ale za tu slíbenou èástku...
 
 26
 00:01:34,024 --> 00:01:36,424
-I'm willing to take some serious risks.
-
+...jsem ochotný podstoupit vážná rizika.

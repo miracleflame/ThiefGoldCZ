@@ -1,111 +1,107 @@
 1
-00:00:07,800 --> 00:00:11,500
-The essence of balance is detachment. 
+00:00:07,800 --> 00:00:11,900
+Podstatou rovnováhy je odstup.
 
 2
-00:00:12,501 --> 00:00:16,001
-To embrace a cause, to grow fond or spiteful, 
-
-3
-00:00:16,502 --> 00:00:21,002
-is to lose one's balance, 
+00:00:12,501 --> 00:00:21,002
+Pøijmutí pøíèin, vzrùst soucitu èi mstivosti pøedstavuje ztrátu rovnováhy, 
 
 4
-00:00:21,503 --> 00:00:26,003
-after which, no action can be trusted. 
+00:00:21,503 --> 00:00:27,003
+naèe nelze dùvìøovat dalšímu jednání. 
 
 5
-00:00:26,804 --> 00:00:31,504
-Our burden is not for the dependent of spirit.
+00:00:27,204 --> 00:00:31,504
+Naše bøemeno není pro závislé na duchu.
 
 6
 00:00:31,905 --> 00:00:34,305
--- Mayar, Third Keeper
+-- Mayar, Tøetí Stráce
 
 7
-00:00:37,106 --> 00:00:38,506
-I was a, kid.
+00:00:37,606 --> 00:00:38,506
+Byl jsem dìcko.
 
 8
-00:00:38,707 --> 00:00:40,607
-No parents, no home... 
+00:00:38,907 --> 00:00:40,607
+ádní rodièe, ádnı domov... 
 
 9
-00:00:40,808 --> 00:00:43,408
-Running messages and picking pockets to keep...
+00:00:40,908 --> 00:00:43,408
+Dìlal jsem poslíèka a vybíral kapsy, abych si udrel...
 
 10
-00:00:43,409 --> 00:00:45,409
-...my ribs from meeting my spine. 
+00:00:43,409 --> 00:00:45,609
+...ebra dál od páteøe. 
 
 11
-00:00:45,650 --> 00:00:47,510
-One night I saw a man.
+00:00:45,750 --> 00:00:47,510
+Jednou v noci jsem uvidìl mue.
 
 12
-00:00:47,611 --> 00:00:49,511
-Folks just passed him by like he wasn't there.
+00:00:47,711 --> 00:00:49,811
+Lidé ho míjeli, jako by tam nebyl.
 
 13
-00:00:49,812 --> 00:00:54,112
-I thought he must have something valuable, so I snuck up on him and made a grab.
+00:00:49,912 --> 00:00:54,112
+Øíkal jsem si, e musí mít nìco cenného, tak jsem se k nìmu pøiplíil a sáhnul po nìm.
 
 14
-00:00:58,000 --> 00:00:59,900
-- That's not for you.
+00:00:58,500 --> 00:00:59,900
+- To není pro tebe.
 
 15
-00:01:00,001 --> 00:01:01,501
-- Please, sir, I'm hungry. 
+00:01:00,201 --> 00:01:03,154
+- Prosím, pane, mám hlad. Neøíkejte to Kladiváøùm. Slibuji...
 
 16
-00:01:01,502 --> 00:01:03,154
-Don't tell the Hammers. I promise--.
+00:01:03,403 --> 00:01:05,113
+- Jak se jmenuješ, chlapèe?
 
 17
-00:01:03,303 --> 00:01:06,113
-- What is your name, boy?
+00:01:05,503 --> 00:01:06,113
 - Garrett.
 
 18
-00:01:06,214 --> 00:01:08,114
-- You have talent, lad.
+00:01:06,314 --> 00:01:08,114
+- Máš talent, chlapèe.
 
 19
-00:01:08,215 --> 00:01:10,115
-- Let go of me, old man!
+00:01:08,315 --> 00:01:10,115
+- Pus mì, dìdku!
 
 20
-00:01:10,216 --> 00:01:12,416
-- To see a Keeper is not an easy thing, 
+00:01:10,316 --> 00:01:13,216
+- Vidìt Stráce není snadná vìc, 
 
 21
-00:01:12,517 --> 00:01:15,317
-...especially one who does not wish to be seen.
+00:01:13,417 --> 00:01:16,317
+...zvláštì takového, co si nepøeje bıt vidìn.
 
 22
-00:01:16,318 --> 00:01:18,818
-We have a need for those as gifted as yourself.
+00:01:16,418 --> 00:01:19,818
+Potøebujeme nadanıch, jako jsi ty.
 
 23
-00:01:19,519 --> 00:01:22,819
-If you've grown tired of how you live, then follow me, 
+00:01:20,019 --> 00:01:23,819
+Pokud tì omrzelo, jak iješ, následuj mne, 
 
 24
-00:01:22,980 --> 00:01:25,220
-...and we will show you a different way.
+00:01:23,980 --> 00:01:25,520
+...a my ti ukáeme odlišnou cestu.
 
 25
-00:01:25,381 --> 00:01:28,321
-- Leave me alone!
-- As you wish.
+00:01:25,581 --> 00:01:27,821
+- Nechte mì na pokoji!
 
 26
-00:01:28,422 --> 00:01:31,222
-I caught up with him just before he vanished into the crowd..
+00:01:27,881 --> 00:01:29,121
+- Jak si pøeješ.
+
+26
+00:01:29,122 --> 00:01:32,022
+Dohonil jsem ho tìsnì pøedtím, ne zmizel v davu.
 
 27
-00:01:31,423 --> 00:01:34,623
-It was the beginning of a very long education.
-
-
+00:01:32,023 --> 00:01:35,023
+Byl to zaèátek velmi dlouhé vıuky.

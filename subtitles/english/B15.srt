@@ -1,124 +1,95 @@
 1
-00:00:05,100 --> 00:00:08,000
-In the beginning we lived as thieves, 
+00:00:05,100 --> 00:00:08,500
+Na poèátku jsme žili jako zlodìji, 
 
 2
-00:00:09,401 --> 00:00:13,601
-Stealing fur and fang of beasts for survival
+00:00:09,401 --> 00:00:13,901
+Kradli jsme kožešiny a tesáky zvíøat, abychom pøežili.
 
 3
-00:00:15,302 --> 00:00:19,502
-Then came the Builder who brought us the Hammer, 
+00:00:15,302 --> 00:00:19,902
+Pak pøišel Stavitel, který nám dal Kladivo, 
 
 4
-00:00:21,203 --> 00:00:25,403
-And with it we forged a new way of life. 
+00:00:21,203 --> 00:00:25,903
+A s ním jsme ukovali nový zpùsob života. 
 
 5
-00:00:27,404 --> 00:00:30,004
-To reject the Hammer is to denounce the Builder.
+00:00:27,404 --> 00:00:30,304
+Odmítnout Kladivo znamená zavrhnout Stavitele.
 
 6
-00:00:30,305 --> 00:00:31,805
--- The Hammer Book of Tenets
+00:00:30,305 --> 00:00:32,805
+-- Kladiváøská Kniha Desetera
 
 7
-00:00:34,406 --> 00:00:37,306
-I was going to pay Lord Randall and his vase collection a visit,
-
-8
-00:00:37,307 --> 00:00:41,507
-but the Downwind Thieves' Guild beat me to the score.
+00:00:34,406 --> 00:00:41,907
+Chtìl jsem navštívit lorda Randalla a jeho sbírku váz, ale Cech zlodìjù "Povìtøí" mì pøedbìhl.
 
 9
-00:00:42,208 --> 00:00:44,508
-Word is that they haven't divvied the booty yet. 
+00:00:42,208 --> 00:00:44,908
+Øíká se, že si ještì nerozdìlili koøist. 
 
 10
-00:00:45,009 --> 00:00:48,009
-Apparently their leaders...Donal and Reuben...
-
-11
-00:00:48,010 --> 00:00:51,010
-...are arguing over the prized sapphire vase.
+00:00:45,009 --> 00:00:51,710	
+Podle všeho jejich vùdci... Donal a Reuben se hádají o cennou safírovou vázu.
 
 12
-00:00:51,811 --> 00:00:53,711
-Sounds like they could use a third party
-
-13
-00:00:53,712 --> 00:00:55,112
-to settle their disagreement.
+00:00:51,811 --> 00:00:55,312 
+Zní to, jako by se jim hodila tøetí strana k urovnání jejich neshod.
 
 14
 00:00:55,813 --> 00:00:59,813
-Since I'm no mediator, I'll just steal the vase from them.
+Protože nejsem žádný mediátor, tak jim tu vázu prostì ukradnu. 
 
 15
-00:01:00,300 --> 00:01:02,414
-They'll be so busy blaming each other
-
-16
-00:01:02,415 --> 00:01:04,715
-no one will suspect an outsider.
+00:01:00,300 --> 00:01:04,915
+Budou natolik zaneprázdnìni vzájemným obviòováním, že by nikdo nepodezøíval nìkoho zvenèí.
 
 17
-00:01:05,416 --> 00:01:09,016
-The Downwinders run a gambling den called the "Overlord's Fancy,"
+00:01:05,416 --> 00:01:09,216
+Cech Povìtøí provozují hráèské doupì zvané "Vladaøùv Rozmar".
 
 18
-00:01:09,217 --> 00:01:11,517
-which operates under a nearby restaurant.
+00:01:09,217 --> 00:01:11,917
+které funguje pod nedalekou restaurací.
 
 19
-00:01:11,918 --> 00:01:14,318
-The guild's hideout is beneath the casino.
+00:01:11,918 --> 00:01:14,718
+Úkryt cechu se nachází pod kasinem.
 
 20
-00:01:14,719 --> 00:01:17,419
-I have a rough map of the complex I got from...
-
-21
-00:01:17,520 --> 00:01:19,120
-..sources from the inside.
+00:01:14,719 --> 00:01:19,720
+Mám hrubou mapu komplexu, kterou mi poskytli zdroje zevnitø.
 
 22
-00:01:19,821 --> 00:01:21,521
-Once I'm in the Overlord's Fancy
-
-23
-00:01:21,622 --> 00:01:24,622
-I'll have to search for the secret entrance to the hideout.
+00:01:19,821 --> 00:01:24,822
+Jakmile budu ve Vladaøovì Rozmaru, budu muset hledat tajný vchod do skrýše.
 
 24
-00:01:24,923 --> 00:01:29,023
-Have to be careful, the Downwinder's know me all too well.
+00:01:24,923 --> 00:01:29,323
+Musím být opatrný, z Povìtøí mì znají až pøíliš dobøe.
 
 25
 00:01:29,424 --> 00:01:32,524
-If they catch sight of me they'll know who took the vase.
+Jestli mì zahlédnou, budou vìdìt, kdo tu vázu vzal...
 
 26
 00:01:32,925 --> 00:01:35,925
-Assuming they don't just kill me for trespassing.
+...za pøedpokladu, že mì prostì nezabijí za vstup na cizí pozemek.
 
 27
-00:01:38,026 --> 00:01:40,326
-Finding the vase may prove difficult,
-
-28
-00:01:40,327 --> 00:01:42,927
-since I have no idea where it is.
+00:01:38,026 --> 00:01:42,927
+Najít vázu mùže být obtížné, páè nemám tušení, kde je.
 
 29
 00:01:43,228 --> 00:01:46,628
-Should be a hot topic of conversation among the Downwinders.
+V Povìtøí by to mìlo být žhavé téma k hovoru.
 
 30
 00:01:47,129 --> 00:01:50,629
-Maybe I'll be lucky enough to overhear where they're stashing it.
+Možná budu mít štìstí a zaslechnu, kde ji schovávají.
 
 31
 00:01:51,230 --> 00:01:52,930
-Time to make a living.
-
+Je èas vydìlat si na živobytí.

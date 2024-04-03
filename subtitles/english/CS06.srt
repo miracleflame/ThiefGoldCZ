@@ -1,172 +1,171 @@
 1
-00:00:20,500 --> 00:00:23,000
-- Garrett? It's Viktoria.
+00:00:20,700 --> 00:00:23,500
+- Garrette? Tady Viktoria.
 
 2
-00:00:23,601 --> 00:00:25,701
-I trust you made it back alive?
+00:00:23,801 --> 00:00:25,901
+Hádám, e jste se vrátili ivı?
 
 3
-00:00:26,402 --> 00:00:30,602
-You've done well, Garrett. Come with me, and bring the sword.
+00:00:26,602 --> 00:00:30,902
+Vedl jste si dobøe, Garrette. Pojïte se mnou a vezmìte meè.
 
 4
-00:00:31,000 --> 00:00:36,200
-There is someone you have to meet. It's time for the payment you've been promised.
+00:00:31,000 --> 00:00:36,300
+Je tu nìkdo, s kım vás musím seznámit. Pøišel èas na vıplatu, která vám byla slíbena.
 
 5
-00:00:37,001 --> 00:00:38,801
-- Yes.
+00:00:37,001 --> 00:00:38,901
+- Ano.
 
 6
-00:00:47,002 --> 00:00:48,802
-- A refreshment, Mister Garrett?
+00:00:47,102 --> 00:00:48,902
+- Obèerstvení, pane Garrette?
 
 7
-00:00:49,000 --> 00:00:53,000
-I'm in the possession of a superior
-brandy, that has the most...
+00:00:49,100 --> 00:00:53,500
+Jsem dritelem vynikající brandy, která má velice...
 
 8
-00:00:53,500 --> 00:00:55,600
-..."restorative" effect.
+00:00:53,600 --> 00:00:55,700
+..."regeneraèní" úèinek.
 
 9
-00:00:55,701 --> 00:01:00,201
-- I prefer my payment in cash, not liquor, Mister...ahh...
+00:00:55,701 --> 00:01:00,301
+- Dávám pøednost platbì v hotovosti, ne pití, pane...ahh...
 
 10
-00:01:00,400 --> 00:01:02,000
-- My apologies.
+00:01:00,400 --> 00:01:02,100
+- Omlouvám se.
 
 11
-00:01:02,100 --> 00:01:05,600
-I've been watching you, Mister Garrett. So closely, in fact,
+00:01:02,200 --> 00:01:05,700
+Sledoval jsem vás, pane Garrette. Vlastnì tak pozornì, a jsem, obávám se...
 
 12
-00:01:05,601 --> 00:01:08,901
-that I'm afraid I'd forgotten we haven't actually met yet.
+00:01:05,701 --> 00:01:09,101
+...opomenul, e jsme se vlastnì ještì nesetkali.
 
-13
+13     
 00:01:09,250 --> 00:01:12,150
-I am...Constantine.
+Já jsem... Konstantin.
 
 14
-00:01:12,250 --> 00:01:14,450
-- All this time I thought you were going to pay me.
+00:01:12,350 --> 00:01:14,550
+- Celou dobu vìøím, e mi hodláte zaplatit...
 
 15
-00:01:14,500 --> 00:01:16,700
-You've brought me here to kill me?
+00:01:14,600 --> 00:01:16,800
+Pøivedli jste mì sem, abyste mì zabili?
 
 16
-00:01:16,800 --> 00:01:19,301
-- But you have it all wrong, Mister Garrett.
+00:01:16,900 --> 00:01:19,301
+- Ale to jste se úplnì spletl, pane Garrette...
 
 17
-00:01:19,302 --> 00:01:23,402
-Would it surprise you to know that it was I who hired you to steal my own sword?
+00:01:19,302 --> 00:01:23,702
+Pøekvapilo by vás, kdybyste vìdìl, e jsem to byl já, kdo vás najal, abyste ukradl mùj vlastní meè?
 
 18
-00:01:24,700 --> 00:01:28,000
-Yes. You see, Viktoria and I are...
+00:01:24,800 --> 00:01:28,100
+Tak. Víte, Viktorie a já jsme...
+
 19
-00:01:28,051 --> 00:01:29,801
-- Old associates.
+00:01:28,151 --> 00:01:29,901
+- Staøí spoleèníci.
 
 20
-00:01:29,902 --> 00:01:33,202
-- Yes. You were being tested. Do you understand?
+00:01:29,902 --> 00:01:33,502
+- Tak. Byl jste testován. Rozumíte?
 
 21
-00:01:33,703 --> 00:01:36,903
-And I must say, you more than live up to your reputation.
+00:01:33,603 --> 00:01:36,993
+A musím øíct, e své povìsti více ne dostojíte.
 
 22
-00:01:37,204 --> 00:01:39,904
-You are quite an extraordinary thief.
+00:01:37,304 --> 00:01:39,994
+Jste docela vıjimeènı zlodìj.
 
 23
-00:01:40,005 --> 00:01:44,205
-- Testing me? What is it you want from me, Constantine?
+00:01:40,105 --> 00:01:44,505
+- Testován? Co ode mì chcete, Konstantine?
 
 24
-00:01:44,506 --> 00:01:48,806
-- I am a collector, Mister Garrett. But there are some 'items',
+00:01:44,606 --> 00:01:48,906
+- Jsem sbìratel, pane Garrette. Ale jsou jisté "pøedmìty",
 
-25
-00:01:48,807 --> 00:01:51,007
-that are not available for purchase.
+25	
+00:01:48,907 --> 00:01:51,107
+které se nedají koupit.
 
 26
-00:01:51,108 --> 00:01:53,808
-They must be acquired using other means.
+00:01:51,108 --> 00:01:53,908
+Musí bıt získány jinımi prostøedky.
 
 27
 00:01:54,009 --> 00:01:57,909
-In this case the item in question would be best acquired by thieving.
+V onom pøípadì by bylo nejlepší získat danı pøedmìt zlodìjskım umem.
 
 28
-00:01:58,310 --> 00:02:03,710
-Not simple thieving...no. I need an artist. Like yourself.
+00:01:58,310 --> 00:02:03,910
+Ne prostou krádeí... ne. Potøebuji umìlce. Jako jste vy.
 
 29
-00:02:04,011 --> 00:02:07,011
-- What exactly IS this...item?
+00:02:04,111 --> 00:02:07,111
+- Co pøesnì má bıt ten... pøedmìt?
 
 30
-00:02:07,112 --> 00:02:11,612
-- It is the gemstone called The Eye, for it's unusual...
+00:02:07,212 --> 00:02:11,712
+- Je to drahokam zvanı Oko, pro svùj neobvyklı...
 
 31
-00:02:11,713 --> 00:02:12,913
-- Appearance.
+00:02:11,813 --> 00:02:12,913
+- ...vzhled.
 
 32
-00:02:13,014 --> 00:02:16,014
-- Yes. Kept hidden in the sealed cathedral
+00:02:13,114 --> 00:02:16,114
+- Tak. Ukrıvá se v uzavøené katedrále.
 
 33
-00:02:16,015 --> 00:02:19,615
-deep inside the halls of the scum Hammerites.
+00:02:16,115 --> 00:02:19,715
+Hluboko v sálech prašivıch Kladiváøù.
 
 34
-00:02:19,616 --> 00:02:22,316
-Oh, but forgive me, you are, possibly,
+00:02:19,716 --> 00:02:22,316
+Ale odpuste mi, snad nejste...
 
 35
-00:02:22,317 --> 00:02:24,817
-'friendly' with the Order of the Hammer?
+00:02:22,317 --> 00:02:24,917
+"pøátelští" s Øádem Kladiva?
 
 36
-00:02:24,918 --> 00:02:28,018
-- No. Fanatics make unreliable friends.
+00:02:25,018 --> 00:02:28,118
+- Ne. Fanatici jsou nespolehliví pøátelé.
 
 37
-00:02:28,119 --> 00:02:31,619
-- Excellent. I am prepared to offer you quite a sum.
+00:02:28,159 --> 00:02:31,819
+- Vıbornì. Jsem pøipraven vám nabídnout znaènou sumu.
 
 38
-00:02:31,720 --> 00:02:34,820
-A hundred thousand, upon receipt of The Eye.
+00:02:31,820 --> 00:02:34,920
+Sto tisíc, po obdrení Oka.
 
 39
-00:02:35,221 --> 00:02:38,221
-- I don't see how I can refuse such an offer.
+00:02:35,251 --> 00:02:38,321
+- Nevím, jak bych mohl takovou nabídku odmítnout.
 
 40
-00:02:38,252 --> 00:02:42,252
-- Marvelous. Viktoria can fill you in on all the particulars.
+00:02:38,352 --> 00:02:42,352
+- Úasné. Viktorie vás mùe zasvìtit do všech podrobností.
 
 41
-00:02:42,300 --> 00:02:45,700
-And Mister Garrett...the sword. Keep it.
+00:02:42,400 --> 00:02:45,800
+A pane Garrette... ten meè. Nechte si ho.
 
 42
-00:02:45,701 --> 00:02:48,301
-You have earned it. But also...
+00:02:45,801 --> 00:02:48,401
+Zaslouil jste si ho. Ale také...
 
 43
-00:02:48,302 --> 00:02:51,402
-...I believe you'll find it useful in your quest.
-
+00:02:48,402 --> 00:02:51,402
+...vìøím, e pro nìj pøi vašem pátrání najdete vyuití.
