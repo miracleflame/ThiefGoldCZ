@@ -35,7 +35,7 @@ use_water: "Vodní šíp nezpùsobuje žádná zranìní, ale hasí pochodnì a jiné hoøící
 
 use_m9papyrus: "Jeden známý ti prodává kontakt na jednoho sbìratele. Tomu pak mùžeš prodat starožitnosti, které ve ztraceném mìstì najdeš. Cena:150"
 
-use_m3holytip: "Bývalý vìzeò z Cragscleftu ti nabízí nìjaké informace o dolech. Cena:100"
+use_m3holytip: "Bývalý vìzeò z Horoštìpu ti nabízí nìjaké informace o dolech. Cena:100"
 
 use_m3cuttytip: "Tato informace by ti mohla pomoci zjistit, kde Kladiváøi drží Cuttyho. Cena:300"
 
