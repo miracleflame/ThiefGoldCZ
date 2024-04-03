@@ -1,11 +1,11 @@
-clear: "Smazat"
-play: "Zaèít misi"
-briefing: "Znovu popis mise"
-goals: "Znovu ukázat úkoly"  
-cash: "Peníze"
+clear: "Clear"
+play: "Play Mission"
+briefing: "Review Briefing"
+goals: "Review Goals"  
+cash: "Cash"
 
-title_0: "Vybavení" 
-title_1: "Nakoupené vybavení" 
-title_2: "Vybavení ke koupi"
+title_0: "Starting Gear" 
+title_1: "Items Purchased" 
+title_2: "Items For Sale"
 
 

@@ -1,14 +1,14 @@
-save: "Uložit"
-done: "OK"
+save: "Save"
+done: "Done"
 
-unused: "< PRÁZDNÉ >"
+unused: "< EMPTY >"
 
-initial: "Vyber pozici k uložení hry."
-saving: "Ukládám..."
+initial: "Select a file to save."
+saving: "Saving..."
 
-success: "Hra uložena"
-failure: "Uložení se nezdaøilo"
+success: "Save Successful"
+failure: "Save Failed"
 
-quick_save: "(Rychlé uložení)"
+quick_save: "(Quick Save)"
 
-no_disk_space: "Není volné místo na disku"
+no_disk_space: "Not Enough Disk Space"

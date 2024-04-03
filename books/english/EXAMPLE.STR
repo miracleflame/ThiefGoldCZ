@@ -1,3 +1,3 @@
-Page_0: "Toto je první strana cvièné knihy."
-Page_1: "Toto je druhá stránka cvièné knihy.  Stránky musí navazovat."
-page_2: "Poslední stránka."
+Page_0: "This is the first page of the example book.  Your book might call this page_1, but I don't, because I'm a programmer."
+Page_1: "This is the second page of the example book.  Pages must be contiguous."
+page_2: "The last page."

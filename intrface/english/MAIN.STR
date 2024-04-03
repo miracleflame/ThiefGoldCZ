@@ -1,9 +1,9 @@
 // Main menu strings
 
-new_game:       "Nová hra"
-load_game:      "Nahrát hru"
-options:        "Volby"
-credits:        "Autoøi"
+new_game:       "New Game"
+load_game:      "Load Game"
+options:        "Options"
+credits:        "Credits"
 intro:          "Intro"
-quit:           "Konec" 
+quit:           "Quit" 
 

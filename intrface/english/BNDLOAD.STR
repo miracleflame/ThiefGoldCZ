@@ -1,10 +1,10 @@
-load: "Nahrát"
-done: "Zpìt"
+load: "Load"
+done: "Cancel"
 
-unused: "< PRÁZDNÉ >"
+unused: "< EMPTY >"
 
-initial: "Vyber konfiguraci."
-loading: "Nahrávám..."
+initial: "Select a bind file to load."
+loading: "Loading..."
 
 
 

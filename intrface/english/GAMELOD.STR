@@ -1,11 +1,11 @@
-load: "Nahrát"
-done: "OK"
+load: "Load"
+done: "Done"
 
-unused: "< PRÁZDNÉ >"
+unused: "< EMPTY >"
 
-initial: "Vyber pozici k nahrání hry."
-loading: "Nahrávám..."
-failed: "Nahrávání se nezdaøilo" 
+initial: "Select a file to load."
+loading: "Loading..."
+failed: "Load Failed" 
 
 
 

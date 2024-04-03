@@ -1,11 +1,11 @@
 // Sim menu strings
 
-continue:       "Pokraèovat"
-load_game:      "Nahrát"
-save_game:      "Uložit"
-options:        "Volby"
-map:            "Mapa"
-objectives:     "Cíl mise"
-quit:           "Konec" 
+continue:       "Continue"
+load_game:      "Load"
+save_game:      "Save"
+options:        "Options"
+map:            "Map"
+objectives:     "Objectives"
+quit:           "Quit" 
 restart:        "Restart"
 
