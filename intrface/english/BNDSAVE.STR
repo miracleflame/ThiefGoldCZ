@@ -1,12 +1,12 @@
-save: "Save"
-done: "Done"
+save: "Uložit"
+done: "OK"
 
-unused: "< EMPTY >"
+unused: "< PRÁZDNÉ >"
 
-initial: "Select a bind file to save."
-saving: "Saving..."
+initial: "Uložit konfiguraci."
+saving: "Ukládám..."
 
-success: "Save Successful"
-failure: "Save Failed"
+success: "Uloženo"
+failure: "Uložení se nezdaøilo"
 
-my_binds: "My Binds"
+my_binds: "Moje konfigurace"
