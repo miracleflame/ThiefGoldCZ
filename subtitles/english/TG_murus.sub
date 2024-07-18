@@ -1,41 +1,41 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Brother Murus"
-	SUB	"MURA0MU1" { TEXT "Hmm.... Why can I never remember where I hath left things?" }
-	SUB	"MURA0MU2" { TEXT "Oh, this place is a mess! Why have the initiates not been keeping it clean?" }
-	SUB	"MURA0MU3" { TEXT "Hmm.... I wonder what that looter's up to." }
-	SUB	"MURA0MU4" { TEXT "Sometimes I worry that I've been trapped here for so long it makes it hard to think clearly." }
-	SUB	"MURA0MU5" { TEXT "The Master Builder may be proud of our glorious Cathedral." }
-	SUB	"MURA0MU6" { TEXT "People all over this city respect the Order of the Hammer." }
-	SUB	"MURBAD" { TEXT "Oh no! The Holy Symbol thou hast has not been blessed. Thou must find a way to bestow the Builder's Blessing on it. When thou hast done that, return here." }
-	SUB	"MURBOOK1" { TEXT "Confound it, I seem to have misplaced my prayer book. Novice, please go get it for me. It's called 'The Prayer of Consecration'. I don't have any idea where I was last reading it." }
-	SUB	"MURBOOK2" { TEXT "Hast thou found 'The Prayer of Consecration' yet? I've been looking in this area but I haven't found it. Try looking somewhere else." }
-	SUB	"MURBOOK3" { TEXT "Who would've thought back then that an unsavory character such as thyself could be my salvation? Thank thee for getting that book for me." }
-	SUB	"MURBUR" { TEXT "Acolyte, thou hast saved me from eternal unrest, but I need thee to help my friends from life as well. I've prepared their final resting places for them, but I need thee to place their bodies in their graves." }
-	SUB	"MURCAND1" { TEXT "I need to find a candle I used when I was still alive. The last time I remember using a candle is the night of my death. I was in the work yard, where the well is. My personal possessions were hidden but I think the candle is back there still." }
-	SUB	"MURCAND2" { TEXT "Please, go get my candle. It's somewhere near the well." }
-	SUB	"MURCAND3" { TEXT "Yes, that is the candle I was using to see the night I died. It will do for our needs." }
-	SUB	"MURDEAL" { TEXT "Aha, our newest acolyte! Thou seems to have gotten thyself into some trouble, hmm? And, from the looks of thee, I'd say thou art used to trouble. Well, I can help thee escape this desolate place if thou wilt help me with something." }
-	SUB	"MURFIN" { TEXT "Thou hast been a great help to me, friend, and I owe thee great thanks. I wish I couldst give thee the key to the cloister gate, but that is long lost. Take this key instead. It opens the armoury in the attic. There is something up there that a crafty person like thee will find useful. I go now to my rest. Once again, I thank thee." }
-	SUB	"MURGRAV" { TEXT "I see that thou hast all of the items we need to perform the Ritual of Consecration. Meet me at my grave in the cemetery." }
-	SUB	"MURHAU1" { TEXT "Now I must ask thee for one last thing: These haunts who inhabit the bodies of my brethren--they must all be killed." }
-	SUB	"MURHAU2" { TEXT "Kill all of the Hammer haunts and return here for thy reward." }
-	SUB	"MURINT" { TEXT "Welcome to the majestic and splendid Hammer Cathedral. How pleasing to welcome new initiates into our fold. I am Brother Murus, and I will be thy spiritual guide. I see that thou art tired from your journey, so I'll leave thee be. But if thou needst my help I can be found down in the cloister." }
-	SUB	"MURMART" { TEXT "Please bury Brother Martello. He died in the Cathedral attic." }
-	SUB	"MURREN" { TEXT "Acolyte, thou hast saved me from eternal unrest. But I need thee to help my friends from life as well. I've prepared their final resting places for them, but I need thee to place their bodies in their graves. First is Brother Renault. He died in the cellar of the Cathedral. Please, go get his body and place it in his grave." }
-	SUB	"MURREN1" { TEXT "The first is Brother Renault. He died in the cellar of the Cathedral. Please, go get his body and place it in his grave." }
-	SUB	"MURREN2" { TEXT "Please go get the body of Brother Renault and place it in his grave." }
-	SUB	"MURRIT1" { TEXT "Let us begin my friend. Wave the rosary over my tombstone." }
-	SUB	"MURRIT2" { TEXT "Now place the candle on my tombstone." }
-	SUB	"MURRIT3" { TEXT "Read The Prayer of Consecration." }
-	SUB	"MURRIT4" { TEXT "Touch my tombstone with the Holy Symbol." }
-	SUB	"MURRIT5" { TEXT "At last! My prayers have been answered. My soul is finally free." }
-	SUB	"MURROS1" { TEXT "Since thou clearly camest here to...collect things, thou can start by collecting some things for me. All Brothers have rosary beads so thou't needs some too. Thou canst borrow mine! I think I left them in my room. I remember that it was so nice to look over the fountain in the garden.... So, be a good lad and bring me my rosary." }
-	SUB	"MURROS2" { TEXT "Hast thou found my rosary beads yet, sneaky Acolyte? They're not here. They must be someplace else in this beautiful, sacred compound." }
-	SUB	"MURROS3" { TEXT "Aha! What a wonderful looter thou art. Thou hast found my rosary. I have some other things for thee to do as well." }
-	SUB	"MURSYM1" { TEXT "I needs for thou to get a Holy Symbol. This place is not as holy as it once was, I'm afraid, so thou might have a hard time finding one. Thou couldst always make one for thyself in the Tennor factory. We do it all the time and praise The Builder for His works." }
-	SUB	"MURSYM2" { TEXT "Art thou still poking around for a holy symbol? There might not be any to find any longer. Why dost thou not go to the factory and make one for thyself?" }
-	SUB	"MURSYM3" { TEXT "Excellent. With that Holy Symbol thou art truly a Novice of The Order." } 
+	TYPE "convo"
+	DESCR "Bratr Murus"
+	SUB "MURA0MU1" { TEXT "Hmm.... Proè si nikdy nemùu vzpomenout, kde jsem nechal vìci?" }
+	SUB "MURA0MU2" { TEXT "Tady je ale nepoøádek! Proè to tady zasvìcenci neudrují v èistotì?" }
+	SUB "MURA0MU3" { TEXT "Hmm.... Zajímalo by mì, co má ten lupiè za lubem." }
+	SUB "MURA0MU4" { TEXT "Obèas mám obavy, e u jsem tu tak dlouho uvìznìn, a je tìké jasnì myslet." }
+	SUB "MURA0MU5" { TEXT "Pán Stavitel mùe bıt pyšnı na naši slavnou katedrálu." }
+	SUB "MURA0MU6" { TEXT "Lidé v celém mìstì si váí Øádu kladiva." }
+	SUB "MURBAD" { TEXT "Ale ne! Svatı symbol, kterı máš, nebyl poehnán. Musíš najít zpùsob, jak mu udìlit Stavitelovo poehnání. A to udìláš, vra se sem." }
+	SUB "MURBOOK1" { TEXT "Zpropadenì, zdá se, e jsem ztratil svou modlitební knihu. Novici, prosím, dojdi mi pro ni. Jmenuje se 'Modlitba posvìcení'. Nemám ponìtí, kde jsem ji naposledy èetl." }
+	SUB "MURBOOK2" { TEXT "U jsi našel 'Modlitbu posvìcení'? Hledal jsem ji v této èásti, ale nenašel jsem ji. Zkus hledat nìkde jinde." }
+	SUB "MURBOOK3" { TEXT "Kdo by si tenkrát pomyslel, e taková nechutná postava, jako jsi ty, mùe bıt mou spásou? Dìkuji ti, e jsi pro mì tu knihu sehnal." }
+	SUB "MURBUR" { TEXT "Akolite, zachránils mì pøed neklidem vìènım, ale potøebuji, abys i pøátelùm ze ivota mım pomohl . Pøipravil jsem pro nì místa posledního odpoèinku, ale potøebuji, abys tìla jejich do hrobù uloil." }	
+	SUB "MURCAND1" { TEXT "Potøebuji najít svíèku, kterou jsem ještì zaiva pouíval. Naposledy si pamatuji, e jsem svíèku pouil v noci smrti své. Byl jsem na pracovním dvoøe, kde je studna. Mé osobní vìci byly schované, ale myslím, e svíèka je stále tam vzadu." }
+	SUB "MURCAND2" { TEXT "Prosím, dojdi pro mou svíèku. Nìkde poblí studny jest." }
+	SUB "MURCAND3" { TEXT "Ano, to je ta svíèka, kterou jsem vidìl onou noc, kdy zemøel jsem. Pro naše potøeby bude staèiti." }
+	SUB "MURDEAL" { TEXT "Aha, náš nejnovìjší akolyta! Zdá se, e dostal ses do potíí nìjakıch, hmm? A ze zezøení tvého, bych øekl, e na problémy zvyklı jsi. No, mohu ti pomoci z tohoto opuštìného místa uniknouti, pokud mi s nìèím pomùeš." }
+	SUB "MURFIN" { TEXT "Velmi pomohls mi, pøíteli, i já ti dluím mnohı dík. Rád bych ti dal klíè od klášterní brány, ale ten dávno ztracen jest. Vezmi radìji tento klíè. Otevírá zbrojnici na pùdì. Tam nahoøe je nìco, co se bude mazanému èlovìku, jako jsi ty, hoditi. Teï si jdu odpoèinout. Ještì jednou dìkuji ti." }
+	SUB "MURGRAV" { TEXT "Vidím, e všechny pøedmìty máš, co potøebujeme k provedení rituálu posvìcení. Sejdeme se u mého hrobu na høbitovì." }
+	SUB "MURHAU1" { TEXT "Nyní tì musím poádat o poslední vìc: Tito pøízrakové, je obıvají tìla mıch bratøí - všichni musí bıt zlikvidováni." }
+	SUB "MURHAU2" { TEXT "Zabij všechny pøízraky Kladiva a vra se sem pro svou odmìnu." }
+	SUB "MURINT" { TEXT "Vítej v majestátní a velkolepé Kladiváøské katedrále. Jak pøíjemné je pøivítat nové zasvìcence do našich øad. Jsem bratr Murus a budu tvım duchovním prùvodcem. Vidím, e jsi z cesty unavenı, a tak tì nechám bıt. Kdybys však potøeboval mou pomoc, najdeš mì dole v klášteøe." }
+	SUB "MURMART" { TEXT "Prosím, pohøbi bratra Martella. Zemøel na pùdì katedrály." }
+	SUB "MURREN" { TEXT "Akolyto, zachránil jsi mì pøed neklidem vìènım. Potøebuji však, abys pomohl i pøátelùm ze ivota mım. Pøipravil jsem jim místa posledního odpoèinku, ale potøebuji, abys tìla jejich uloil do hrobù. První bratr Renault jest. Zemøel ve sklepení katedrály. Prosím, dojdi pro tìlo jeho a ulo ho do hrobu." }
+	SUB "MURREN1" { TEXT "První je bratr Renault. Zemøel ve sklepì katedrály. Prosím, dojdi pro tìlo jeho a ulo ho do hrobu." }
+	SUB "MURREN2" { TEXT "Prosím, jdi pro tìlo bratra Renaulta a ulo ho do hrobu jeho." }
+	SUB "MURRIT1" { TEXT "Zaènìme, pøíteli. Zakıvej rùencem nad náhrobkem mım." }
+	SUB "MURRIT2" { TEXT "Nyní polo svíèku na náhrobek mùj." }
+	SUB "MURRIT3" { TEXT "Pøeèti modlitbu posvìcení." }
+	SUB "MURRIT4" { TEXT "Dotkni se náhrobku mého symbolem svatım." }
+	SUB "MURRIT5" { TEXT "Koneènì! Modlitby mé vyslyšeny byly. Duše moje koneènì svobodná jest." }
+	SUB "MURROS1" { TEXT "Protoe jsi sem oèividnì pøišel... shánìt vìci, mùeš zaèít tím, e mi nìjaké vìci seeneš. Všichni bratøi mají rùence, take ty také nìjaké potøebuješ. Mùeš si pùjèit mùj! Myslím, e jsem jej nechal v pokoji svém. Vzpomínám si, e bylo opravdu hezké dívat se na fontánu v zahradì....Buï tedy hodnı hoch a pøines mi rùenec mùj." }
+	SUB "MURROS2" { TEXT "U našels mé korálky rùencové, akolyto záludnı? Nejsou tady. Musí bıt nìkde jinde na tomto krásném, posvátném místì." }
+	SUB "MURROS3" { TEXT "Aha! Bájeènı zlodìj jseš. Našels rùenec mùj. Mám pro tebe i další vìci k uèinìní." }
+	SUB "MURSYM1" { TEXT "Potøebuji, abys získal svatı symbol. Obávám se, e toto místo u není tak svaté jako kdysi, take bys mohl mít problém nìjakı najít. Vdycky si ho ale mùeš vyrobit sám v továrnì. Dìláme to poøád a chválíme Stavitele za jeho díla." }
+	SUB "MURSYM2" { TEXT "Poøád se poohlííš po symbolu svatém? Moná u ádnı nenajdeš. Proè nejdeš do továrny a nevyrobíš si ho sám?" }
+	SUB "MURSYM3" { TEXT "Vıbornì. S tímto svatım symbolem jsi skuteènım novicem Øádu." } 
 }

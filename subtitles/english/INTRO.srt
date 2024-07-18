@@ -24,7 +24,7 @@ Stezky zlodìje a boha se v zemi nosí jako jedna.
 
 7
 00:01:26,000 --> 00:01:29,000
-STOP ZLODÌJ 
+STOP ZLODÌJ
 
 8
 00:01:27,000 --> 00:01:30,000

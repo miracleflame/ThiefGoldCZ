@@ -1,62 +1,56 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Singer"
-	SUB	"op112401" { TEXT "That's good...but let's try it a little more angry, like this, 'But wait! Who is this I spy? Who dares fell wood from my domain?'" }
-	SUB	"op112403" { TEXT "No, no! With gusto! And emphasize the word 'dares', like this! 'Who dares fell wood from my domain?'" }
-	SUB	"op112405" { TEXT "Huh! Maybe I will!" }
-	SUB	"op112500" { TEXT "Huh! So, did you read Cribs' latest? That gibberish is a waste of my art!" }
-	SUB	"op112502" { TEXT "And, to add injury to insult, I'm forced to wear costumes from years past!" }
-	SUB	"op112504" { TEXT "For once, I agree with you, Christine. Scrapping the lower-class would certainly clean things up around here. But what will you do for food and shelter when they kick you out? (Laughs)" }
-	SUB	"op112600" { TEXT "This latest opera from Valerius and Cribs is a testament to the superiority of human intellect. Man overcomes nature! Uhhh, (sarcastic) my absolute favorite theme!" }
-	SUB	"op112602" { TEXT "Huh! You're just miffed because Cribs is fond of tragic endings." }
-	SUB	"op112604" { TEXT "Hmm. Well, I say 'in with the new.' That's what I say!" }
+	TYPE "convo"
+	DESCR "Zpìvák"
+	SUB "op112401" { TEXT "To je dobré... ale zkusme to trochu naštvanìji, tøeba takto: 'No poèkej! Kdo to, co ho zøím? Kdo se opovauje kácet døíví z mého panství?'" }
+	SUB "op112403" { TEXT "Ne, ne! S gustem! A dùraznìji slovo 'opovauje', takhle! 'Kdo se opovauje kácet døíví z mého panství?'" }
+	SUB "op112405" { TEXT "Hm, tak jo!" }
+	SUB "op112500" { TEXT "Hm! Tak co, èetla jsi Cribsovu novinku? Ten blábol je plıtvání mım umìním!" }
+	SUB "op112502" { TEXT "A aby toho nebylo málo, jsem nucena nosit kostımy z minulıch let!" }
+	SUB "op112504" { TEXT "Pro jednou s tebou souhlasím, Christine. Vyøazením niší tøídy by se to tu urèitì proèistilo. Ale jak se chceš uivit, kdy tì vyrazí?" }
+	SUB "op112600" { TEXT "Tato nejnovìjší opera od Valerie a Cribse je dùkazem nadøazenosti lidského intelektu. Èlovìk vítìzí nad pøírodou! Aah, moje absolutnì nejoblíbenìjší téma!" }
+	SUB "op112602" { TEXT "Huh! Jsi jen naštvaná, protoe Cribs má rád tragické konce." }
+	SUB "op112604" { TEXT "Hmm. No, já øíkám 'èím novìjší tím lepší'. To øíkám já!" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Singer"
-	SUB	"op1a0s10" { TEXT "Do re mi fa sol la ti do!" }
-	SUB	"op1a0s11" { TEXT "Me me me me me me! (etc.)" }
-	SUB	"op1a0s12" { TEXT "Do re mi fa sol la ti do!" }
-	SUB	"op1a0s13" { TEXT "Me me me me me me! (etc.)" }
-	SUB	"op1a0si1" { TEXT "La la la la la! La la la!" }
-	SUB	"op1a0si2" { TEXT "La la la! La la la! La la la!" }
-	SUB	"op1a0si5" { TEXT "Twelve tricky taffers took their tea at two today. Twelve ticky, tacky--Uuggh! Impossible!" }
-	SUB	"op1a1__1" { TEXT "Is someone there?" }
-	SUB	"op1a1__2" { TEXT "Who's that?" }
-	SUB	"op1a1__3" { TEXT "What's up?" }
-	SUB	"op1a1__4" { TEXT "Huh?" }
-	SUB	"op1a1h_1" { TEXT "(Gasps) Who made that noise?" }
-	SUB	"op1a1v_1" { TEXT "Hmm...thought I saw something." }
-	SUB	"op1a2__1" { TEXT "What was that?" }
-	SUB	"op1a2__2" { TEXT "Who's there?" }
-	SUB	"op1a3b_1" { TEXT "Aaah! Murderer! Guards!" }
-	SUB	"op1a3s_1" { TEXT "(Gasps) Who are you?!" }
-	SUB	"op1a3s_2" { TEXT "Is this a thief I see before me? Guards!" }
-	SUB	"op1a3s_3" { TEXT "Guards!" }
-	SUB	"op1alma1" { TEXT "The alarm! Hurry!" }
-	SUB	"op1bak_1" { TEXT "Hmm, I'm starting to see things. I'd better get some rest." }
-	SUB	"op1bak_2" { TEXT "Hmm. must a' been rats. How repulsive!" }
-	SUB	"op1bak_3" { TEXT "Hmm.... Guess it was nothing." }
-	SUB	"op1bak_4" { TEXT "Uugh! These old buildings make too much noise!" }
-	SUB	"op1bod_1" { TEXT "(Gasps) A body! Help! Help!" }
-	SUB	"op1bod_2" { TEXT "Guards! There is a dead person, here!" }
-	SUB	"op1hlow1" { TEXT "Uuggh! Help me!" }
-	SUB	"op1lar_1" { TEXT "What's all this? Guards!" }
-	SUB	"op1mis_1" { TEXT "Hey! Someone must've stolen it! Guards!" }
-	SUB	"op1rbod1" { TEXT "I saw him lying there, dead as night!" }
-	SUB	"op1rint1" { TEXT "I've seen the intruder! I'm getting out of here." }
-	SUB	"op1rint2" { TEXT "I saw him! The thief! I saw him!" }
-	SUB	"op1rmis1" { TEXT "It's been stolen, I tell you! There is a thief about!" }
-	SUB	"op1roth1" { TEXT "(Sighs) I'm worried. Strange things are afoot." }
-	SUB	"op1runa1" { TEXT "Guards, there's an intruder here!" }
-	SUB	"op1runa2" { TEXT "He's armed! Somebody get him!" }
-	SUB	"op1runa3" { TEXT "Guards! Thief! Don't let him get away!" }
-	SUB	"op1runa4" { TEXT "Thief! Stop him!" }
-	SUB	"op1runa5" { TEXT "I thought I spied an over-zealous fan.... Or worse!" }
-	SUB	"op1sec_1" { TEXT "Help! Thieves!" }
-	SUB	"op1sma_1" { TEXT "Hmm.... Odd." }
-	SUB	"op1telc1" { TEXT "I've found him! Get him!" }
-	SUB	"op1telc2" { TEXT "Guards! He's over here!" } 
+	TYPE "bark"
+	DESCR "Zpìvák"
+	SUB "op1a0si5" { TEXT "Treska tleskla Terce, tafer tleskl tresce.! Treska tleskla.. Uf! Nemoné!" }
+	SUB "op1a1__1" { TEXT "Je tam nìkdo?" }
+	SUB "op1a1__2" { TEXT "Kdo je to?" }
+	SUB "op1a1__3" { TEXT "Co se dìje?" }
+	SUB "op1a1__4" { TEXT "Ha?" }
+	SUB "op1a1h_1" { TEXT "Kdo udìlal ten zvuk?" }
+	SUB "op1a1v_1" { TEXT "Hmm... myslela jsem, e nìco vidím." }
+	SUB "op1a2__1" { TEXT "Co to bylo?" }
+	SUB "op1a2__2" { TEXT "Kdo je tam?" }
+	SUB "op1a3b_1" { TEXT "Aaah! Vrah! Stráe!" }
+	SUB "op1a3s_1" { TEXT "Kdo jsi?!" }
+	SUB "op1a3s_2" { TEXT "Vidím pøed sebou zlodìje? Stráe!" }
+	SUB "op1a3s_3" { TEXT "Stráe!" }
+	SUB "op1alma1" { TEXT "Poplach! Pospìšte si!" }
+	SUB "op1bak_1" { TEXT "Hmm, zaèínám blouznit. Mìla bych si odpoèinout." }
+	SUB "op1bak_2" { TEXT "Hmm. To musí bıt krysy. Jak odporné!" }
+	SUB "op1bak_3" { TEXT "Hmm.... Hádám, e to nic nebylo." }
+	SUB "op1bak_4" { TEXT "Uf! Tyhle staré budovy dìlají moc rámusu!" }
+	SUB "op1bod_1" { TEXT "Tìlo! Pomoc! Pomoc!" }
+	SUB "op1bod_2" { TEXT "Stráe! Tady je mrtvı èlovìk!" }
+	SUB "op1hlow1" { TEXT "Uf! Pomozte mi!" }
+	SUB "op1lar_1" { TEXT "Co to má znamenat? Stráe!" }
+	SUB "op1mis_1" { TEXT "Hej! Nìkdo to musel ukrást! Stráe!" }
+	SUB "op1rbod1" { TEXT "Vidìla jsem ho tam leet, mrtvı jako paøez!" }
+	SUB "op1rint1" { TEXT "Vidìla jsem vetøelce! Odcházím odsud." }
+	SUB "op1rint2" { TEXT "Vidìla jsem ho! Zlodìj! Vidìl jsem ho!" }
+	SUB "op1rmis1" { TEXT "Øíkám vám, e to ukradli! Je tu zlodìj!" }
+	SUB "op1roth1" { TEXT "Mám strach. Dìjí se tu divné vìci." }
+	SUB "op1runa1" { TEXT "Stráe, je tu vetøelec!" }
+	SUB "op1runa2" { TEXT "Je ozbrojenı! Chyte ho nìkdo!" }
+	SUB "op1runa3" { TEXT "Stráe! Zlodìj! Nenechte ho utéct!" }
+	SUB "op1runa4" { TEXT "Zlodìj! Zastavte ho!" }
+	SUB "op1runa5" { TEXT "Myslela jsem, e jsem zahlédla pøíliš horlivého fanouška.... Nebo nìco horšího!" }
+	SUB "op1sec_1" { TEXT "Pomoc! Zlodìji!" }
+	SUB "op1sma_1" { TEXT "Hmm... Zvláštní." }
+	SUB "op1telc1" { TEXT "Našla jsem ho! Chyte ho!" }
+	SUB "op1telc2" { TEXT "Stráe! Tady je!" } 
 }

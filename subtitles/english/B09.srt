@@ -1,64 +1,51 @@
 1
 00:00:07,800 --> 00:00:14,100
-The knowledge of those who came before could neither be disseminated or destroyed. 
+Znalosti tìch, co pøišli pøed námi, nebylo možné ani šíøit, ani znièit. 
 
 2
 00:00:14,701 --> 00:00:20,201
-Its power would be a dangerous tool in the wrong hands, 
+Ta moc by byla v nesprávných rukou nebezpeèným nástrojem, 
 
 3
 00:00:20,802 --> 00:00:25,402
-but would also insure against future cataclysm. 
+ale také by chránila proti budoucímu kataklyzmatu. 
 
 4
 00:00:26,103 --> 00:00:33,303
-At that time we chose to maintain it with writings preserved in extant locations.
+V oné dobì jsme se rozhodli udržovat ji v písemnostech dochovaných na souèasných místech.
 
 5
 00:00:33,704 --> 00:00:35,704
--- Keeper Annals
+-- Kroniky Strážcù
 
 6
-00:00:37,005 --> 00:00:40,405
-The Keepers have hidden the Talisman of Fire  
-
-7
-00:00:40,406 --> 00:00:43,106
-in a place they call "The Lost City".
+00:00:37,005 --> 00:00:43,106
+Strážci ukryli Talisman ohnì na místì, kterému øíkají "Ztracené mìsto".
 
 8
 00:00:43,507 --> 00:00:47,107
-Some kind of cataclysm buried the place underground ages ago.
+Nìjaké kataklyzma pohøbilo toto místo pod zem pøed dávnými vìky.
 
 9
-00:00:47,808 --> 00:00:50,408
-The Keepers have sealed the access to the city,
-
-10
-00:00:50,509 --> 00:00:53,509
-a cleft in the river bottom near the east side.
+00:00:47,808 --> 00:00:53,509
+Strážci zapeèetili pøístup do mìsta, puklinu na dnì øeky poblíž východní strany.
 
 11
-00:00:53,710 --> 00:00:56,110
-If the materials in the library are right,
-
-12
-00:00:56,211 --> 00:01:00,111
-the strange stone I found can be used to open that seal.
+00:00:53,710 --> 00:01:00,111 
+Pokud se materiály v knihovnì nemýlí, mùžu použít ten zvláštní kámen, co jsem našel, k otevøení peèeti.
 
 13
 00:01:01,212 --> 00:01:03,212
-I've also got a map,
+Také mám mapu...
 
 14
 00:01:03,613 --> 00:01:06,413
-it's so old the edges crumble in my hands.
+Je tak stará, že se mi okraje drolí v rukou.
 
 15
 00:01:07,114 --> 00:01:11,014
-It shows the city, or at least how it was back then.
+Zobrazuje mìsto, nebo spíš jak vypadalo tehdy.
 
 16
 00:01:12,015 --> 00:01:14,815
-I hope the old place hasn't changed much.
-
+Doufám, že se to staré místo moc nezmìnilo.

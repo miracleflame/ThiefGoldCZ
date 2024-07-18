@@ -1,100 +1,63 @@
 1
 00:00:07,800 --> 00:00:14,400
-Having pledged our honour as shield over Air, we must be mindful. 
+Vázáni èestným slibem jako strážci Vzduchu, musíme být bdìlí. 
 
 2
-00:00:15,102 --> 00:00:19,402
-Let it be locked away and safe, but ever in view of the faithful. 
+00:00:15,102 --> 00:00:25,404
+Nech je uzamèen v bezpeèí, avšak vždy vìøícím na oèích. 
 
 3
-00:00:20,103 --> 00:00:22,703
-Future generations are hostage to our care.
+00:00:26,103 --> 00:00:33,703
+Budoucí generace jsou rukojmími naší péèe.
 
 4
-00:00:23,504 --> 00:00:25,404
--- Hammerite Sermon of the Talisman
+00:00:33,704 --> 00:00:37,404
+-- Kladiváøské kázání o Talismanu
 
 5
-00:00:27,705 --> 00:00:30,805
-Getting the Talisman of Air will be an interesting challenge,
-
-6
-00:00:31,506 --> 00:00:34,906
-but I'll need it if I want to get "The Eye" for Constantine.
+00:00:42,505 --> 00:00:48,806
+Získání Talismanu Vzduchu bude tvrdý oøíšek, ale pokud chci získat "Oko" pro Constantina, budu ho potøebovat.
 
 7
-00:00:35,107 --> 00:00:38,307
-It's well hidden inside the city's Hammer Temple,
+00:00:49,007 --> 00:00:51,307
+Je dobøe ukrytý uvnitø mìstského chrámu Kladiva,
 
 8
-00:00:38,408 --> 00:00:40,708
-so I'll have to do some scouting around. 
+00:00:51,408 --> 00:00:54,008
+takže to tam budu muset trochu obhlédnout. 
 
 9
-00:00:42,409 --> 00:00:44,809
-Problem is the place is fully active,
-
-10
-00:00:44,810 --> 00:00:46,210
-day and night,
+00:00:55,009 --> 00:00:58,210
+Problém je, že to místo je neustále èinné, ve dne i v noci,
 
 11
-00:00:46,311 --> 00:00:49,311
-not even I could stay undetected for very long.
+00:00:58,311 --> 00:01:01,311
+Ani já jsem nemohu zùstat neodhalen pøíliš dlouho.
 
 12
-00:00:50,612 --> 00:00:52,812
-Well they say that the best place to hide a letter
-
-13
-00:00:52,813 --> 00:00:54,613
-is on the mantlepiece.
+00:01:02,612 --> 00:01:06,413
+Øíká se, že nejvìtší tma je pod lampou.
 
 14
-00:00:54,914 --> 00:00:57,814
-With that in mind I'll be going in by the front door,
-
-15
-00:00:58,015 --> 00:01:00,315
-dressed as a Hammerite Novice.
+00:01:06,914 --> 00:01:12,315
+S tímto vìdomím pùjdu dovnitø hlavními dveømi, obleèený jako novic Kladiváøù.
 
 16
-00:01:00,916 --> 00:01:03,816
-That should be perfect since Novices aren't allowed to speak
-
-17
-00:01:03,817 --> 00:01:06,017
-while on the Temple grounds..
+00:01:12,316 --> 00:01:18,017
+To by mìlo být perfektní, protože nováèci nesmìjí mluvit, dokud se nacházejí na území chrámu.
 
 18
-00:01:07,118 --> 00:01:09,318
-My contacts can get me a Novice's pass
-
-19
-00:01:09,319 --> 00:01:11,019
-o get me through the gate.
+00:01:18,618 --> 00:01:23,019
+Moje kontakty mi mohou zajistit prùkaz novicù, abych se dostal pøes bránu.
 
 20
-00:01:11,020 --> 00:01:13,720
-Once inside I'll be free to take my time,
-
-21
-00:01:13,721 --> 00:01:17,821
-explore the place thoroughly, and find the Talisman,
+00:01:23,020 --> 00:01:29,821
+Jakmile budu uvnitø, budu si moci dát na èas, dùkladnì to tam prozkoumat a najít Talisman...
 
 22
-00:01:18,922 --> 00:01:21,122
-as long as I don't do anything violent,
-
-23
-00:01:21,123 --> 00:01:24,023
-or get caught somewhere I shouldn't be.
+00:01:29,922 --> 00:01:36,023
+...tedy pokud neudìlám nic násilného a nenechám se chytit nìkde, kde bych nemìl být.
 
 24
-00:01:24,624 --> 00:01:26,424
-Because as the new arrival
-
-25
-00:01:26,425 --> 00:01:30,025
-I'll be the first person they suspect if anything goes wrong.
-
+00:01:36,124 --> 00:01:42,025
+Protože jako novì pøíchozí budu první podezøelý, pokud se nìco zvrtne.

@@ -1,80 +1,51 @@
 1
 00:00:03,900 --> 00:00:06,000
-Blindness is the manfools 
+Slepotou jsou èlobrdi
 
 2
 00:00:07,001 --> 00:00:12,401
-theys gathers up treasures and greeders themselves on gold rocks and fetters
+Hromadí poklady a chamtiví se na zlatých kamenech a okovech
 
 3
 00:00:13,702 --> 00:00:17,202
-The Woodsie One wreaks thems with lilacs and nettles  
+Lesích Pán na nì uvrhne šeøíky a kopøivy
 
 4
 00:00:18,203 --> 00:00:20,803
-and gathers theys bones for His porridge and feathers.
+a posbírá jejich kosti na svou kaši a opeøení.
 
 5
 00:00:21,104 --> 00:00:22,704
--- Text Unattributed, Sumac on Parchment
+-- Nezaøazený text na pergamenu
 
 6
-00:00:23,305 --> 00:00:25,505
-The Keepers stashed the Talisman of Water 
-
-7
-00:00:25,506 --> 00:00:29,106
-in a series of hidden caverns located deep below the city. 
+00:00:23,305 --> 00:00:29,106
+Strážci ukryli Talisman vody v sérii skrytých jeskyní hluboko pod mìstem. 
 
 8
-00:00:29,907 --> 00:00:32,507
-According to their map I'll find it in a shrine
-
-9
-00:00:32,508 --> 00:00:34,508
-located in the lowest cavern.
+00:00:29,907 --> 00:00:34,508
+Podle jejich mapy jej najdu ve svatyni, která se nachází v nejnižší jeskyni.
 
 10
-00:00:35,109 --> 00:00:37,509
-I don't expect to run into anything too threatening
-
-11
-00:00:37,510 --> 00:00:39,610
-other than a few venemous spiders,
+00:00:35,109 --> 00:00:39,610
+Neoèekávám, že bych narazil na nìco pøíliš hrozivého kromì nìkolika jedovatých pavoukù...
 
 12
 00:00:40,100 --> 00:00:42,600
-however the map does contain this note:
+...mapa však obsahuje tuto poznámku:
 
 13
-00:00:43,201 --> 00:00:46,201
-"Stand not against us, lest you feel
-
-14
-00:00:46,202 --> 00:00:49,002
-the sting of ignorance's barbs."
+00:00:43,201 --> 00:00:49,002
+"Nestavte se proti nám, jinak pocítite osten nevìdomosti."
 
 15
 00:00:49,203 --> 00:00:53,203
-Heh...sounds like Keeper talk for "We've rigged the place".
+Heh... zní to jako od Strážcù, jinak øeèeno 'Máme tu plno pastí'.
 
 16
-00:00:54,904 --> 00:00:59,014
-An informant of mine, Giry, made a home for himself in these caverns
-
-17
-00:00:59,015 --> 00:01:01,415
-after he lost his job tending the ticket counter
-
-18
-00:01:01,416 --> 00:01:03,416
-of a nearby opera house.
+00:00:54,904 --> 00:01:03,416
+Mùj informátor Giry si v tìchto jeskyních udìlal domov poté, co pøišel o práci u pokladny v nedalekém Domì Opery.
 
 19
-00:01:04,317 --> 00:01:06,417
-He should know these caverns better than anyone,
-
-20
-00:01:06,418 --> 00:01:10,618
-so I'll pay him a visit, to see if he has any useful information for me.
-
+00:01:04,317 --> 00:01:10,618
+Mìl by tyhle jeskynì znát lépe než kdokoli jiný, tak ho navštívím, jestli pro mì nemá nìjaké užiteèné informace.

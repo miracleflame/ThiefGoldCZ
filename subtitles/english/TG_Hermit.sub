@@ -1,41 +1,39 @@
 SUB1
 
 {
-	TYPE	"convo"
-	DESCR	"Hermit"
-	SUB	"hmt12100" { TEXT "I know a way into the opera house! Must be as quiet as a wee little mouse." }
-	SUB	"hmt12101" { TEXT "Oh Lady Valerius, cruel and carnivorous, do you think you have beaten me?" }
-	SUB	"hmt12102" { TEXT "Take a left at the sewer. Go the right: might look newer. Take a left at the sewer and you're in! Yes, you're in!" }
-	SUB	"hmt12103" { TEXT "La la la-la loo! Haha haha, hooo!" }
-	SUB	"hmt12104" { TEXT "Oh, cruelest Lady! You can take the treasure from the old Keeper's shrine, but evil, evil Lady, why, oh why did you take everything that was mine?" }
-	SUB	"hmt12201" { TEXT "I spy you little fish! Oh no, it's a big fish, rather. Are you here to sing too? We'll reenact the memorable scene between Raoul and Valerius at the bridge. I'll begin! The city at night: Raoul, the handsome young opera house owner, sings to the Lady Valerius, 'I, Raoul, do accuse you of using treachery to obtain your wealth!'" }
-	SUB	"hmt12202" { TEXT "Then Lady Valerius sings, 'I, Lady Valerius, have obtained the opera house, yes! Right from under your nose; you must kiss the ground underneath my toes!' But I go back! Stealing food and such, as I need. They may come down, looking for spiders....but they found the treasure from the shrine instead!" }
-	SUB	"hmt12203" { TEXT "Now she has that too! I've seen her with it. It has powers! You...you could steal it from her! Yes! That would make her sad! Let's see...what would she sing?" }
-	SUB	"hmt12204" { TEXT "Ahh! I know! Lady Valerius weeping in her chamber... sings, 'I, Lady Valerius, am so so sad! Where has the treasure gone, that once made me glad?'" }
-	SUB	"hmt12205" { TEXT "You need a map? Raoul has a map. You need a key? You can get that, too, from me. Remember, 'A left at the sewer! Go the right: might look newer.' That's the secret of the way in. Now go, go, go! Up, up the rope you go, why do you move so slow? Let us reenact the memorable scene again between Raoul and Valerius at the bridge. I'll begin! (Hums)" }
-	SUB	"hmta0si2" { TEXT "(Singing) A British tar is a soaring--(muttering) m-m-hm what? A brid--a soaring bird...a soaring...fish? I-I can't remember. Mm...oh dear." }
-	SUB	"hmta0si3" { TEXT "(Singing) Oh yes, that's good isn't it? Huugh..." }
-	SUB	"hmta0sl1" { TEXT "I am telling a terrible story, but it doesn't diminish my glory, for they would've taken my daughters over the government and the rest of the world.... Has been so long now, but I had such glory, such fame...." }
+	TYPE "convo"
+	DESCR "Poustevník"
+	SUB "hmt12100" { TEXT "Znám cestu do Domu Opery! Hlavne potichu jako malá myška." }
+	SUB "hmt12101" { TEXT "Ach, paní Valerie, krutá a masožravá, myslíš si, že jsi mì porazila?" }
+	SUB "hmt12102" { TEXT "Zahni doleva u kanálu. Doprava se naprav do normálu. Zahni doleva u kanálu a jsi uvnitø! Ano, jsi uvnitø!" }
+	SUB "hmt12104" { TEXT "Ach, nejkrutìjší paní! Mùžeš si vzít poklad ze svatynì starého Strážce, ale zlá, zlá paní, proè, ach proè jsi mi vzala všechno, co bylo mé?" }
+	SUB "hmt12201" { TEXT "Vidím tì, rybko! Ale ne, tohle je spíš velká ryba. Pøišla jsi si také zazpívat? Zopakujeme si památnou scénu mezi Raoulem a Valerií na mostì. Já zaènu! Noèní mìsto: Raoul, pohledný mladý majitel Domu Opery, zpívá paní Valerii: 'Já, Raoul, tì obviòuji ze zrady, kterou získalas své bohatství!'" }
+	SUB "hmt12202" { TEXT "Pak paní Valerie zpívá: 'Já, paní Valerie, jsem získala Dùm Opery, ano! Pøímo pøed tvým nosem; musíš líbat zem pod mýma nohama!'. Ale já se vrátím! Kradu jídlo a tak, jak potøebuji. Možná sestupují dolù, hledají pavouky....ale místo toho našli poklad ze svatynì!" }
+	SUB "hmt12203" { TEXT "Teï už ho má taky! Vidìl jsem ji s ním. Má to moc! Ty... ty bys jí ho mohl ukrást! Ano! To by ji rozesmutnilo! Podívejme se... co by zpívala?" }
+	SUB "hmt12204" { TEXT "Á! Já vím! Paní Valerie pláèe ve své komnatì... zpívá: 'Já, paní Valerie, jsem tak smutná! Kam zmizel poklad, který mì kdysi tìšil?'" }
+	SUB "hmt12205" { TEXT "Potøebuješ mapu? Raoul má mapu. Potøebuješ klíè? I ten mùžeš dostat ode mì. Nezapomeò: 'Zahni doleva u kanálu. Doprava se naprav do normálu. To je tajemství cesty dovnitø. A teï bìž, bìž, bìž! Nahoru, nahoru po lanì lez, proè tak pomalu jdeš? Zopakujme si znovu památnou scénu mezi Raoulem a Valerií na mostì. Já zaènu!" }
+	SUB "hmta0si2" { TEXT "Britský dehet stoupá... M-m-hm co? jako pták... stoupá jako... ryba? Já-já si nemùžu vzpomenout. Mm... ach bože." }
+	SUB "hmta0si3" { TEXT "Ach ano, to je dobré, není?" }
+	SUB "hmta0si1" { TEXT "Vyprávím strašný pøíbìh, ale to mi neubírá na slávì, protože by mé dcery vzali pøes vládu a zbytek svìta.... Už je to tak dávno, ale mìl jsem takovou slávu, takovou slávu...." }
 }
 {
-	TYPE	"bark"
-	DESCR	"Hermit"
-	SUB	"hmta1__1" { TEXT "Huh?" }
+	TYPE "bark"
+	DESCR "Poustevník"
+	SUB "hmta1__1" { TEXT "Ha?" }
 }
 {
-	TYPE	"convo"
-	DESCR	"Hermit"
-	SUB	"hmta12101" { TEXT "Oh Lady Valerius, cruel and carnivorous, do you think you have beaten me?" }
-	SUB	"hmta12102" { TEXT "Take a left at the sewer. Go the right: might look newer. Take a left at the sewer and you're in! Yes, you're in!" }
-	SUB	"hmta12103" { TEXT "La la lala loo! Haha haha, hooo!" }
-	SUB	"hmta12104" { TEXT "Oh, cruelest Lady! You can take the treasure from the old Keeper's shrine, but evil, evil Lady, why, oh why did you take everything that was mine?" }
+	TYPE "convo"
+	DESCR "Poustevník"
+	SUB "hmta12101" { TEXT "Ach, paní Valerie, krutá a masožravá, myslíš, že jsi mì porazila?" }
+	SUB "hmta12102" { TEXT "Zahni doleva u kanálu. Doprava se naprav do normálu. Zahni doleva u kanálu a jsi uvnitø! Ano, jsi uvnitø!" }
+	SUB "hmta12104" { TEXT "Oh, nejkrutìjší paní! Mùžeš si vzít poklad ze svatynì starého Strážce, ale zlá, zlá Paní, proè, ach proè jsi vzala všechno, co bylo mé?" }
 }
 {
-	TYPE	"bark"
-	DESCR	"Hermit"
-	SUB	"hmta1h_1" { TEXT "Noise...noise?" }
-	SUB	"hmta1v_1" { TEXT "Hmm.... Do mine eyes deceive?" }
-	SUB	"hmta2__1" { TEXT "Who is there?" }
-	SUB	"hmta3__1" { TEXT "Don't...hurt me...please!" }
-	SUB	"hmtbak_1" { TEXT "Oh!" } 
+	TYPE "bark"
+	DESCR "Poustevník"
+	SUB "hmta1h_1" { TEXT "Zvuk...hluk?" }
+	SUB "hmta1v_1" { TEXT "Hmm... Klamou mì oèi?" }
+	SUB "hmta2__1" { TEXT "Kdo je tam?" }
+	SUB "hmta3__1" { TEXT "Ne...ubližujte mi...prosím!" }
+	SUB "hmtbak_1" { TEXT "Ou!" } 
 }

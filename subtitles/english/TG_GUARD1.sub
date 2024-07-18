@@ -78,7 +78,7 @@ SUB1
 	SUB "sg1a3se1" { TEXT "Vylez a bojuj se mnou!" }
 	SUB "sg1a3se2" { TEXT "Jakmile tÏ najdu, jsi mrtv˝!" }
 	SUB "sg1a3se3" { TEXT "Vraù se sem, ty tafre!" }
-	SUB "sg1a3se4" { TEXT "Najdu tÏ... Aaaah, zatracenÏ!" }
+	SUB "sg1a3se4" { TEXT "Najdu tÏ... zatracenÏ!" }
 	SUB "sg1alma1" { TEXT "Do zbranÏ, vöichni!" }
 	SUB "sg1alma2" { TEXT "Spusùte poplach!" }
 	SUB "sg1alma3" { TEXT "Poplach!" }

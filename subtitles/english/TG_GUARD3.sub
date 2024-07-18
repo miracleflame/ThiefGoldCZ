@@ -7,7 +7,7 @@ SUB1
 	SUB "SG306200" { TEXT "Tyhle tlakové dveøe, to je zatracená nuance. Musíš se ubírat z cesty, abys našel tu staføenou páku." }
 	SUB "SG306202" { TEXT "Kdo by se sem vloupal? Jediná akce nastane, když se nìkdo pokusí sklouznout ze støechy." }
 	SUB "SG306204" { TEXT "Hej, to je pravda. Bylo by fajn pro zmìnu vymlátit pár kebulí!" }
-	SUB "SG306401" { TEXT "Jo, ale když se perou, tak taky nesešermujou vázou. Ta váza prostì zùstane zavøená v doupìti lorda Donala." }
+	SUB "SG306401" { TEXT "Jo, ale když se hádají, tak taky neprodají tu vázu. Ta prostì zùstane zavøená v doupìti lorda Donala." }
 	SUB "SG306403" { TEXT "Ani mi to není nic platné. Ta safírová váza má vìtší cenu než celý zbytek Randallovho lupu. Nevstoupil jsem do Povìtøí, abych pracoval zadarmo. Chci svùj podíl!" }
 	SUB "SG310100" { TEXT "Proè ale smìjí dovnitø jen mágové? Proè nás nechtìjí pustit do svých vìží?" }
 	SUB "SG310102" { TEXT "Ale co s tím vším utajováním? Ani služebnictvo tam nesmí. Vìøí ti èarodìjové nìkomu?" }

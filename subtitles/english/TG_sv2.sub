@@ -2,21 +2,21 @@ SUB1
 
 {
 	TYPE "convo"
-	DESCR "Služebník"
-	SUB "sv206301" { TEXT "Ach, jak jsem hloupý, samozøejmì, že chceš zabodovat na dvacítce! Dvacet osm? Ó, prohrál jsi. Paneèku, jaká je pravdìpodobnost, že se to stane?" }
+	DESCR "Služebnice"
+	SUB "sv206301" { TEXT "Ach, jak jsem hloupá, samozøejmì, že chceš zabodovat na dvacítce! Dvacet osm? Ó, prohrál jsi. Paneèku, jaká je pravdìpodobnost, že se to stane?" }
 	SUB "sv206303" { TEXT "Samozøejmì. Tímhle tempem vyhraju všechny tvoje dýška za veèer!" }
 	SUB "sv206305" { TEXT "Hmm? To jsem nepochopil." }
 }
 {
 	TYPE "bark"
-	DESCR "Služebník"
+	DESCR "Služebnice"
 	SUB "sv2a1__1" { TEXT "Ha?" }
 	SUB "sv2a1__2" { TEXT "Je tam nìkdo?" }
 	SUB "sv2a1__3" { TEXT "Jsi to ty, Kevele?" }
 	SUB "sv2a1__4" { TEXT "Co je to?" }
 	SUB "sv2a1h_1" { TEXT "Eee! Co je to za zvuk?" }
 	SUB "sv2a1h_2" { TEXT "Kdo je tam? Øíkal jsi nìco?" }
-	SUB "sv2a1v_1" { TEXT "Kdo to tam byl? Nìco jsem vidìl." }
+	SUB "sv2a1v_1" { TEXT "Kdo to tam byl? Nìco jsem vidìla." }
 	SUB "sv2a1v_2" { TEXT "Aaah! Kdo... Je tam nìkdo?" }
 	SUB "sv2a2__1" { TEXT "Tohle se mi nelíbí." }
 	SUB "sv2a2__2" { TEXT "Pøestaò se se mnou taføit." }
@@ -31,7 +31,7 @@ SUB1
 	SUB "sv2bak_1" { TEXT "No dobøe.... Pøíliš mnoho pøedstav." }
 	SUB "sv2bak_2" { TEXT "Nevím, co to bylo." }
 	SUB "sv2bak_3" { TEXT "Kdo ví, co to bylo." }
-	SUB "sv2bak_4" { TEXT "Jsem rád, že to nic nebylo." }
+	SUB "sv2bak_4" { TEXT "Jsem ráda, že to nic nebylo." }
 	SUB "sv2bak_5" { TEXT "No jo.... Promiò... asi to nic nebylo." }
 	SUB "sv2bak_6" { TEXT "Nevím, co to bylo.... Už je to pryè." }
 	SUB "sv2bak_7" { TEXT "Pardon...teï už tu nic není." }
@@ -42,7 +42,7 @@ SUB1
 }
 {
 	TYPE "convo"
-	DESCR "Služebník"
+	DESCR "Služebnice"
 	SUB "sv2c0102" { TEXT "Užij si to, dokud to jde, pøíteli. 'Jeho Tlustost' se brzy vrátí, aby nám zase znepøíjemnila život." }
 	SUB "sv2c0104" { TEXT "Zase dole ve sklepì poèítá svou koøist. Doufám, že tam zùstane celou noc." }
 	SUB "sv2c0201" { TEXT "Pøísahám, že takhle nízko jsem hladinu øeky ještì nevidìla." }
@@ -50,7 +50,7 @@ SUB1
 	SUB "sv2c0302" { TEXT "Ta drzost!" }
 	SUB "sv2c0304" { TEXT "Pøesnì tak!" }
 	SUB "sv2c0401" { TEXT "Kuchaø øíká, že na nìj pán køièí, že veèeøe nejsou dost nóbl." }
-	SUB "sv2c0403" { TEXT "Pøesnì tak! Pán si prostì myslí, že by všechno mìlo být zase jako za mastných let, a o nièem jiném nechce ani slyšet." }
+	SUB "sv2c0403" { TEXT "Pøesnì tak! Pán si prostì myslí, že by všechno mìlo být zase jako za tuèných let, a o nièem jiném nechce ani slyšet." }
 	SUB "sv2c0502" { TEXT "Tak to bys ji mìl co nejdøív vytrhnout. Pánovi se nebude líbit, když se kolem bude povalovat spousta hnìdých rostlin." }
 	SUB "sv2c0504" { TEXT "Nemùže to trvat vìènì. A jestli ano, Pán se pøestìhuje do Cyriky a bude po všem." }
 	SUB "sv2c0601" { TEXT "Pamatuješ, jak jsi øíkal, že se Baron nikdy neožení?" }
@@ -78,7 +78,7 @@ SUB1
 }
 {
 	TYP "bark "
-	DESCR "Služebník"
+	DESCR "Služebnice"
 	SUB "sv2hlow1" { TEXT "Prosím, ne! Pomoc!" }
 	SUB "sv2lar_1" { TEXT "Aah! Podívejte se na tohle! Pomoc!" }
 	SUB "sv2lar_2" { TEXT "Ale ne, kdo to udìlal? Pomoc! Pomoc!" }
@@ -95,7 +95,7 @@ SUB1
 	SUB "sv2rmis1" { TEXT "Tady nìkde je zlodìj. Ztratily se všechny možné vìci!" }
 	SUB "sv2rmis2" { TEXT "Nìkdo vzal žezlo!" }
 	SUB "sv2roth1" { TEXT "Nìkdo nìco hledá a my za to dostaneme taf!" }
-	SUB "sv2roth2" { TEXT "Celá místnost byla zdemolována! Nevidìli jste nìkoho?" }
+	SUB "sv2roth2" { TEXT "Celá místnost byla vybílená! Nevidìl jsi nìkoho?" }
 	SUB "sv2run_1" { TEXT "Pomoc! Zlodìj! Zlodìj!" }
 	SUB "sv2run_2" { TEXT "Je pøímo tady! Pomoc!" }
 	SUB "sv2run_3" { TEXT "Vidím ho! Pomoc! Tady!" }

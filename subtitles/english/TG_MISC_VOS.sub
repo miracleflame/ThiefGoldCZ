@@ -12,7 +12,7 @@ SUB "Renthank" { TEXT "Nevím, kdo jsi, ale tvou rukou mohu koneènì opustit tuto 
 	TYPE "convo"
 	DESCR "Socha"
 SUB "statuema" { TEXT "Zrada tì donutí vidìt, Garrette." }
-SUB "statuema" { TEXT "Chamtivost bude tvou zkázou, ubohý Garrette." }
+SUB "statueme" { TEXT "Chamtivost bude tvou zkázou, ubohý Garrette." }
 SUB "statuemf" { TEXT "Podvod je tvá síla, Garrette." }
 SUB "statuemw" { TEXT "Nedovol, aby tvou cestu ovládal strach, Garrette." } 
 } 

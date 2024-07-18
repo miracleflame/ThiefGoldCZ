@@ -1,151 +1,151 @@
 SUB1
 
 {
-	TYPE	"bark"
-	DESCR	"Ape beast"
-	SUB	"ab1a1__1" { TEXT "Whatsie that?" }
-	SUB	"ab1a1__4" { TEXT "Besie something?" }
-	SUB	"ab1a1__6" { TEXT "What there?" }
-	SUB	"ab1a1_w1" { TEXT "Hey! Whatsie that, you?" }
-	SUB	"ab1a1_w2" { TEXT "Something moves!" }
-	SUB	"ab1a1h_1" { TEXT "Hearsie that?" }
-	SUB	"ab1a1h_2" { TEXT "Huggh? Odd noise." }
-	SUB	"ab1a1hw1" { TEXT "Hears you that?" }
-	SUB	"ab1a1hw2" { TEXT "Did you hear that?" }
-	SUB	"ab1a1hw3" { TEXT "Hush hush! Hears you the noise?" }
-	SUB	"ab1a1hw4" { TEXT "Hear something?" }
-	SUB	"ab1a1hw5" { TEXT "Hears that too?" }
-	SUB	"ab1a1v_1" { TEXT "Eye's be trickster!" }
-	SUB	"ab1a1v_2" { TEXT "What sees?" }
-	SUB	"ab1a1vw1" { TEXT "You sees something?" }
-	SUB	"ab1a1vw2" { TEXT "Hey! Sees someone over there?" }
-	SUB	"ab1a1vw3" { TEXT "You looksie that too?" }
-	SUB	"ab1a1vw4" { TEXT "Over there! Something moved!" }
-	SUB	"ab1a2__1" { TEXT "Hhhgh.... Knowing you're there now." }
-	SUB	"ab1a2__2" { TEXT "Keep hiding.... I'll still find you!" }
-	SUB	"ab1a2__3" { TEXT "Hhhgh! What's that now?" }
-	SUB	"ab1a2__4" { TEXT "Who's creepsie around there?" }
-	SUB	"ab1a2__5" { TEXT "Hey, come out at once!" }
-	SUB	"ab1a2__6" { TEXT "Who's there? Over there!" }
-	SUB	"ab1a2h_1" { TEXT "Heard that! Heh heh, come out now!" }
-	SUB	"ab1a2h_2" { TEXT "Come out, noisy taffer!" }
-	SUB	"ab1a2v_1" { TEXT "See you now! Come out!" }
-	SUB	"ab1a2v_2" { TEXT "Who's that there I spy?" }
-	SUB	"ab1a3b_1" { TEXT "You'll slay him? Now I slay you!" }
-	SUB	"ab1a3na1" { TEXT "Halt, thief!" }
-	SUB	"ab1a3na2" { TEXT "Hhhgggh! Got you now!" }
-	SUB	"ab1a3na3" { TEXT "Hah! Found you!" }
-	SUB	"ab1a3na4" { TEXT "You there! Hold you!" }
-	SUB	"ab1a3na5" { TEXT "Showsied your face, did you?" }
-	SUB	"ab1a3na6" { TEXT "Hgghh! Where's your shadows now, manflesh!" }
-	SUB	"ab1a3s_1" { TEXT "Aaah! Whosie you here?" }
-	SUB	"ab1a3s_2" { TEXT "Hey! Hgggh!" }
-	SUB	"ab1a3s_3" { TEXT "Yaa! Hold you!" }
-	SUB	"ab1a3s_4" { TEXT "Hah! Halt!" }
-	SUB	"ab1a3s_5" { TEXT "Hey, who're you?" }
-	SUB	"ab1alma1" { TEXT "Ringsie the alarm!" }
-	SUB	"ab1alma2" { TEXT "For the alarm, I...!" }
-	SUB	"ab1alma3" { TEXT "Alarm for you! Sound your death!" }
-	SUB	"ab1almw1" { TEXT "Soundsie you the alarming!" }
-	SUB	"ab1amb_1" { TEXT "Fight me, sneaksie coward!" }
-	SUB	"ab1amb_2" { TEXT "Aaagh! You shadow-lurksie taffer!" }
-	SUB	"ab1amb_3" { TEXT "Come spills your blood for me, coward!" }
-	SUB	"ab1amb_4" { TEXT "Aaagh! Comes out and fights!" }
-	SUB	"ab1ambw1" { TEXT "Aaagh! A lurksie assassin hit me!" }
-	SUB	"ab1ambw2" { TEXT "We are ambushed!" }
-	SUB	"ab1ambw3" { TEXT "A man-flesh coward snipes me!" }
-	SUB	"ab1atw_1" { TEXT "Die you sneaksie!" }
-	SUB	"ab1atw_2" { TEXT "For the Woodsie!" }
-	SUB	"ab1atww1" { TEXT "We takes him!" }
-	SUB	"ab1bak_1" { TEXT "Hmm.... Nobodies now." }
-	SUB	"ab1bak_2" { TEXT "Seemsie nothing." }
-	SUB	"ab1bak_3" { TEXT "Must a' been nothing." }
-	SUB	"ab1bak_4" { TEXT "Creepsie gone now." }
-	SUB	"ab1bak_5" { TEXT "Dark and quiet. Nothing." }
-	SUB	"ab1bak_6" { TEXT "All gones now." }
-	SUB	"ab1bak_7" { TEXT "Nothing now." }
-	SUB	"ab1bak_8" { TEXT "Probably nothing. Always nothing." }
-	SUB	"ab1bkd_1" { TEXT "Next time you'll bleed!" }
-	SUB	"ab1bkd_2" { TEXT "The manflesh is quick." }
-	SUB	"ab1bkd_3" { TEXT "Your bloods will flow yet!" }
-	SUB	"ab1bkdw1" { TEXT "He's quick, the manflesh!" }
-	SUB	"ab1blk_1" { TEXT "Hah! Missed me!" }
-	SUB	"ab1blk_2" { TEXT "Manflesh's arm is weak!" }
-	SUB	"ab1blk_3" { TEXT "Might as well fight a little mouse!" }
-	SUB	"ab1blk_4" { TEXT "You fails!" }
-	SUB	"ab1blkw1" { TEXT "He's not hurting us!" }
-	SUB	"ab1bod_2" { TEXT "Haaggh! Our blood 'e spills!" }
-	SUB	"ab1chga3" { TEXT "Fun for me now!" }
-	SUB	"ab1chgw1" { TEXT "After hims!" }
-	SUB	"ab1chgw2" { TEXT "Help rend the manfleshes!" }
-	SUB	"ab1chgw3" { TEXT "On him!" }
-	SUB	"ab1chgw4" { TEXT "Helps me get the human!" }
-	SUB	"ab1chgw5" { TEXT "We slay him, brother-kin!" }
-	SUB	"ab1det_1" { TEXT "Hah! Scared?" }
-	SUB	"ab1det_2" { TEXT "Aww! The manflesh cowers!" }
-	SUB	"ab1det_3" { TEXT "Trembles, do you?" }
-	SUB	"ab1det_4" { TEXT "Run and hide?" }
-	SUB	"ab1detw1" { TEXT "We've scared the poor mansie!" }
-	SUB	"ab1grun1" { TEXT "Huh?" }
-	SUB	"ab1hhi_3" { TEXT "Ugh.... Curse you!" }
-	SUB	"ab1hit_1" { TEXT "Hah! Sees you bleeding!" }
-	SUB	"ab1hit_2" { TEXT "Throws you red for our Lord!" }
-	SUB	"ab1hit_3" { TEXT "Your blood feeds the grassies!" }
-	SUB	"ab1hit_4" { TEXT "Ready to run, yet?" }
-	SUB	"ab1hit_5" { TEXT "Bleed, manflesh!" }
-	SUB	"ab1hit_6" { TEXT "I finds your heart next!" }
-	SUB	"ab1hitw1" { TEXT "He staggers, brother-kin!" }
-	SUB	"ab1hitw2" { TEXT "We drive him back!" }
-	SUB	"ab1hitw3" { TEXT "I cutsies fleshes!" }
-	SUB	"ab1hlow1" { TEXT "Aaah! I bleed, brother-kin!" }
-	SUB	"ab1hnd_1" { TEXT "Hah! No blood from me!" }
-	SUB	"ab1hnd_2" { TEXT "Meant the mansie to hurt?" }
-	SUB	"ab1hnd_3" { TEXT "My skins be tougher than your iron!" }
-	SUB	"ab1lar_1" { TEXT "Hey! See this?" }
-	SUB	"ab1lar_2" { TEXT "Seesie here! Get help!" }
-	SUB	"ab1lar_3" { TEXT "Help! Looksie here!" }
-	SUB	"ab1los_1" { TEXT "Hhhggh! Uggh! Wheresie go?!" }
-	SUB	"ab1los_2" { TEXT "Hgggh! Hgggh! Catch you yet!" }
-	SUB	"ab1los_3" { TEXT "Sneaksie got away!" }
-	SUB	"ab1los_4" { TEXT "Ooh! Wheresie now?" }
-	SUB	"ab1mis_1" { TEXT "Thief! Sneaksie thief in here!" }
-	SUB	"ab1mis_2" { TEXT "Hey! Where'd that go?" }
-	SUB	"ab1mis_3" { TEXT "Wheresie go? Thief!" }
-	SUB	"ab1rbod1" { TEXT "A manflesh kills us, brother-kin!" }
-	SUB	"ab1rbod2" { TEXT "Sees one of us slain, already!" }
-	SUB	"ab1rbod3" { TEXT "Watches for the human who kills us!" }
-	SUB	"ab1rint1" { TEXT "Sees for a creeper around." }
-	SUB	"ab1rint2" { TEXT "I saw's me a sneaksie not long ago. Watches you." }
-	SUB	"ab1rint3" { TEXT "Watch for the lurksie humans. I saw someone." }
-	SUB	"ab1rmis1" { TEXT "A sneaksie thief robs us." }
-	SUB	"ab1rmis2" { TEXT "Tells the others! Watch for stealer takes our things!" }
-	SUB	"ab1rmis3" { TEXT "The thief's come to steals us away!" }
-	SUB	"ab1roth1" { TEXT "Sees the prints a sneaksie makes!" }
-	SUB	"ab1roth2" { TEXT "Keeps watch careful. I see something!" }
-	SUB	"ab1roth3" { TEXT "Someone creepsie by among us! Watches!" }
-	SUB	"ab1roth4" { TEXT "Be guards, you! I think there is something afoot!" }
-	SUB	"ab1roth5" { TEXT "I sees things! Watches you too!" }
-	SUB	"ab1runa1" { TEXT "Over heres!" }
-	SUB	"ab1runa2" { TEXT "This way! I heard...shot...manflesh!" }
-	SUB	"ab1runa3" { TEXT "Hey! Here! Help!" }
-	SUB	"ab1runa4" { TEXT "Ai! The manflesh threats with sword!" }
-	SUB	"ab1runa5" { TEXT "Guard me! Help!" }
-	SUB	"ab1sec_1" { TEXT "(Sniffs) Manflesh been through here!" }
-	SUB	"ab1sec_2" { TEXT "Who does with this?" }
-	SUB	"ab1sec_3" { TEXT "Over here!" }
-	SUB	"ab1sec_4" { TEXT "Looksie this! Someone's break in!" }
-	SUB	"ab1sma_1" { TEXT "Whatsie does this?" }
-	SUB	"ab1sma_2" { TEXT "Someone's a naughty boy!" }
-	SUB	"ab1sma_3" { TEXT "Who's been this here?" }
-	SUB	"ab1telc1" { TEXT "Foundsie the manflesh!" }
-	SUB	"ab1telc2" { TEXT "Manflesh over there!" }
-	SUB	"ab1telc3" { TEXT "Manflesh over here!" }
-	SUB	"ab1telc4" { TEXT "Sees him again!" }
-	SUB	"ab1telc5" { TEXT "Over here! Human, here!" }
-	SUB	"ab1telc6" { TEXT "Found him!" }
-	SUB	"ab1telr1" { TEXT "Manflesh among us!" }
-	SUB	"ab1telr2" { TEXT "A human comesie here!" }
-	SUB	"ab1telr3" { TEXT "Looksie there! Be an intruder!" }
-	SUB	"ab1telr4" { TEXT "Hey! Someone is here!" }
-	SUB	"ab1telr5" { TEXT "Look there! A sneaksie!" }
+	TYPE "bark"
+	DESCR "Opièí bestie"
+	SUB "ab1a1__1" { TEXT "Èožto?" }
+	SUB "ab1a1__4" { TEXT "Jé nìco?" }
+	SUB "ab1a1__6" { TEXT "Co tam?" }
+	SUB "ab1a1_w1" { TEXT "Hej! Co to ty?" }
+	SUB "ab1a1_w2" { TEXT "Nìco hýbe!" }
+	SUB "ab1a1h_1" { TEXT "Slyšáš to?" }
+	SUB "ab1a1h_2" { TEXT "Divný zvuk." }
+	SUB "ab1a1hw1" { TEXT "Slyš ty to?" }
+	SUB "ab1a1hw2" { TEXT "Slyšals to?" }
+	SUB "ab1a1hw3" { TEXT "Pšt, pšt! Slyšáš humbuk?" }
+	SUB "ab1a1hw4" { TEXT "Slyšáš nìco?" }
+	SUB "ab1a1hw5" { TEXT "Slyšáš taky?" }
+	SUB "ab1a1v_1" { TEXT "Oèi šejdí!" }
+	SUB "ab1a1v_2" { TEXT "Co vidí?" }
+	SUB "ab1a1vw1" { TEXT "Vidíš nìco?" }
+	SUB "ab1a1vw2" { TEXT "Hej! Vidíš totam?" }
+	SUB "ab1a1vw3" { TEXT "Taky koukáš?" }
+	SUB "ab1a1vw4" { TEXT "Tamhle! Nìco hnulo!" }
+	SUB "ab1a2__1" { TEXT "Teï vím, žes tam." }
+	SUB "ab1a2__2" { TEXT "Schovávej dál.... Stejnì najdu!" }
+	SUB "ab1a2__3" { TEXT "Co je to teï?" }
+	SUB "ab1a2__4" { TEXT "Kdo to tam slídí?" }
+	SUB "ab1a2__5" { TEXT "Hej, okamžitì vylez!" }
+	SUB "ab1a2__6" { TEXT "Kdo tam? Támhle!" }
+	SUB "ab1a2h_1" { TEXT "Slyšalsem to! Heh heh, pojï ven!" }
+	SUB "ab1a2h_2" { TEXT "Vylez ven, hlasný tafre!" }
+	SUB "ab1a2v_1" { TEXT "Vidíme! Vyjdi ven!" }
+	SUB "ab1a2v_2" { TEXT "Kdo tam špehuji?" }
+	SUB "ab1a3b_1" { TEXT "Zabils ho? Teï já tì zabiju!" }
+	SUB "ab1a3na1" { TEXT "Stùj, zlodìji!" }
+	SUB "ab1a3na2" { TEXT "Teï tì mám!" }
+	SUB "ab1a3na3" { TEXT "Hah! Našel tì!" }
+	SUB "ab1a3na4" { TEXT "Tady jsi! Drž!" }
+	SUB "ab1a3na5" { TEXT "Ukázal tváø, co?" }
+	SUB "ab1a3na6" { TEXT "Kde jsou teï tvé stíny, masáè!" }
+	SUB "ab1a3s_1" { TEXT "Aaah! Kdos tady?" }
+	SUB "ab1a3s_2" { TEXT "Hej!" }
+	SUB "ab1a3s_3" { TEXT "Yaa! Drž!" }
+	SUB "ab1a3s_4" { TEXT "Hah! Stùj!" }
+	SUB "ab1a3s_5" { TEXT "Hej, kdojs?" }
+	SUB "ab1alma1" { TEXT "Zvoò poplach!" }
+	SUB "ab1alma2" { TEXT "Pro poplach, já...!" }
+	SUB "ab1alma3" { TEXT "Poplach pro tebe! Zvoní ti smrtka!" }
+	SUB "ab1almw1" { TEXT "Zvonit poplach!" }
+	SUB "ab1amb_1" { TEXT "Bojuj se mnou, zákeøný zbabìlèe!" }
+	SUB "ab1amb_2" { TEXT "Ty stínový slídildký tafre!" }
+	SUB "ab1amb_3" { TEXT "Pojï za mì prolít svou krev, zbabìlèe!" }
+	SUB "ab1amb_4" { TEXT "Vyjde ven a bojuje!" }
+	SUB "ab1ambw1" { TEXT "Zasáhl mì èíhací vrah!" }
+	SUB "ab1ambw2" { TEXT "Jsme pøepadeni!" }
+	SUB "ab1ambw3" { TEXT "Zbabìlec z lidského masa mì poluje!" }
+	SUB "ab1atw_1" { TEXT "Chcípni, ty slíïáku!" }
+	SUB "ab1atw_2" { TEXT "Pro Lesùcha!" }
+	SUB "ab1atww1" { TEXT "Berem ho!" }
+	SUB "ab1bak_1" { TEXT "Hmm.... Teï nikdo." }
+	SUB "ab1bak_2" { TEXT "Zdá se nic." }
+	SUB "ab1bak_3" { TEXT "Muselo být nic." }
+	SUB "ab1bak_4" { TEXT "Slídil už pryè." }
+	SUB "ab1bak_5" { TEXT "Tma a ticho. Nic." }
+	SUB "ab1bak_6" { TEXT "Vše pryè." }
+	SUB "ab1bak_7" { TEXT "Teï nic." }
+	SUB "ab1bak_8" { TEXT "Nejspíš nic. Vždycky nic." }
+	SUB "ab1bkd_1" { TEXT "Pøíštì krvácíš!" }
+	SUB "ab1bkd_2" { TEXT "Masáè je rychlý." }
+	SUB "ab1bkd_3" { TEXT "Ještì ti poteèe krev!" }
+	SUB "ab1bkdw1" { TEXT "Rychlý, ten masáè!" }
+	SUB "ab1blk_1" { TEXT "Ha! Netrefil!" }
+	SUB "ab1blk_2" { TEXT "Masáèova ruka slabá!" }
+	SUB "ab1blk_3" { TEXT "Mùžu bojovat rovnou malá myš!" }
+	SUB "ab1blk_4" { TEXT "Neuspìješ!" }
+	SUB "ab1blkw1" { TEXT "Neublíží nám!" }
+	SUB "ab1bod_2" { TEXT "Haaggh! Naše krev se leje!" }
+	SUB "ab1chga3" { TEXT "Zábava pro mne!" }
+	SUB "ab1chgw1" { TEXT "Za ním!" }
+	SUB "ab1chgw2" { TEXT "Pomozte roztrhat masáèe!" }
+	SUB "ab1chgw3" { TEXT "Na nìj!" }
+	SUB "ab1chgw4" { TEXT "Pomozte dostat èlovìka!" }
+	SUB "ab1chgw5" { TEXT "Zabijeme ho, brate!" }
+	SUB "ab1det_1" { TEXT "Hah! Bojíš?" }
+	SUB "ab1det_2" { TEXT "Ó! Masáè zbabìlý!" }
+	SUB "ab1det_3" { TEXT "Tøeseš, co?" }
+	SUB "ab1det_4" { TEXT "Utíkej a schovej" }
+	SUB "ab1detw1" { TEXT "Vydìsili jsme chudáka panáèka!" }
+	SUB "ab1grun1" { TEXT "Hah?" }
+	SUB "ab1hhi_3" { TEXT "Ugh.... Proklínám tì!" }
+	SUB "ab1hit_1" { TEXT "Hah! Vidím krvácet!" }
+	SUB "ab1hit_2" { TEXT "Sèerveò pro našeho Pána!" }
+	SUB "ab1hit_3" { TEXT "Tvá krev krmí trávu!" }
+	SUB "ab1hit_4" { TEXT "Už pøipraven bìžet?" }
+	SUB "ab1hit_5" { TEXT "Krvácej, masáèi!" }
+	SUB "ab1hit_6" { TEXT "Pak najdu tvé srdce!" }
+	SUB "ab1hitw1" { TEXT "On se potácí, brate!" }
+	SUB "ab1hitw2" { TEXT "Zaženeme ho zpìt!" }
+	SUB "ab1hitw3" { TEXT "Øežu maso!" }
+	SUB "ab1hlow1" { TEXT "Aaa! Krvácím, brate!" }
+	SUB "ab1hnd_1" { TEXT "Hah! Žádná krev ze mì!" }
+	SUB "ab1hnd_2" { TEXT "Mìlo bolelo?" }
+	SUB "ab1hnd_3" { TEXT "Moje kùže tvrdší od železa!" }
+	SUB "ab1lar_1" { TEXT "Hej! Vidíš tohle?" }
+	SUB "ab1lar_2" { TEXT "Vidíš tady! Sežeò pomoc!" }
+	SUB "ab1lar_3" { TEXT "Pomoc! Kuk sem!" }
+	SUB "ab1los_1" { TEXT "Hhhggh! Uggh! Kam jdeš?!" }
+	SUB "ab1los_2" { TEXT "Hgggh! Hgggh! Ještì tì chytím!" }
+	SUB "ab1los_3" { TEXT "Slídil utekl!" }
+	SUB "ab1los_4" { TEXT "Kde teï?" }
+	SUB "ab1mis_1" { TEXT "Zlodìj! Zlodìj slídí tady!" }
+	SUB "ab1mis_2" { TEXT "Hej! Kam zmizelo?" }
+	SUB "ab1mis_3" { TEXT "Kam podìl? Zlodìj!" }
+	SUB "ab1rbod1" { TEXT "Masáè nás zabíjí, brate!" }
+	SUB "ab1rbod2" { TEXT "Vidím jednoho z nás zabili!" }
+	SUB "ab1rbod3" { TEXT "Hlídá èlovìka, který nás zabije!" }
+	SUB "ab1rint1" { TEXT "Vidí, jestli nìkdo plazí kolem." }
+	SUB "ab1rint2" { TEXT "Nedávno vidìl slídila. Bacha." }
+	SUB "ab1rint3" { TEXT "Bacha na èíhající lidi. Nìkoho vidìl." }
+	SUB "ab1rmis1" { TEXT "Slídil nás okrádá." }
+	SUB "ab1rmis2" { TEXT "Øekne ostatním! Bacha na zlodìje našich vìci!" }
+	SUB "ab1rmis3" { TEXT "Zlodìj nás pøišel ukrást!" }
+	SUB "ab1roth1" { TEXT "Vidí stopy po zlodìji!" }
+	SUB "ab1roth2" { TEXT "Dává bacha. Nìco vidím!" }
+	SUB "ab1roth3" { TEXT "Nìkdo mezi námi slídí! Hlídat!" }
+	SUB "ab1roth4" { TEXT "Buïte stráž! Tu nìco dìje!" }
+	SUB "ab1roth5" { TEXT "Vidím vìci! Hlídej tebe!" }
+	SUB "ab1runa1" { TEXT "Tady!" }
+	SUB "ab1runa2" { TEXT "Tudy! Slyšel... støeleného... masáèe!" }
+	SUB "ab1runa3" { TEXT "Hej! Tady! Pomoc!" }
+	SUB "ab1runa4" { TEXT "Masáè hrozí meèem!" }
+	SUB "ab1runa5" { TEXT "Chraò mne! Pomoc!" }
+	SUB "ab1sec_1" { TEXT "Masáèe cítím!" }
+	SUB "ab1sec_2" { TEXT "Kdo to dìlá?" }
+	SUB "ab1sec_3" { TEXT "Tady!" }
+	SUB "ab1sec_4" { TEXT "Podívejte na tohle! Nìkdo sem vloupal!" }
+	SUB "ab1sma_1" { TEXT "Co to dìlá?" }
+	SUB "ab1sma_2" { TEXT "Nìkdo zlobí!" }
+	SUB "ab1sma_3" { TEXT "Kdo to tady byl?" }
+	SUB "ab1telc1" { TEXT "Našel masáèe!" }
+	SUB "ab1telc2" { TEXT "Masáè tamhle!" }
+	SUB "ab1telc3" { TEXT "Masáè tady!" }
+	SUB "ab1telc4" { TEXT "Zase ho vidí!" }
+	SUB "ab1telc5" { TEXT "Tady! Èlovìk, tady!" }
+	SUB "ab1telc6" { TEXT "Našel ho!" }
+	SUB "ab1telr1" { TEXT "Masáè mezi námi!" }
+	SUB "ab1telr2" { TEXT "Pøišel sem èlovìk!" }
+	SUB "ab1telr3" { TEXT "Podívejte se! Vetøelec!" }
+	SUB "ab1telr4" { TEXT "Hej! Nìkdo je tady!" }
+	SUB "ab1telr5" { TEXT "Podívej tam! Slídil!" }
 }
