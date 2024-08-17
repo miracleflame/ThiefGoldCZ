@@ -28,7 +28,7 @@ SUB1
 	SUB "ab1a2__5" { TEXT "Hej, okamžitì vylez!" }
 	SUB "ab1a2__6" { TEXT "Kdo tam? Támhle!" }
 	SUB "ab1a2h_1" { TEXT "Slyšalsem to! Heh heh, pojï ven!" }
-	SUB "ab1a2h_2" { TEXT "Vylez ven, hlasný tafre!" }
+	SUB "ab1a2h_2" { TEXT "Vylez ven, hlasný taføe!" }
 	SUB "ab1a2v_1" { TEXT "Vidíme! Vyjdi ven!" }
 	SUB "ab1a2v_2" { TEXT "Kdo tam špehuji?" }
 	SUB "ab1a3b_1" { TEXT "Zabils ho? Teï já tì zabiju!" }
@@ -48,7 +48,7 @@ SUB1
 	SUB "ab1alma3" { TEXT "Poplach pro tebe! Zvoní ti smrtka!" }
 	SUB "ab1almw1" { TEXT "Zvonit poplach!" }
 	SUB "ab1amb_1" { TEXT "Bojuj se mnou, zákeøný zbabìlèe!" }
-	SUB "ab1amb_2" { TEXT "Ty stínový slídildký tafre!" }
+	SUB "ab1amb_2" { TEXT "Ty stínový slídildký taføe!" }
 	SUB "ab1amb_3" { TEXT "Pojï za mì prolít svou krev, zbabìlèe!" }
 	SUB "ab1amb_4" { TEXT "Vyjde ven a bojuje!" }
 	SUB "ab1ambw1" { TEXT "Zasáhl mì èíhací vrah!" }

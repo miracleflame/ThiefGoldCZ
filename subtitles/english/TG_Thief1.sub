@@ -9,7 +9,7 @@ SUB1
 	SUB "th106600" { TEXT "Slyšel jsem, e nìjakı nezávislı podnik podniká ve mìstì tìké operace." }
 	SUB "th106602" { TEXT "Hádám, e u se o nìj nemusíme bát!" }
 	SUB "th106700" { TEXT "Bafford zuøil, kdy se vrátil z vıletu a zjistil, e mu nìkdo ukradl jeho drahocenné ezlo!" }
-	SUB "th106702" { TEXT "Ty tafre! Kdybychom na nìkoho z Ramirezovıch lidí vytáhli kšeftit, byla by z toho válka!" }
+	SUB "th106702" { TEXT "Ty taføe! Kdybychom na nìkoho z Ramirezovıch lidí vytáhli kšeftit, byla by z toho válka!" }
 	SUB "th106704" { TEXT "Pravdìpodobnì Garrett. Ten jedinı je dost mazanı a pošetilı na to, aby takovou práci zvládl." }
 	SUB "th106800" { TEXT "Hej, slyšel jsi, co se stalo Gibsonovi?" }
 	SUB "th106802" { TEXT "Dostal dvacet let v Horoštìpu! V Baffordovì sídle vzal kšeft za old." }	
@@ -64,7 +64,7 @@ SUB1
 	SUB "th1a3b_1" { TEXT "Nìjak se mi nezdá, e by to tam tvùj kamarád pøehnal s pitím!" }
 	SUB "th1a3na1" { TEXT "Stát!" }
 	SUB "th1a3na2" { TEXT "Ani se nehni!" }
-	SUB "th1a3na3" { TEXT "Mám tì pod kontrolou, tafre!" }
+	SUB "th1a3na3" { TEXT "Mám tì pod kontrolou, taføe!" }
 	SUB "th1a3na4" { TEXT "Sednout, Garrette!" }
 	SUB "th1a3na5" { TEXT "Šéf si myslel, e bys mohl zkusit nìco tak hloupého!" }
 	SUB "th1a3s_1" { TEXT "Garrette! Jsi blázen, e jsi sem pøišel!" }
@@ -74,7 +74,7 @@ SUB1
 	SUB "th1a3s_5" { TEXT "A tì najdu, pošlu na tebe psy!" }
 	SUB "th1a3se2" { TEXT "Vylez, vylez, a jsi kdekoli!" }
 	SUB "th1a3se3" { TEXT "Ne aby sis myslel, e na tebe zapomenu!" }
-	SUB "th1a3se4" { TEXT "Nezùstaneš dlouho schovanı, tafre!" }
+	SUB "th1a3se4" { TEXT "Nezùstaneš dlouho schovanı, taføe!" }
 	SUB "th1alma1" { TEXT "Spuste poplach!" }
 	SUB "th1almw1" { TEXT "Jdi spustit poplach! Já ho zdrím!" }
 	SUB "th1almw2" { TEXT "Sakra, to je Garrett! Spuste poplach!" }

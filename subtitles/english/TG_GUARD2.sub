@@ -42,7 +42,7 @@ SUB1
 	SUB "sg2a2h_1" { TEXT "Kdo tam chodí? Kdo udìlal ten rámus?" }
 	SUB "sg2a2h_2" { TEXT "To jsem slyšel! Ukaž se! Myslím to vážnì!" }
 	SUB "SG2A2H_3" { TEXT "Slyšel jsem tì!" }
-	SUB "SG2A2SE1" { TEXT "Dobøe, ty tafre, najdu tì!" }
+	SUB "SG2A2SE1" { TEXT "Dobøe, ty taføe, najdu tì!" }
 	SUB "SG2A2SE2" { TEXT "Dlouho se neschováš!" }
 	SUB "SG2A2SE3" { TEXT "Jen poèkej, až tì najdu!" }
 	SUB "SG2A2SE4" { TEXT "Dobøe, kde jsi?" }
@@ -52,7 +52,7 @@ SUB1
 	SUB "SG2A3NA1" { TEXT "Zahrávej si se mnou a je z tebe maso pro vrány, hochu!" }
 	SUB "SG2A3NA2" { TEXT "Máme tu narušitele!" }
 	SUB "SG2A3NA3" { TEXT "Nemysli si, že mùžeš zase jen tak zmizet ve stínech, chytráku! Vidím tì!" }
-	SUB "SG2A3NA4" { TEXT "Nepokoušej se utéct, tafre! Prostì se vzdej!" }
+	SUB "SG2A3NA4" { TEXT "Nepokoušej se utéct, taføe! Prostì se vzdej!" }
 	SUB "SG2A3NA5" { TEXT "Stùj!" }
 	SUB "SG2A3NA6" { TEXT "Pohni se a je po tobì! Nezkoušej to!" }
 	SUB "SG2A3S_1" { TEXT "Áá! Zastav se!" }
@@ -107,7 +107,7 @@ SUB1
 	DESCR "Hlídka"
 	SUB "SG2C0102" { TEXT "Ts! Nezaplatili mi dost!" }
 	SUB "SG2C0104" { TEXT "Ne, ne! Je mi z toho zle! Když jsem byl malý..." }
-	SUB "SG2C0106" { TEXT "Sklapni, ty tafre! Chceš krev? Mìl jsi tam být pøed lety! Øeknu ti... medvìdi tehdy? Bylo se na co dívat. Ti medvìdi nepotøebovali žádné bodce na tváøe, žiletkové obojky, háky na tlapy a všechny ty nože, co jim teï nasazujou!" }
+	SUB "SG2C0106" { TEXT "Sklapni, ty taføe! Chceš krev? Mìl jsi tam být pøed lety! Øeknu ti... medvìdi tehdy? Bylo se na co dívat. Ti medvìdi nepotøebovali žádné bodce na tváøe, žiletkové obojky, háky na tlapy a všechny ty nože, co jim teï nasazujou!" }
 	SUB "SG2C0108" { TEXT "Hah! Naaa! Tehdejší medvìdi mìli drápy dlouhé jako tvùj prst! A strašné tesáky!" }
 	SUB "SG2C0110" { TEXT "Proto teï nemùžu vystát Jámy! Ani nevíš, o co jsi pøišel. Medvìdi už prostì nejsou jako kdysi...." }
 	SUB "Sg2c0702" { TEXT "Eh, mohlo to být horší." }
@@ -162,7 +162,7 @@ SUB1
 	SUB "SG2DET_3" { TEXT "Myslíš, že to pomùže?" }
 	SUB "SG2DETW1" { TEXT "Teï z nás má plné gatì." }
 	SUB "SG2HIT_1" { TEXT "Mám tì!" }
-	SUB "SG2HIT_3" { TEXT "Vzdej to, tafre!" }
+	SUB "SG2HIT_3" { TEXT "Vzdej to, taføe!" }
 	SUB "SG2HIT_4" { TEXT "To musí bolet!" }
 	SUB "SG2HITW1" { TEXT "Máme ho v koutì!" }
 	SUB "SG2HITW2" { TEXT "Jsi na øadì!" }

@@ -50,7 +50,7 @@ SUB1
 	SUB "SG3A2H_2" { TEXT "Koho jsem tam slyšel?" }
 	SUB "Sg3a2se1" { TEXT "Tak pojï ven!" }
 	SUB "Sg3a2se2" { TEXT "Nenu mì, abych tì hledal!" }
-	SUB "Sg3a2se3" { TEXT "Kde jsi, ty tafre?" }
+	SUB "Sg3a2se3" { TEXT "Kde jsi, ty taføe?" }
 	SUB "Sg3a2se4" { TEXT "Brzy tì najdu." }
 	SUB "SG3A2V_1" { TEXT "Vidím tì tam! Uka se!" }
 	SUB "SG3A3B_1" { TEXT "Hej! Polo ho! Pojï sem!" }
@@ -80,7 +80,7 @@ SUB1
 	SUB "SG3AMBW3" { TEXT "Jsem napaden! Au!" }
 	SUB "Sg3atb_1" { TEXT "Hromada bolesti pro tebe!" }
 	SUB "Sg3atb_2" { TEXT "Zkus to chytit!" }
-	SUB "Sg3atb_3" { TEXT "Nemùeš bìet rychleji ne šíp, tafre!" }
+	SUB "Sg3atb_3" { TEXT "Nemùeš bìet rychleji ne šíp, taføe!" }
 	SUB "SG3ATN_1" { TEXT "Zesyp se!" }
 	SUB "SG3ATN_2" { TEXT "Tu máš!" }
     SUB "SG3ATW_1" { TEXT "U tì mám!" }
@@ -114,7 +114,7 @@ SUB1
 	SUB "SG3C0109" { TEXT "Medvìdi? To si ze mì dìláš prdel! Vypadají docela neškodnì, pokud nemají na sobì postroj." }
 	SUB "SG3C0111" { TEXT "Wou.... Zabijáètí medvìdi. To bych chtìl vidìt...." }
 	SUB "Sg3c0602" { TEXT "Ná, ty pokadé vyhraješ. Pøišel jsem u o dost penìz." }
-	SUB "Sg3c0604" { TEXT "Jako by mi to pomohlo, ty tafre." }
+	SUB "Sg3c0604" { TEXT "Jako by mi to pomohlo, ty taføe." }
 	SUB "Sg3c0606" { TEXT "Nooo...." }
 	SUB "Sg3c0608" { TEXT "Mmm, dobøe. Eee... Kámen!" }
 	SUB "Sg3c0610" { TEXT "Proklatì! Jak to dìláš? Tady máš." }
@@ -156,7 +156,7 @@ SUB1
 	SUB "SG3CHGW2" { TEXT "Chyte ho!" }
 	SUB "SG3CHGW3" { TEXT "Chyte toho tafra!" }
 	SUB "SG3DET_1" { TEXT "Ach, toèíme elvu?" }
-	SUB "SG3DET_2" { TEXT "Poèkám, tafre...! Mám èas." }
+	SUB "SG3DET_2" { TEXT "Poèkám, taføe...! Mám èas." }
 	SUB "SG3DET_3" { TEXT "Utíkaš strachy?" }
 	SUB "SG3FRE_1" { TEXT "Pokraèujte v ceste." }
 	SUB "SG3FRE_2" { TEXT "No tak, dej si pohov." }
@@ -167,7 +167,7 @@ SUB1
 	SUB "SG3HITW2" { TEXT "Teï ho udeø!" }
 	SUB "SG3HLOW1" { TEXT "Ne! Nemùu... u víc......." }
 	SUB "SG3HND_2" { TEXT "To mìlo bolet?" }
-	SUB "SG3HND_3" { TEXT "Pìkné milostné pohlazení, tafre!" }
+	SUB "SG3HND_3" { TEXT "Pìkné milostné pohlazení, taføe!" }
 	SUB "SG3LAR_1" { TEXT "Podívejte se na toho tafra! Hej, tady!" }
     SUB "SG3LAR_2" { TEXT "Podívej se sem!" }
 	SUB "SG3LOS_1" { TEXT "O-ou, je nìkde tady." }

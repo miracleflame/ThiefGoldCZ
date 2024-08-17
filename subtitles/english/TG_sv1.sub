@@ -4,7 +4,7 @@ SUB1
 	TYPE "convo"
     DESCR "Sluebník"
 	SUB "sv106300" { TEXT "Udeø mì." }
-	SUB "sv106302" { TEXT "Jo, jo, tafre, rozdej mi další karty." }
+	SUB "sv106302" { TEXT "Jo, jo, taføe, rozdej mi další karty." }
     SUB "sv106304" { TEXT "A tì Šejdíø najde ve tmì...." }
 	SUB "sv106306" { TEXT "Øekl jsem 'Udeø mì'!" }
 	SUB "sv1a0mu1" { TEXT "Další noc.... Další dlouhá, osamìlá noc.... Bloudìní kolem...." }

@@ -73,11 +73,11 @@ SUB1
 	SUB "SG1A3NA7" { TEXT "Stùj, Garrette! Pohni se a jsi mrtvı!" }
 	SUB "sg1a3s_1" { TEXT "Hah! Kdo jsi?!" }
 	SUB "sg1a3s_2" { TEXT "Hej, odkud jsi pøišel?" }
-	SUB "sg1a3s_3" { TEXT "Hej! Stùj, ty tafre!" }
+	SUB "sg1a3s_3" { TEXT "Hej! Stùj, ty taføe!" }
 	SUB "sg1a3s_4" { TEXT "Hej!" }
 	SUB "sg1a3se1" { TEXT "Vylez a bojuj se mnou!" }
 	SUB "sg1a3se2" { TEXT "Jakmile tì najdu, jsi mrtvı!" }
-	SUB "sg1a3se3" { TEXT "Vra se sem, ty tafre!" }
+	SUB "sg1a3se3" { TEXT "Vra se sem, ty taføe!" }
 	SUB "sg1a3se4" { TEXT "Najdu tì... zatracenì!" }
 	SUB "sg1alma1" { TEXT "Do zbranì, všichni!" }
 	SUB "sg1alma2" { TEXT "Spuste poplach!" }
@@ -91,12 +91,12 @@ SUB1
 	SUB "sg1ambw1" { TEXT "Pomoc, byl jsem zasaen!" }
 	SUB "sg1ambw2" { TEXT "Pomoc, byl jsem postøelen!" }
 	SUB "sg1ambw3" { TEXT "Uff, ostøelovaè!" }
-	SUB "sg1atb_1" { TEXT "Je z tebe polštáøek na špendlíky, tafre!"  }
+	SUB "sg1atb_1" { TEXT "Je z tebe polštáøek na špendlíky, taføe!"  }
 	SUB "sg1atb_2" { TEXT "Tady máš šíp!" }
 	SUB "sg1atb_3" { TEXT "Brzy budeš mít plno dìr!" }
 	SUB "sg1atn_1" { TEXT "Tu máš!" }
 	SUB "sg1atn_2" { TEXT "Mìj se!" }
-	SUB "sg1atw_1" { TEXT "Chcípni, tafre!" }
+	SUB "sg1atw_1" { TEXT "Chcípni, taføe!" }
 	SUB "sg1atw_2" { TEXT "Jaké to je?" }
 	SUB "sg1atww1" { TEXT "U ho máme!" }
 	SUB "sg1bak_1" { TEXT "Hmm... Teï u tam nic není." }
@@ -156,7 +156,7 @@ SUB1
 	SUB "sg1c1805" { TEXT "S funkèním spláchováním u asi dlouho poèítat nemusíme." }
 	SUB "sg1c1901" { TEXT "Pøemıšlel jsem...: Pán by mohl opravdu trochu posílit bezpeènost." }
 	SUB "sg1c1903" { TEXT "No, jsme v pohodì, ale pøemıšlel jsem, e bychom mìli víc hlídat venku." }
-    SUB "sg1c1905" { TEXT "Tak je aspoò chytíš døív, ne se dostanou dovnitø, ty tafre!"  }
+    SUB "sg1c1905" { TEXT "Tak je aspoò chytíš døív, ne se dostanou dovnitø, ty taføe!"  }
 	SUB "sg1c2101" { TEXT "Nemùu vystát to jídlo tady! Ach, tohle místo!" }
 	SUB "sg1c2103" { TEXT "No jo, snad nìkdy pøíštì." }
 	SUB "sg1c2202" { TEXT "Asi ne... ale nevymìkni." }
@@ -170,7 +170,7 @@ SUB1
 	SUB "sg1c3202" { TEXT "Ne. Docela klid." }
 	SUB "sg1c3602" { TEXT "Nic moc." }
 	SUB "sg1c3701" { TEXT "Nesnáším noèní hlídky." }
-	SUB "sg1c3802" { TEXT "To jsem já, ty tafre!" }
+	SUB "sg1c3802" { TEXT "To jsem já, ty taføe!" }
 }
 {
 	TYPE	"bark"
@@ -182,7 +182,7 @@ SUB1
 	SUB "sg1chgw3" { TEXT "Za ním!" }
 	SUB "sg1det_1" { TEXT "Bojíme se?" }
 	SUB "sg1det_2" { TEXT "Otoè se a bì!" }
-	SUB "sg1det_3" { TEXT "Nechceš to schytat, tafre?" }
+	SUB "sg1det_3" { TEXT "Nechceš to schytat, taføe?" }
 	SUB "sg1detw1" { TEXT "Nyní je v obranì!" }
 	SUB "sg1hit_1" { TEXT "Jaké to je?" }
 	SUB "sg1hit_2" { TEXT "Vidíš krev?" }
@@ -193,7 +193,7 @@ SUB1
 	SUB "sg1hlow1" { TEXT "Uuughhh! Pomozte mi!" }
 	SUB "sg1hnd_1" { TEXT "Ani škrábnutí!" }
 	SUB "sg1hnd_2" { TEXT "Ooo! Myslím, e mì klovl ptáèek!" }
-	SUB "sg1hnd_3" { TEXT "Budeš se muset snait víc, tafre!" }
+	SUB "sg1hnd_3" { TEXT "Budeš se muset snait víc, taføe!" }
 	SUB "sg1lar_1" { TEXT "Tohle je katastrofa.... Pomoc!" }
 	SUB "sg1lar_2" { TEXT "Ale ne, pán nás pøipraví o hlavu!" }
 	SUB "sg1lar_3" { TEXT "Proklatì. Seeòte pomoc!" }
