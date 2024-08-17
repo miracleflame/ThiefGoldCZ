@@ -11,7 +11,7 @@ SUB1
 	SUB "conpom3" { TEXT "Ohni, hoø a plaò árem! Tys plotù ohoøelıch králem! Na uhel lidské maso spal! Vızbroj jim roztav a tanèi dál! Lidskıch bláznù sklízej strach! Volám oheò, volám rudou, ach: Vra minulost, a z ní není prach!"}
 	SUB "conpom4" { TEXT "Pøílive a odlive, stoupej a klesej zas! Záplavy, déštì i bouøe pøepadnìte nás! Pøehrady trhejte a hròte z bahna hráz! Húlavy vijte, moøské vlny bijte jako ïas! Stoky pøetékejte a trubky ucpìte se zas! Volám vlnu, modrou volám: pøines novı svìt znovu nám."}
 	SUB "conpom5" { TEXT "Kameny, drte a zemí chvìjte! Rozbijte dladice, sloupy otøásejte! Cihly tøíštíce, lámejte a rozházejte! Temné pùdy, okna rozbíjejte! Zemské rudy, zdi strhávejte! Povolejte zem, povolejte hnìï: svìt, jen zhroutil se, navrate teï!"}	
-	SUB "conpom6" { TEXT "Noci svìtlo sme! Lampu zhasni, nech jas je pryè. Vlhko s rosou je ten klíè. Nech nikdy se ji nevyjasní. Mezi nás teï postav zeï. Zùstaò uvnitø, tmy se boj, nech se šíøí nepokoj!." }	
+	SUB "conpom6" { TEXT "Noci, vra se, svìtlo zhas! Rozbij lampy, zaèerò jas! Rosa a chlad, a zahalí nás! Zùstaòte v skrytu, tma je zas! Zùstaòte uvnitø, je tu noci ïas! Volám temno, volám zpìt: Vra èerò zase na náš svìt!" }	
 	SUB "consee1" { TEXT "Garrett! Mùj zlodìjskı blázne, ještì iješ?" }
 	SUB "consee2" { TEXT "Pøicházíš honit svou smrt, Garrette? Lepší pro tebe je zùstat na povrchu!" }
 	SUB "consee3" { TEXT "Pøijï si povolat svou smrt!" }
