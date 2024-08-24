@@ -198,11 +198,12 @@ SUB1
 	SUB "garm1202" { TEXT "No, tohle je... zajímavé, ale neøíká to nic o Oku." }
 	SUB "garm1203" { TEXT "Páni... Heh... ani Kladiváøi v tom nenašli hlavu nebo patu, ale nevypadá to dobøe." }
 	SUB "garm1301" { TEXT "Co se tu stalo? A kde jsou všichni Kladiváøi?!" }
+	SUB	"garm1302" { TEXT "Sakra! Vypadá to, že mì Konstatntin pøedbìhl." }
 	SUB "garm1303" { TEXT "Vypadá to, že by to pro mì a veleknìze mohla být dobrá úniková cesta." }
 	SUB "garm1401" { TEXT "Tak tohle je moje cesta ven. Radši to nezvorat." }
 	SUB "garm1402" { TEXT "Tohle nemùže vést na žádné pøíjemné místo." }
 	SUB "garm1403" { TEXT "Vy všichni ostatní démoni... Mùžete teï zùstat doma." }
-	SUB "garm1404" { TEXT "A teï už to nebudeme zkoušet." }
+	SUB "garm1404" { TEXT "Tohle už to nebudeme znovu zkoušet." }
 	SUB "garm1405" { TEXT "To si ze mì dìláte srandu." }
 	SUB "garm1406" { TEXT "Hah. Tak to je velký!" }
 	SUB "garm1407" { TEXT "Ó, zajímavé." }

@@ -22,7 +22,7 @@ SUB1
 	SUB "ab2a1vw4" { TEXT "Vidíš to, brate?" }
 	SUB "ab2a1vw5" { TEXT "Vidí nìco taky?" }
 	SUB "ab2a2__1" { TEXT "Kdo je tam? Vyleze." }
-	SUB "ab2a2__2" { TEXT "Ukaž se, taføe!" }
+	SUB "ab2a2__2" { TEXT "Ukaž se, tafre!" }
 	SUB "ab2a2__3" { TEXT "Vylez, vylez, myšáku zlodìjská!" }
 	SUB "ab2a2__4" { TEXT "Staèí! Vylez ven, hned!" }
 	SUB "ab2a2__5" { TEXT "Už vím, že jsi tam!" }
@@ -39,6 +39,43 @@ SUB1
 	SUB "ab2a3na5" { TEXT "Našel tì teï." }
 	SUB "ab2a3na6" { TEXT "Tady myška: boj koèky!" }
 	SUB "ab2a3na7" { TEXT "Teï už není taková lest!" }
+	SUB "ab2a3s_1" { TEXT "Aah! Stùj!" }
+	SUB "ab2a3s_3" { TEXT "Sakra! Co ty tu?" }
+	SUB "ab2a3s_4" { TEXT "Hej! Tady masáè!" }
+	SUB "ab2alma1" { TEXT "Na poplach!" }
+	SUB "ab2alma2" { TEXT "Rychle, na poplach!" }
+	SUB "ab2alma3" { TEXT "Volat zbytek, jedu!" }
+	SUB "ab2almw1" { TEXT "Rychle... vyhlaste poplach!" }
+	SUB "ab2almw2" { TEXT "Na poplach! Schovává slídil!" }
+	SUB "ab2amb_1" { TEXT "Tady, vylez a zkus znovu!" }
+	SUB "ab2amb_2" { TEXT "Tady, kdes ty èíhací støelec!" }
+	SUB "ab2amb_3" { TEXT "Nyuuugh! Bojuj se mnou, zbabìlèe!" }
+	SUB "ab2amb_4" { TEXT "Má krev tì volá zrádcem!" }
+	SUB "ab2ambw1" { TEXT "Uuggh.... Pøepadení!" }
+	SUB "ab2ambw2" { TEXT "Aaagh! Støelec mì krvácí!" }
+	SUB "ab2ambw3" { TEXT "Aaagh! Jsem zasažen, brate!" }
+	SUB "ab2atw_1" { TEXT "Teï zemøeš!" }
+	SUB "ab2atww1" { TEXT "Pijeme jeho krev, že ano?" }
+	SUB "ab2atww2" { TEXT "Dáváme jeho kosti noci!" }
+	SUB "ab2bak_1" { TEXT "Hbité stíny všechny prázdné." }
+	SUB "ab2bak_2" { TEXT "Hádám nic." }
+	SUB "ab2bak_3" { TEXT "Pøestaò skákat. Nic tam." }
+	SUB "ab2bak_4" { TEXT "Nikdo, nic." }
+	SUB "ab2bak_5" { TEXT "Tentokrát ne. Slídil pøíštì." }
+	SUB "ab2bak_6" { TEXT "Vše ticho." }
+	SUB "ab2bak_7" { TEXT "No jo, nikdo doma." }
+	SUB "ab2bkd_1" { TEXT "Vyhýbavý masáè!" }
+	SUB "ab2bkd_2" { TEXT "Eeeeh! Zase vyhnul, slídil!" }
+	SUB "ab2bkdw1" { TEXT "Masáè myslí, že mùže blokovat navždy!" }
+	SUB "ab2blk_1" { TEXT "Zase schováváš, masáè?" }
+	SUB "ab2blk_2" { TEXT "Minul!" }
+	SUB "ab2blk_3" { TEXT "Slabýs!" }
+	SUB "ab2blkw1" { TEXT "Slídil pomalý!" }
+	SUB "ab2bod_1" { TEXT "Vracíš k zemi, ano!" }
+	SUB "ab2bod_2" { TEXT "I ty zemøeš, masáè!" }
+	SUB "ab2chga3" { TEXT "Ty teï zemøeš!" }
+	SUB "ab2chgw1" { TEXT "Pomùže ho dostat!" }
+	SUB "ab2chgw2" { TEXT "Aaah, zraž ho!" }
 	SUB "ab2chgw3" { TEXT "Èlovìk útoèí!" }
 	SUB "ab2chgw4" { TEXT "Na nìj!" }
 	SUB "ab2det_1" { TEXT "Chce schovat?" }
@@ -46,7 +83,7 @@ SUB1
 	SUB "ab2det_3" { TEXT "Gaak! Malé mìkké bøíško!" }
 	SUB "ab2det_4" { TEXT "Dìsím tì, co?" }
 	SUB "ab2detw1" { TEXT "Dìsí se nás?" }
-    SUB "ab2detw2" { TEXT "Masáè srab!"	}
+	SUB "ab2detw2" { TEXT "Masáè srab!"	}
 	SUB "ab2hhi_3" { TEXT "Ech! K èertu tvé oko!" }
 	SUB "ab2hit_1" { TEXT "Cítím tvé krvavé maso!" }
 	SUB "ab2hit_2" { TEXT "Krev masáèe sladká!" }

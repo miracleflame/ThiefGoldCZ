@@ -1,0 +1,11 @@
+// Sim menu strings
+
+continue:       "Pokraèovat"
+load_game:      "Nahrát"
+save_game:      "Uložit"
+options:        "Volby"
+map:            "Mapa"
+objectives:     "Cíl mise"
+quit:           "Konec" 
+restart:        "Znovu"
+
